@@ -1,0 +1,26 @@
+CircleMUD v3.0 Shop File~
+#9200~
+9206
+-1
+5.00
+2.00
+5
+-1
+%s I don't have that neither under my bed...~
+%s You don't have that you jerk!~
+%s I don't like that kind of stuff.~
+%s Well ,I'm out of my money...~
+%s You are poor you homeless!~
+%s Give me my gold! It'll be %d coins.~
+%s I really don't like to pay for something ,but I'll give you %d coins for that.~
+0
+2
+9206
+0
+9213
+-1
+0
+28
+0
+0
+$~

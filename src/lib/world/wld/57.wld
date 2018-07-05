@@ -1,0 +1,387 @@
+#5700
+The Begining~
+Empty~
+57 0 0 0 0 3
+D0
+~
+~
+0 0 5701
+S
+#5701
+The Road~
+Empty~
+57 0 0 0 0 12
+D0
+~
+~
+0 0 5702
+D2
+~
+~
+0 0 5700
+S
+#5702
+The Road~
+Empty~
+57 4 0 0 0 12
+D0
+~
+~
+0 0 5703
+D2
+~
+~
+0 0 5701
+S
+#5703
+The Road~
+Empty~
+57 0 0 0 0 12
+D0
+~
+~
+0 0 5704
+D2
+~
+~
+0 0 5702
+S
+#5704
+The Road~
+Empty~
+57 5 0 0 0 12
+D0
+~
+~
+0 0 5705
+D1
+entrance
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 5703
+A
+1
+S
+#5705
+Bridge~
+Empty~
+57 0 0 0 0 12
+D0
+The Gate
+~
+gate~
+1 0 5707
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 5704
+S
+#5706
+South Tower~
+Empty~
+57 0 0 0 0 0
+D0
+~
+~
+0 0 5710
+D2
+The gate
+~
+The Gate~
+1 0 5707
+D4
+~
+~
+0 0 5708
+S
+#5707
+Entrance to the South Tower~
+Empty~
+57 0 0 0 0 0
+D0
+The Dark Door
+~
+Door~
+2 5701 5706
+D2
+The Gate
+~
+gate~
+1 0 5705
+S
+#5708
+Upstairs of the South Tower~
+Empty~
+57 0 0 0 0 0
+D4
+~
+~
+0 0 5709
+D5
+~
+~
+0 0 5706
+S
+#5709
+Balcony of the South Tower~
+Empty~
+57 0 0 0 0 0
+D5
+~
+~
+0 0 5708
+S
+#5710
+South corner of the Castle~
+Empty~
+57 0 0 0 0 0
+D0
+~
+~
+0 0 5717
+D2
+~
+~
+0 0 5706
+S
+#5711
+Noth Tower~
+Empty~
+57 0 0 0 0 0
+D2
+~
+~
+0 0 5713
+D4
+~
+~
+0 0 5712
+S
+#5712
+Upstairs of the North Tower~
+Empty~
+57 0 0 0 0 0
+D4
+~
+~
+0 0 5714
+D5
+~
+~
+0 0 5711
+S
+#5713
+North corner of the Castle~
+Empty~
+57 0 0 0 0 0
+D0
+~
+~
+0 0 5711
+D2
+~
+~
+0 0 5715
+S
+#5714
+Balcony of the North Tower~
+Empty~
+57 0 0 0 0 0
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 5712
+S
+#5715
+In the Castle~
+Empty~
+57 0 0 0 0 0
+D0
+~
+~
+0 0 5713
+D2
+~
+~
+0 0 5716
+S
+#5716
+Castle square~
+Empty~
+57 0 0 0 0 0
+D0
+~
+~
+0 0 5715
+D1
+~
+~
+0 0 5718
+D2
+~
+~
+0 0 5717
+D3
+~
+~
+0 0 5721
+D5
+~
+~
+0 0 5725
+S
+#5717
+In the Castle~
+Empty~
+57 0 0 0 0 0
+D0
+~
+~
+0 0 5716
+D2
+~
+~
+0 0 5710
+S
+#5718
+In the Castle~
+Empty~
+57 0 0 0 0 0
+D1
+~
+~
+0 0 5719
+D3
+~
+~
+0 0 5716
+S
+#5719
+East corner of the Castle~
+Empty~
+57 0 0 0 0 0
+D1
+~
+~
+0 0 5720
+D3
+~
+~
+0 0 5718
+S
+#5720
+East Tower~
+Empty~
+57 0 0 0 0 0
+D3
+~
+~
+0 0 5719
+S
+#5721
+In the Castle~
+Empty~
+57 0 0 0 0 0
+D1
+~
+~
+0 0 5716
+D3
+~
+~
+0 0 5722
+S
+#5722
+West corner of the Castle~
+Empty~
+57 0 0 0 0 0
+D1
+~
+~
+0 0 5721
+D3
+~
+~
+0 0 5723
+S
+#5723
+West Tower~
+Empty~
+57 0 0 0 0 0
+D1
+~
+~
+0 0 5722
+S
+#5725
+podzemie~
+Empty~
+57 0 0 0 0 0
+D4
+~
+~
+0 0 5716
+D5
+~
+~
+0 0 5726
+S
+#5726
+An unfinished room~
+Empty~
+57 0 0 0 0 0
+D0
+~
+~
+0 0 5727
+D4
+~
+~
+0 0 5725
+S
+#5727
+An unfinished room~
+Empty~
+57 0 0 0 0 0
+D2
+~
+~
+0 0 5726
+S
+#5796
+Spalena Zem~
+You are in an unfinished room.
+  Vidis do dialky sa tiahnucu planinu, povrch ktorej je uplne spaleny.
+  Je to asi dosledok magickeho poziaru, lebo obycajny poziar by nedokazal 
+  sposobit taku spust.
+~
+57 524288 0 0 0 2
+S
+#5797
+Vazanie~
+Empty~
+57 786609 0 0 0 0
+S
+#5798
+Dudyho pracovna :))~
+V tejto miestnosti travi DUDY vecsinu svojho casu.
+~
+57 0 0 0 0 0
+D1
+~
+~
+0 0 -1
+S
+$~

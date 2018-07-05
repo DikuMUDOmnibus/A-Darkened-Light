@@ -1,0 +1,28 @@
+#9016
+token~
+a transporter token~
+A small round token has been left here.~
+~
+13 88084480 0 0 0 16385
+0 0 0 0
+2 100 10
+#9017
+machine~
+a token machine~
+A transporter token machine is mounted on the wall.~
+~
+13 0 0 0 0 0
+0 0 0 0
+1000 0 0
+E
+machine~
+There is a note stuck to the side of it that says:
+
+    CircleMUD transporter tokens cost 500 coins each, and once you board
+the transporter, you can stay on it as long as you like.
+    Type BUY to buy a token or type LIST to view timetables of all lines
+going through this station.
+~
+S
+token_machine
+$~

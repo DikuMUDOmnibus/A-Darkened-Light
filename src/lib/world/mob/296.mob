@@ -1,0 +1,34 @@
+#29600
+sentry orc~
+an Orc sentry~
+An Orc sentry has fallen asleep at his post here.
+~
+This vile creature has been assigned to prevent unwanted visitors, but 
+innate
+laziness combined with generous servings of Orcish Ale have rendered him
+quite ineffective at even this simple task.
+~
+26635 0 2 0 8 5 0 0 900 E
+11 0 0 2d8+134 1d10+2
+20 0
+8 8 1
+MaxMove: 50
+E
+#29601
+hades lord dead~
+Hades Lord of the Dead~
+Lucifer the death god is hovering here, waiting for bribes.
+~
+Hades is dedicated to the evil.
+~
+134244362 0 2 0 8 1048581 0 0 1900 E
+40 0 0 30d20+20000 90d20+20
+10000 10000
+8 8 1
+MaxMove: 50
+E
+>speech_prog gossip i am your new master~
+gossip i am your new master!
+~
+|
+$

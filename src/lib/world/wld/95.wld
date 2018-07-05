@@ -1,0 +1,185 @@
+#9500
+Somewhere in meditterean sea~
+Everywhere where you look is only sea.. Large blue sea.. It is driving
+your nuts.. Somewhere here is the entrance to Atlantis.. Unfortunately
+it is thousands of feets under the sealevel.. Let you find it..
+~
+95 0 0 0 0 6
+D0
+Only water..
+~
+~
+0 0 9501
+D1
+Only water..
+~
+~
+0 0 9501
+D2
+Only water..
+~
+~
+0 0 9502
+D3
+Only water..
+~
+~
+0 0 9501
+S
+#9501
+Somewhere in meditterean sea~
+You are surrounded by mass of water.. You feel lost here.. You cannot be
+sure of surviving here.. Let you get away from this water hell..
+~
+95 0 0 0 0 7
+D0
+Only water..
+~
+~
+0 0 9501
+D1
+Only water..
+~
+~
+0 0 9501
+D2
+Only water..
+~
+~
+0 0 9500
+D3
+Only water..
+~
+~
+0 0 9501
+S
+#9502
+Somewhere in meditterean sea~
+You are surrounded by mass of water.. You feel lost here.. You cannot be
+sure of surviving here.. Let you get away from this water hell..
+~
+95 0 0 0 0 0
+D0
+Only whirlpool..
+~
+~
+0 0 9503
+D1
+Only water..
+~
+~
+0 0 9501
+D2
+Only water..
+~
+~
+0 0 9501
+D3
+Only water..
+~
+~
+0 0 9501
+S
+#9503
+Whirlpool~
+You are in a big water whirlpool.. It is very strong.. Nothing what goes in, won't go out anymore..
+~
+95 131072 0 0 0 0
+T
+9505 65 4 0
+S
+#9504
+Undersea entrance~
+ It is glorious.. You are thousands of feets under the sealevel and you can
+breathe here like when you were up there.. To keep here this pressure must be
+hard work..
+You see some drawings made into the rock..
+~
+95 0 0 0 0 0
+E
+map rock wall drawing~
+
+   The Atlantis city
+                    
+
+                 ___               1st Circle
+               /=...=\               Shops  (=)     Squares  (+)
+            /=....+....=\
+          /=.....___.....=\        2nd Circle
+         |...../@...@\.....|         Guilds  (@)
+         |.+..|...O...|..+.|
+         |.....\@...@/.....|       3rd Circle
+          \=.............=/          Try.. :}
+            \=....+....=/
+               \=...=/
+~
+S
+#9505
+Undersea~
+You are under water.. Somewhere here must be the entrance to Atlantis.. If you
+cannot breathe under water, let you find the entrance really fast..
+~
+95 524288 0 0 0 8
+D0
+~
+~
+0 0 9505
+D1
+~
+~
+0 0 9505
+D2
+~
+~
+0 0 9505
+D3
+~
+~
+0 0 9505
+D4
+~
+~
+0 0 9505
+D5
+~
+~
+0 0 9506
+S
+#9506
+Undersea~
+You are under water.. Somewhere here must be the entrance to Atlantis.. If you 
+cannot breathe underwater, let you find the entrance really fast..
+~
+95 524288 0 0 0 8
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 9505
+D2
+~
+~
+0 0 9505
+D3
+~
+~
+0 0 9505
+D4
+~
+~
+0 0 9505
+D5
+~
+~
+0 0 9505
+S
+#9507
+Undersea entrance~
+You stand in cave.. It is /s
+~
+95 0 0 0 0 0
+S
+$~

@@ -1,0 +1,349 @@
+#22400
+Vstupna miestnost~
+   Tu v tejto miestnosti zacinas put kulturou, ktora vznikla krizenim starej
+kultury s kulturou androidov. Tento remix kultur vsak nema dobry  vplyv
+na tu zijuce organizmi. Vacsina pody je znehodnotena zvysenou radioaktivitou
+Na cestne tymto uzemym mozes stretnut vela mutantov
+~
+224 131072 0 0 0 0
+D3
+~
+~
+0 0 22401
+T
+6092 193 2 0
+S
+#22401
+Nechutne studena chodba~
+  Vidis ze cele steny a strop je oblozeny platmy kovu. Odolnost tejto
+zliatiny je vysoka, pretoze hrubka prachu na podlahe ti vravi ze tu nejake
+to storocie nevkrocila ziadna ludska noha. Okrem hrubej vrstvy prachu sa po zemi povaluju sudy oznacene ako radioaktivne.
+~
+224 0 0 0 0 0
+D1
+~
+~
+0 0 22400
+D3
+~
+~
+0 0 22402
+S
+#22402
+Chodba~
+  Na stenach chodby pozorujes mensie zmeny. Vlhkost prenika patnast palcov
+hrubou ocelovou stenou. Na  podlahe nachadzas rovnake mnozstvo sudov.
+ne bezpecenstvo radiacie je vysoke.  Vidiet ze sem nevstupila noha technika
+uz  zopar rockou. Osvetlenie je mizerne.
+~
+224 0 0 0 0 0
+D1
+~
+~
+0 0 22401
+D3
+~
+~
+0 0 22403
+S
+#22403
+Chodba~
+  V dialke uz pozorujes neuveritelne tmave miesto. Pravdepodobnost toho, ze
+tato dlha chodba na to mieste konci je vysoka. Vlhkost stien ustupila.
+Aj chodba sa zda byt o niekolko stupnov teplejsia. A vsak aj posledne svetlo
+ziariviek zhaslo.
+~
+224 1 0 0 0 0
+D1
+~
+~
+0 0 22402
+D3
+~
+~
+0 0 22404
+S
+#22404
+Roh chodby veducej na zapad~
+  Niekolko ziariviek sa nejakym zazrakom opat zapalo, ale nieje ich dostatok
+aby si sa mohol pohybovat bez svojho umeleho prirucneho osvetlenia.
+Po zemi sa pohybuje mnozstvo neprijemnych slizom pokrytych tvorov.
+Nevyzeraju nejak nebezpecne.
+~
+224 0 0 0 0 0
+D1
+~
+~
+0 0 22403
+D2
+~
+~
+0 0 22405
+D5
+~
+~
+0 0 22413
+S
+#22405
+Chodba smerujuca na juh~
+  Smer chodby sa znenazdajky zmenil, tiez mnozstvo prachu na zemi je mensie.
+Kable visiace zo stropu ti nadalej prekazaju vo volnom pohybe. Sirka tejto
+miestnosti je o nieco mensia ako tie chodby, ktorymi si uz presiel.
+Sliznate tvory co lozia po stenach ty uz poriadne lezu na nervy.
+~
+224 1 0 0 0 0
+D0
+~
+~
+0 0 22404
+D1
+Celkom obycajne dvere.
+~
+dvere~
+1 0 22410
+D2
+~
+~
+0 0 22406
+S
+#22406
+Chodba smerom juh~
+  Chodba sa nadalej tiahne na juh. Zmeny v osvetleni nenastali. V pritmi si
+si vsak vsimol, ze farba stien sa zmenila z modrej na odtien akejsi sedej.
+Na vychodnej stene vidis zvazok kablov, ktore vedu k poskodenemu monitoru.
+~
+224 1 0 0 0 0
+D0
+~
+~
+0 0 22405
+D2
+~
+~
+0 0 22407
+S
+#22407
+Prva krizovatka~
+  Prva krizovatka na ktoru si narazil na tejto urovni. Nic ine sa nezmenilo
+farba stien je rovnaka, osvetlenie mizerne. Iba tabulka na zapadnej stene
+ta upozornuje ze na vychod sa nachadza predajna bojoveho materialu.
+~
+224 1 0 0 0 0
+D0
+~
+~
+0 0 22406
+D1
+~
+~
+0 0 22408
+D2
+~
+~
+0 0 22411
+S
+#22408
+Chodbicka veduca smerom ku skladu~
+  Je to az neprestavitelne ale tu je uz osvetlenie v poriadku. Na podlahe
+sa nachadzaju nejake mastne papiere. Vyzeraju ako by si tu prave niekto
+kupil novu zbran a vybalil. Toto ze to bola zbran ti potvrdzuje aj mrtvola lezi
+nedaleko vchodu do tejto miestnosti. Ten dobrak si ju hned aj vyskusa.
+~
+224 0 0 0 0 0
+D1
+~
+~
+0 0 22409
+D3
+~
+~
+0 0 22407
+S
+#22409
+&cObchod so zbranami~
+  Nie je to celkom obvikly obchod. Obsluhu si si vsimol hned pri vstupe.
+Je to jeden neuveritelne lenivy cyborg. Avsak treba uznat ze poriadok si vo
+svojom obchode drzi. Je to dost velka miestnost plna roznych zbrani.
+~
+224 0 0 0 0 0
+D3
+~
+~
+0 0 22408
+E
+note~
+No nejaky pokec co kupis    daj LIST
+~
+S
+#22410
+Nejaky sprosty vyklenok~
+  Nasiel si sa vo velmi malej miestnosti. Nestaci ze ma dva krat dva metre
+este sa tu nachadza dost neprijemny cyborg. Nevadi ved zivot nieje svina. Ti
+prebehlo hlavou.
+~
+224 128 0 0 0 0
+D3
+Obycajne hnusne studene dvere.
+~
+dvere~
+1 0 22405
+S
+#22411
+Chodba veduca na juh~
+  Osvetlenie je uz oki. Zdasa ti, ze na juznej stene tejto miestnosti je
+obraz nie nezda sa ti to. Ten obraz sa tam ozaj nachadza. Je to stary obraz
+od majstra Picassa obraz Slavneho Odina.
+~
+224 0 0 0 0 0
+D0
+~
+~
+0 0 22407
+D1
+Srienou potiahnuta mreza.
+~
+mreza~
+1 22416 22416
+D3
+~
+~
+0 0 22412
+S
+#22412
+Hodinarstvo~
+  Jednoducho vybavena miestnost, v ktorej stoji len jeden mutant. Je to uz
+starecek medzi mutantmi. Po stenach visia hodiny rozneho druhu. Hodiny 
+od starych nepotrebnych primiek az po najnovsie hodiny z Osaky ci Bernu.
+~
+224 0 0 0 0 0
+D1
+~
+~
+0 0 22411
+S
+#22413
+Schody dolu~
+  Klasicke schody veduce dolu. Ziaden pokrok. Nic len same pavuciny. Steny
+su cele cierne, asi tu inu farbu ty hnusni androidi nepoznali. Fakt asi nie.
+~
+224 0 0 0 0 0
+D4
+~
+~
+0 0 22404
+D5
+~
+~
+0 0 22414
+S
+#22414
+Schody dolu~
+  Zasa je tu to osvetleni v prdely. Fakt by som toho androida co to ma na
+starosti zosrotoval. Prach na schodoch je hrubsi.
+~
+224 0 0 0 0 0
+D4
+~
+~
+0 0 22413
+D5
+~
+~
+0 0 22415
+S
+#22415
+Neprijemne chladna miestnost~
+  Brutalne velka miestnost jej chladne betonove steny su odpudzujuce.
+V strede je jeden z tych skaredo sa pozerajucich mutantov.
+Okolo neho sa povaluje mnozstvo odpadkov asi tato miestnost v minulosti
+sluzila ako smetisko. Hlavou ti bludi jedna myslienka, preco je tu v strede
+ten hnusny mutant. Ze by to smetisko strazil?
+~
+224 0 0 0 0 0
+D4
+~
+~
+0 0 22414
+P
+dump
+S
+#22416
+Tunel veduci na vychod~
+  Osvetlenie tejto casti sa zlepsilo. Na strope sa nachadza plazmova trubica.
+Preto sa vsetko v tunely zda byt cervenkaste. Poriadok vladne v tejto casti tunela. Avsak chlad tiahne z vetracich sacht, ktore su umiestne na severnej
+a juznej stene.
+~
+224 257 0 0 0 0
+D1
+~
+~
+0 0 22418
+D2
+~
+~
+0 0 22417
+D3
+Siva mreza potiahnuta povlakom sriene.
+~
+mreza~
+1 22416 22411
+S
+#22417
+Miestnost s reaktorom~
+  V strede vidis najvacsi reaktor, ktory ludia na Zemi stvorili. Avsak ani
+tento nebol bez chyby. Okolo neho je tavenina ktora ti vravi, ze tento 
+reaktor nrbol funkcny velmi dlho. Teplota v tejto miestnosti je asi 400 stupnov celzia. A tebe zostalo len 100 milisekund tvojho zivota.
+~
+224 2 0 0 0 0
+D0
+~
+~
+0 0 22416
+S
+#22418
+Tunel~
+  Na konci chodby sa ti zda, ze sa team nieco hybe. Nevies co je to, ale ked
+bude ten tunnel klesat stale ako klesa, dost skoro nato prides.
+~
+224 0 0 0 0 0
+D2
+Liatinove dvere.
+~
+dvere~
+1 0 22419
+D3
+~
+~
+0 0 22416
+S
+#22419
+Miestnost s reaktorom II~
+  V strede vidis najvacsi reaktor, ktory ludia na Zemi stvorili. Avsak ani
+tento nebol bez chyby. Okolo neho je tavenina ktora ti vravi, ze tento
+reaktor nrbol funkcny velmi dlho. Teplota v tejto miestnosti je asi 400 stupnov
+celzia. A tebe zostalo len 100 milisekund tvojho zivota.
+~
+224 2 0 0 0 0
+D0
+Liatinove dvere
+~
+dvere~
+1 0 22418
+S
+#22499
+Brana casu~
+  Neprijemne pocity v tebe zavladli. Nikto nemal nikdy prijemne pocity po 
+prechode touto branou. Cestovanie casom este nieje celkom zabehane.
+Vsetko tu je neuveritelne kovove, prico aj tvoj hlas znie no kovovo.
+~
+224 131072 0 0 0 0
+D4
+~
+~
+0 0 6092
+T
+22400 1 3 0
+P
+dump
+S
+$~

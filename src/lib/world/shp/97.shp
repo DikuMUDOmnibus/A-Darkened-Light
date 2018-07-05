@@ -1,0 +1,52 @@
+CircleMUD v3.0 Shop File~
+#9700~
+3050
+3051
+-1
+5.00
+0.50
+2
+-1
+%s Sorry, ale tento tovar nemam na sklade.~
+%s Nevyzeras , zeby si to mal.~
+%s Uz viac kupit nemozem.~
+%s Nemozem to kupit (nemam prachy).~
+%s Si na mizine , tak zaco chces kupit?~
+%s To bude %d zlatych, dakujem.~
+%s Tu mas za to %d zlatych.~
+0
+2
+9701
+0
+9704
+-1
+6
+18
+0
+0
+#9701~
+9702
+9703
+-1
+8.00
+0.50
+5
+-1
+%s Prepac , ale nemam taky druh tovaru.~
+%s Vyzera , ze to nemas.~
+%s Prepac , ale taky tovar nekupujem.~
+%s Nemozem to od teba kupit.~
+%s Si na mizine.~
+%s To bude %d zlatych, dakujem.~
+%s Tu mas za to %d zlatych.~
+0
+2
+9702
+4
+9737
+-1
+0
+28
+0
+0
+$~

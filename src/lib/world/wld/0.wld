@@ -1,0 +1,57 @@
+#0
+The Void~
+Empty~
+0 8 0 0 0 1
+D4
+The Temple of Midgaard floats above you.
+~
+~
+0 -1 3001
+S
+#1
+Limbo~
+Empty~
+0 8 0 0 0 1
+S
+#2
+pokusna rooma~
+Empty~
+0 0 0 0 0 0
+S
+#3
+A Totally Empty Room~
+Empty~
+0 520 0 0 0 0
+D4
+You notice that the portal above you looks almost like glass,
+albeit very dirty glass.
+~
+~
+0 -1 3048
+S
+#99
+The Realm Of The Dead~
+Empty~
+0 520 0 0 0 0
+D0
+The hard floor seems to go on forever.
+~
+~
+0 -1 99
+D1
+The hard floor seems to go on forever.
+~
+~
+0 -1 99
+D2
+The hard floor seems to go on forever.
+~
+~
+0 -1 99
+D3
+The hard floor seems to go on forever.
+~
+~
+0 -1 99
+S
+$~

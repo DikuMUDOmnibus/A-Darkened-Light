@@ -1,0 +1,174 @@
+#6800
+foreman~
+the foreman~
+A foreman stands here, cracking his whip evilly!
+~
+He looks mean, brawny, and ready to bite you!  His clothes
+are rumpled, and splattered with the blood of innocent
+citizens of Midgaard!  Cliche practically oozes off him.
+Get him!
+~
+2 0 0 0 0 0 0 0 0 S
+4 17 60 3d5+45 1d8+0
+200 600
+8 8 1
+#6801
+alarm car banshee spirit~
+the Car Alarm~
+An odd spirit guards an expensive-looking wagon here.
+~
+This spirit looks kind of like the banshees that Mother 
+always told you about.  It seems pretty serious about
+guarding this wagon...
+~
+2 0 0 0 8 0 0 0 0 S
+3 18 7 3d5+35 1d6+1
+0 400 
+8 8 0 
+#6802
+worker floor factory~
+a Factory Worker~
+A Factory Worker works hard for minimum wage here.
+~
+The worker is poor and wears ragged clothes.  Down-
+trodden by the system, forced to work to exhaustion,
+he still holds his head high.  You can have his life,
+but not his dignity.
+~
+2 0 0 0 0 0 0 0 250 S
+0 20 10 2d5+9 1d5+0
+8 25
+8 8 1
+#6803
+turtle~
+the Turtle~
+A turtle trombles about, carrying wands for assembly.
+~
+This turtle doesn't look too healthy for a good 4 foot
+high reptile.  Its skin is going grey and patchy in 
+areas, and its eyes are white and misty.  Poor thing!
+~
+130 0 0 0 0 0 0 0 0 S
+2 19 8 3d5+20 1d6+0
+0 200
+8 8 1
+#6804
+vending machine~
+the Automated Vending Machine~
+A Vending Machine fixes orders for people with mechanical arms.
+~
+This machine is a marvel of magic and engineering.  After
+recognizing the order, and receiving the money, it quickly
+fetches and fixes the food, delivering it with a tinny
+'Thank You!'  
+~
+2 0 0 0 0 0 0 0 0 S
+4 17 6 3d5+45 1d8+0
+500 1500
+8 8 0
+#6805
+secretary~
+the Secretary~
+A Secretary sits here, answering the phone and looking busy.
+~
+This secretary looks busy, but confident.  Even though she
+has a lot to do greeting visitors and answering the phone,
+she never bats an eye as she says to you,
+'May I help you?'
+~
+2 0 0 0 0 0 0 0 150 S
+1 20 9 2d5+9 1d5+0
+50 100
+6 6 2
+#6806
+worker office~
+the Office Worker~
+An office worker is pushing paper here.
+~
+This office worker is trying to make it to the top, 
+rung by rung.  Unfortunately, there isn't much room 
+for advancement in this corporation, so now is as good
+a time as any to goof off.
+~
+2 0 0 0 0 0 0 0 100 S
+1 20 9 2d5+9 1d5+0
+40 100
+8 8 1
+#6807
+secretary~
+the Secretary~
+A secretary runs around here, busier than anyone should be.
+~
+This secretary has SCADS of work to do, from her boss, friends
+of her boss, other workers, etc.  You wonder why she puts up
+with this at all...
+~
+2 0 0 0 0 0 0 0 300 S
+1 20 9 2d5+9 1d5+0
+100 200
+8 8 2
+#6808
+boss big~
+The Big Boss~
+The Big Boss is waiting to give someone the AXE!
+~
+You look at him, and accidentally catches his eye.  He 
+begins yelling at you!  For a second you get angry, before
+you realize that this is his _job_...to yell at people.
+~
+134 0 0 0 0 0 0 0 -200 S
+4 17 6 3d5+45 1d8+0
+300 600
+6 6 1
+#6809
+machine~
+the Machine~
+A Giant Machine twists and whirls, hitting you by accident!
+~
+It looks like a giant twisted creation of a blind engineer
+on acid.  Its extruding parts look so hazardous that just
+thinking about entering the same room might get you extremely
+hurt!
+~
+34 0 0 0 8 0 0 0 0 S
+6 15 4 3d5+70 1d8+2
+0 1800
+8 8 0
+#6810
+ghost~
+the Ghost~
+A frightened looking ghost flits about looking for escape.
+~
+This ghost escaped the nets of the workers and now desperately
+seeks escape.  You feel for it, probably because of the fate
+that was intended for it...
+~
+2 0 0 0 2 0 0 0 0 S
+3 18 7 3d5+35 1d7+0
+0 350
+8 8 0
+#6811
+worker dock~
+the Dock Worker~
+A Dock Worker moves big crates about here.
+~
+He's big, he's brawny, he's busy.
+Leave him alone.
+~
+2 0 0 0 0 0 0 0 100 S
+2 19 8 3d5+20 1d6+0
+50 200
+8 8 1
+#6812
+worker maintenance~
+the maintenance worker~
+A maintenance worker looks bored here.
+~
+He looks at you with half-lidded eyes and rubs his hands
+on his jumpsuit absently.  Not a real rocket scientist here.
+~
+2 0 0 0 0 0 0 0 400 S
+3 18 70 3d5+30 1d6+0
+100 300
+8 8 1
+$~

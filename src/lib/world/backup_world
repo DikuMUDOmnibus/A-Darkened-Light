@@ -1,0 +1,2 @@
+#!/bin/csh
+tar -c * | gzip > backup_world.tgz

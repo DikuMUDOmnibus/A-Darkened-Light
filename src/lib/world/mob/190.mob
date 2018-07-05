@@ -1,0 +1,197 @@
+#19001
+Elf Guardian Elven~
+The Elven guardian~
+An Elven Guardian is standing here guarding the portal.
+~
+This is a robust built elf in his best years and as far as you can tell.
+~
+10 8 1000 S
+19 2 -1 3d6+240 3d5+6
+1000 35000
+8 8 1
+#19002
+Elf Soldier guard elven~
+The Elven soldier~
+An Elven Soldier is standing here guarding the path.
+~
+This is an elf in his youth, sent by the chief of the village guards, 
+to guard the path from any intruder not wanted here.
+~
+10 8 1000 S
+10 10 2 1d12+123 1d8+3
+654 9000
+8 8 1
+#19003
+Elf Soldier guard elven~
+The Elven guard~
+An Elven Guard is walking around, protecting the villagers.
+~
+This is an elf in her youth, sent by the chief of the village guards, 
+to guard the village from unwanted intruders.
+~
+8 8 1000 S
+10 10 2 1d12+123 1d8+3
+654 9000
+8 8 2
+#19004
+Elf weaponsmith smith elven~
+The Elven weaponsmith~
+A Large Elven weaponsmith is walking behind the counter.
+~
+You notice a tired look on his face.
+~
+2 0 900 S
+23 2 2 6d10+390 1d8+12
+10000 80000
+8 8 1
+#19005
+Elf armoursmith smith elven~
+The Elven armoursmith~
+A Large Elven armoursmith is walking around behind the counter.
+~
+You notice a tired look on his face.
+~
+2 0 900 S
+23 2 2 6d10+390 1d8+12
+10000 80000
+8 8 1
+#19006
+Elf mage elven~
+The Elven mage~
+A Tiny Elven mage is floating behind the counter.
+~
+You notice a tired look on his face.
+~
+2 0 900 S
+23 2 2 6d10+390 1d8+12
+10000 80000
+8 8 1
+#19007
+Elf Quintor grocer~
+The Elf named Quintor~
+An Elf named Quintor is here counting money behind the counter.
+~
+You notice a tired look on his face.
+~
+2 0 900 S
+23 2 2 6d10+390 1d8+12
+10000 80000
+8 8 1
+#19008
+elf bartender elven~
+The Elven bartender~
+A fat Elf is standing behind the bar taking orders.
+~
+You notice a tired look on his face.
+~
+2 0 900 S
+23 2 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#19009
+elf receptionist elven~
+The Elven receptionist~
+A nice-looking Elf is standing in the reception.
+~
+You notice a tired look on her face.
+~
+3 0 900 S
+23 2 2 6d10+390 1d8+12
+2000 80000
+8 8 2
+#19010
+elf chief elven guard~
+The Chief of the elven guard.~
+A lazy-looking Elf lies on his bed snoring loudly.
+~
+This elf looks somehow more experienced than any guard in the village guard.
+By the look of the uniform he is probably the chief of the village guard.
+You notice some scars on the hands and one on the neck of the elf. He has
+obviously been in battle in his days.
+~
+1 136 1000 S
+25 0 -4 1d50+500 4d6+8
+500 130000
+4 4 1
+#19011
+Elf Soldier guard elven~
+The Elven guard~
+An Elven Guard is playing cards at the table.
+~
+This is an elf in his youth, sent by the chief of the village guards, 
+to guard the path from any intruder not wanted here.
+~
+10 8 1000 S
+10 10 2 1d12+123 1d8+3
+654 9000
+6 6 1
+#19201
+Elf bard Elven~
+The Elven bard~
+An Elven bard is sitting here playing on his lute and singing.
+~
+This Elf is dressed in green, whith brown pants. He is playing on a 
+fine rose-tree lute with silver strings.
+~
+10 8 +750 S
+19 2 -1 3d6+200 3d3+6
+1000 35000
+6 6 1
+#19202
+druid old man human~
+The old Druid~
+An old Druid is standing on the hill chanting an arcane spell.
+~
+This is a human in his old days. He is dresed in a heavy cloak and 
+holds a Staff made of oak in his hands.
+~
+71 524424 +1 S
+10 10 2 3d12+233 1d8+3
+10000 250000
+8 8 1
+#19203
+elemental fire huge~
+A Huge Fire Elemental~
+A Huge Fire Elemental is standing here burning everything.
+~
+You see only Flames in the shape of a humanoid.
+~
+65 8 +1 S
+25 0 -5 1d12+200 4d8+2
+1000 100000
+8 8 0
+#19204
+large enlarged animal bear~
+The enlarged Bear~
+A enlarged Bear is looming around the glade.
+~
+It is large, brown and furry.
+~
+32 0 0 S
+23 2 2 2d10+190 1d6+6
+0 25000
+8 8 0
+#19205
+enlarged animal large tiger~
+The Enlarged Tiger~
+A Enlarged Tiger is looming around in the glade.
+~
+You notice that it is large, striped and furry.
+~
+32 0 0 S
+23 2 2 2d10+160 1d8+8
+0 26000
+8 8 0
+#19206
+elf elven champion~
+the Champion~
+An elven Champion is standing here looking at the trophies.
+~
+The elf in front of you is quite good looking and robust build (for an elf).
+As far as you can see.
+~
+org dhnp 1000 S
+30 -5 -80 1d4000+4128 1d6+13
+450000 500000
+8 8 0
+$

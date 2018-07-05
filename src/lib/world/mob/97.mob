@@ -1,0 +1,130 @@
+#9700
+guard~
+Dadko's guard~
+Dadko's guard is standing here.
+~
+He looks angry , but he is friendly.
+~
+256282 0 0 0 0 0 0 0 -250 E
+38 10 0 30d1000+10000 5d120+10
+15000 15000000
+8 8 1
+BareHandAttack: 3
+MaxMove: 50
+E
+>all_greet_prog 100~
+say Welcome to the Dadko's zone of hiden things.
+~
+|
+#9701
+carodejnik~
+Carodejnik~
+Nejaky starucky dedusko tu stoji a cosi mrmle nad akousi flastickou.
+~
+Vyzera , ako keby uz uz mal zomriet , ale stale si cosi mumle nad akousi flastickou.
+~
+1075048458 0 0 0 0 0 0 0 0 E
+40 -30 -12 30d1000+30000 30d127+50
+2147483647 2147483647
+8 8 1
+BareHandAttack: 7
+MaxMove: 50
+E
+>entry_prog 90~
+give potion $1
+~
+>entry_prog 150~
+give identify $1
+~
+>act_prog list~
+say       Mozem ti predat tieto veci:
+say ---------------------------------------
+say Scroll of identify               90 zlatych
+say Potion of see invisible          150 zlatych
+~
+|
+#9702
+Zbrojnos~
+Rybnikarov pomocnik Zbrojnos~
+Rybnikarov pomocnik Zbrojnos ti tu ponuka zbrane.
+~
+Mozes si u neho kupit nejake zbrane ak chces.
+Pozor , zbrane mozu byt dost ostre.
+~
+1052682 0 0 0 0 0 0 0 0 E
+40 0 -12 30d1000+30000 1d1+20
+2147483647 2147483647
+8 8 1
+BareHandAttack: 3
+MaxMove: 50
+E
+#9703
+bojovnik ~
+Bojovnik hradnej straze~
+Bojovnik hradnej straze tu stoji a strazi hrad.
+~
+Vyzera , ze sa velmi nudi, ale poslusne strazi vchod do hradu.
+~
+16783402 0 0 0 9224 0 0 0 45 E
+10 18 0 30d12+0 13d20+2
+10000 150000
+8 8 1
+BareHandAttack: 3
+E
+#9704
+Kral~
+Kral zmiznuteho hradu~
+Kral zmiznuteho hradu tu sedi na trone.
+~
+Vyzera , ze je na teba nahnevany , ze tu si , tak radsej odid nez sa na teba nahneva.
+~
+151062810 0 0 0 1212 2097152 0 0 -250 E
+35 15 -5 30d60+25 15d50+5
+100000 100000
+6 6 1
+BareHandAttack: 7
+E
+>fight_prog 50~
+cast 'death ripple'
+cast 'death wave'
+cast 'deathdance'
+say Upozornil som ta vopred!!!
+~
+|
+#9705
+kralovna~
+Kralovna zmiznuteho hradu~
+Kralovna zmiznuteho hradu , tu sedi na svojej posteli.
+~
+Kralovna tu sedi , niekto ju tu zamkol , no nikto nevie , kto to bol ani preco.
+~
+34858 0 0 0 156 0 0 0 112 E
+25 12 -1 15d26+0 5d20+8
+25000 25000
+8 8 2
+BareHandAttack: 2
+E
+>fight_prog 50~
+cast 'deathdance'
+cast 'deathwave' $n
+~
+|
+#9706
+Carodejnik~
+Carodejnik zmiznuteho hradu~
+Carodejnik zmiznuteho hradu tu stoji a cosi mrmle.
+~
+Je to taky starsi dedusko , ale este stale sa ma k svetu.
+~
+16935178 0 0 0 32828 0 0 0 360 E
+30 12 -5 12d100+50 25d20+8
+100000 140000
+8 8 1
+BareHandAttack: 7
+E
+>fight_prog 80~
+cast 'death wave' $n
+cast 'deathdance' $n
+~
+|
+$

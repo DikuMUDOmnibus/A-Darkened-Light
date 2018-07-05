@@ -1,0 +1,145 @@
+CLANS
+
+  Klany su skupiny playerov, ktore sa zdruzuju za ucelom vykynozenia
+ostatnych skupin a obratia ich o vystroj a expy. Klany do ktorych sa
+zdruzuju mortali maju najma tento ucel. Immortalske klany (teraz je jeden)
+nemaju za ciel kynozenie mortalov!!!
+  Zoznam klanov si mozete pozriet prikazom CLAN LIST. Podobne informacie o
+klane vyvolate prikazom CLAN INFO <cislo klanu>. Ak si sa rozhodol pripojit
+ku klanu pouzite prikaz CLAN APPLY <cislo>, potom je dobre oznamit to
+nejakemu vyssiemu ranku v klane aby ta prijal do klanu ak uzna za vhodne.
+Ranku (levely) v klane su styri lisiace sa urovnou privilegii a dostupnych
+prikazov. Opustit klan mozete prikazom CLAN RESIGN. Tu by som chcel
+vystrihat pred cheatovanim lebo vsetko sa loguje a ked to zistime budeme
+zli. >:)
+  Vsetky prikazy maju format CLAN <prikaz> <argumenty>. Help vyvolate
+prikazom CLAN HELP <prikaz>. CLAN bez argumentov vam oznami k akemu klanu
+patrite a ake prikazy su dostupne.
+
+#
+"CLAN SAVE"
+
+Save clan data to clan files.
+
+#
+"CLAN EDIT"
+
+Enter full screen clan editor for clan <num>. If <num> doesn't exist, a clan 
+will be created.
+
+#
+"CLAN APPLY"
+
+Usage: CLAN APPLY <num>
+
+Apply to the clan with the number <num>.  To find out the number of a
+clan, use the CLAN INFO command.
+
+See also: CLAN RESIGN, CLAN ENLIST
+#
+"CLAN KICK"
+
+Usage: CLAN KICK <player>
+
+This kicks <player> from your clan.
+
+#
+"CLAN CHANNEL"
+
+Usage: CLAN CHANNEL
+
+Used to toggle the clan talk channel.  Similar to the gossip channel command.
+
+See Also: CLAN SAY
+
+#
+"CLAN DEMOTE"
+
+Usage: CLAN DEMOTE <player>
+
+This command demotes <player> one rank in your clan.
+
+See Also: CLAN PROMOTE
+#
+"CLAN SHOW"
+
+Usage: CLAN SHOW
+
+Toggles showing other players' clans.
+
+#
+"CLAN DEPOSIT"
+
+Usage: CLAN DEPOSIT <amount>
+
+This command deposits <amount> of gold into the clan account.
+This can only be done in the clan room.
+
+See Also: CLAN WITHDRAW
+#
+"CLAN ENLIST"
+
+Usage: CLAN ENLIST <player>
+
+This command enlists <player> into your clan. <player> must be applying to 
+your clan first, of course. 
+As an implementor you can force the enlisting of <player> into the clan 
+they are applying for whether you are in that clan or not.
+
+See Also: CLAN APPLY, CLAN RESIGN.
+#
+"CLAN INFO"
+
+Usage: CLAN INFO [num]
+
+This command gives info on the clan <num> (default: clan you belong to).
+To get the number of a clan, use the CLAN LIST command.
+
+See Also: CLAN LIST
+#
+"CLAN PROMOTE"
+
+Usage: CLAN PROMOTE <player>
+
+This command promotes <player> a level in your clan.  Provided they already 
+belong to your clan.
+
+See Also: CLAN DEMOTE, CLAN ENLIST
+#
+"CLAN RESIGN"
+
+Usage: CLAN RESIGN
+
+This command resigns you from your clan.
+
+See Also: CLAN APPLY, CLAN ENLIST
+#
+"CLAN SAY"
+
+Usage: CLAN SAY <message>
+
+This command passes a message onto your fellow clan members.
+Much the same as GOSSIP.
+Abbreviation: | <message>
+
+See Also: CLAN CHANNEL
+#
+"CLAN WITHDRAW"
+
+Usage: CLAN WITHDRAW <amount>
+
+This withdraws <amount> of gold from the clan account.
+You must be in the clan room to do this.
+
+See Also: CLAN DEPOSIT
+#
+"CLAN WHO"
+
+Usage: CLAN WHO
+
+This command is similar to WHO.  It displays all the clan members
+currently online.  As well as their rank in the clan.
+
+See Also: CLAN INFO, CLAN LIST
+#
+$

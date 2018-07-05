@@ -1,0 +1,96 @@
+#9000
+New Thalos Station~
+You are standing in New Thalos Transporter Station.
+~
+90 0 0 0 0 0
+D1
+~
+~
+0 -1 -1
+D4
+~
+~
+0 0 5407
+E
+map wall~
+The map says:
+
+"Transporter tokens cost 500 coins each. Use the buy command to buy one.
+
+VisionMUD transporter loop:
+
+     /-------R
+    H         \
+     \        | 
+      M       D
+      |       |
+      S      / 
+      \___N_/
+             
+  |   [M]idgaard Central Station
+  |   [S]outh Midgaard Station
+  | * [N]ew Thalos Station
+  |   [D]row City Station
+  |   [R]ome Station
+  V   Sund[H]aven Station
+
+   * = You Are Here.
+
+    The 2 transporters run between 6 stations. The next transporter
+should arrive very soon. Enjoy your trip!"
+~
+S
+#9001
+The Rome Transporter Station~
+You are standing in Rome Transporter Station.
+~
+90 8 0 0 0 0
+D1
+~
+~
+0 -1 3070
+D4
+~
+~
+0 0 12032
+E
+map wall~
+The map says:
+
+"Transporter tokens cost 500 coins each. Use the buy command to buy one.
+
+VisionMUD transporter loop:
+
+     /-------R
+    H         \
+     \        | 
+      M       D
+      |       |
+      S      / 
+      \___N_/
+             
+  |   [M]idgaard Central Station
+  |   [S]outh Midgaard Station
+  |   [N]ew Thalos Station
+  |   [D]row City Station
+  | * [R]ome Station
+  V   Sund[H]aven Station
+
+   * = You Are Here.
+
+    The 2 transporters run between 6 stations. The next transporter
+should arrive very soon. Enjoy your trip!"
+~
+S
+#9002
+pokus~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#9099
+Pokusna rooma.~
+Empty~
+90 0 0 0 0 0
+S
+$~

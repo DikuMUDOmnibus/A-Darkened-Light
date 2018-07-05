@@ -1,0 +1,222 @@
+#22300
+The Staircase~
+Welcome to the Psychadelic Mistery
+~
+223 2228224 0 0 0 0
+T
+22301 384 2 0
+S
+#22301
+Room~
+Finally you are here...But how to go out? That will be a little bit harder
+but don't loose your concentration and try a bit.  The way out leads across
+many teleports so try to get used to it.    
+~
+223 2097152 0 0 0 12
+D0
+Room
+~
+door~
+1 0 22302
+D1
+Room
+~
+~
+0 0 22303
+D3
+Room
+~
+~
+0 0 22304
+D5
+The Reception
+~
+~
+0 0 22305
+S
+#22302
+Room~
+You are in an unfinished room.
+~
+223 0 0 0 0 0
+D2
+Room
+~
+gate~
+1 0 22301
+S
+#22303
+Room~
+You are in an unfinished room.
+~
+223 0 0 0 0 0
+S
+#22304
+Room~
+You are in an unfinished room.
+~
+223 0 0 0 0 0
+S
+#22305
+The Reception~
+  If you are really tired of that teleports you can still have a rest and
+try it later. Good luck anyway...
+~
+223 0 0 0 0 0
+D4
+Room
+~
+~
+0 0 22301
+S
+#22306
+Room~
+You are in an unfinished room.
+~
+223 0 0 0 0 0
+S
+#22307
+Room~
+You are in an unfinished room.
+~
+223 0 0 0 0 0
+S
+#22308
+Room~
+You are in an unfinished room.
+~
+223 0 0 0 0 0
+S
+#22309
+Room~
+You are in an unfinished room.
+~
+223 0 0 0 0 0
+S
+#22310
+Room~
+You are in an unfinished room.
+~
+223 0 0 0 0 0
+S
+#22311
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22312
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22313
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22314
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22315
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22316
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22317
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22318
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22319
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22320
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22321
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22322
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22323
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22324
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22325
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22326
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22327
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22328
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22329
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+#22330
+Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+S
+$~

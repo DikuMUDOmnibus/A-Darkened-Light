@@ -1,0 +1,290 @@
+#14300
+Entering the Valley~
+   Here you stand, before the mouth of a great valley.  Entering the valley,
+you begin to notice that everything is dying.  In the distance to the north,
+you can see what looks to be a vast stone wall, with dark gray and black clouds
+above it.    
+~
+143 64 0 0 0 3
+D0
+~
+~
+0 0 14301
+S
+#14301
+Before the gates~
+   The valley path continues north, as does the signs of entropy and decay.  
+Overhead, withered tree limbs hand down, menacing, almost as if to snare you.
+Looking east you notice a gaping maw.  Pitch black, the maw seems to draw you
+towards it.  The thought of looking at it chills you to the very bone.    
+~
+143 0 0 0 0 12
+D0
+~
+~
+0 0 14306
+D1
+~
+~
+0 0 14302
+D2
+~
+~
+1 0 14300
+S
+#14302
+Darkened grotto~
+   As you enter the grotto, you immediately precieve a difference from within.
+The grotto is cold, dank and dark, cold water drips from crystaline formations
+all around you.  Inwardly you shrink as a feeling of cold dread enters your
+heart.  Near the center of the grotto lies a rough hewn, stone well.  Looking
+at it, it's as if the very little light inside the grotto is being sucked into
+it.    
+~
+143 524288 0 0 0 0
+D3
+~
+~
+0 0 14301
+D5
+~
+~
+0 0 14303
+S
+#14303
+Dark well~
+   Even as your eyes adjust to the darkness, you can feel the darkness pressing
+in about you.  From the very little light that penetrates the darkness, you can
+see roots and other vegetaion growing down from the ceiling.  The rank smells
+of decay and stagnant water assail your sense of smell, making you swoon.  
+Farther down the tunnel you could almost swear the darkness was alive.    
+~
+143 32 0 0 0 0
+D0
+~
+~
+0 0 14304
+D1
+~
+~
+0 0 14305
+D4
+~
+~
+0 0 14302
+S
+#14304
+In the darkness~
+   You narrowly miss breaking your nose as you almost walk into a dead end
+passage.  All around, the stone walls are scored with deep scratches.  Looking
+around nervously you wonder what could have caused them.    
+~
+143 0 0 0 0 0
+D2
+~
+~
+0 0 14303
+S
+#14305
+Dark Tunnels~
+   Pressing through the gloom, your meager light creates dancing shadows along
+the walls.  You watch in horror though when you notice that many of the dancing
+shadows arent from your light.  Black shapes begin to emerge and swarm about
+you, but as suddenly as they appeared, they are gone.  In the inky blackness a
+shrill note is sounded, issued forth from no earthly instrument.    
+~
+143 0 0 0 0 0
+D1
+~
+~
+0 0 14307
+D3
+~
+~
+0 0 14303
+S
+#14306
+Ca'es Nean's gates~
+   Your travels through this dying valley have brought you to the dead town of
+Ca'es Nean.  Standing before these mouldering gates, you notice that the path
+continues north and to the south, back the way you just came.  As you continue
+north, a wind hits you in the face with dust.  Causing you to cover your eyes.
+When you are able to see again, there are now two spectral guards standing at
+attention before you.  They watch your movements intently as you stand before
+them...  Almost judging.    
+~
+143 256 0 0 0 1
+D0
+~
+~
+0 0 14311
+D2
+~
+~
+0 0 14301
+S
+#14307
+Bend in the well~
+   The floor here is sandy, no longer the loose gravel as it was about 50 feet
+back.  On the ground around you, you notice charred bits of wood, they look
+like cooking fires, but from whom?  Off in the darkness, you can see small
+lights dancing, they bob and weave, reminding you of fireflies.    
+~
+143 0 0 0 0 0
+D0
+~
+~
+0 0 14308
+D3
+~
+~
+0 0 14305
+D5
+~
+~
+0 0 -1
+S
+#14308
+In the lights~
+   Here you find yourself among those dancing lights.  The lights, which you
+thought to be fireflies are something else.  Looking at these lights, they
+almost seem to leech the very life from you.  Tearing your gaze from the
+lights, you observe the skelatal remains littering the ground.    
+~
+143 0 0 0 0 0
+D1
+~
+~
+0 0 14309
+D2
+~
+~
+0 0 14307
+S
+#14309
+dk~
+You are in an unfinished room.
+~
+143 0 0 0 0 0
+D1
+~
+~
+0 0 14310
+D3
+~
+~
+0 0 14308
+S
+#14310
+11~
+You are in an unfinished room.
+~
+143 0 0 0 0 0
+D3
+~
+~
+0 0 14309
+S
+#14311
+Courtyard~
+   In the stone courtyard, you can see here the extent of the damages from a
+war long ago.  All around you, you see charred,rotten wood that litter the
+courtyard grounds.  Scortched stone stands all around you, blackened by some
+unknown force.  In one corner you see rotted barrels.  Some are filled with
+inky water, others are filled with unidentifiable things.  To the North, you
+see a stone archway and just through it you can just make out movement.    
+~
+143 16 0 0 0 1
+D0
+~
+~
+0 0 14312
+D2
+~
+~
+0 0 14306
+S
+#14312
+Town square~
+   You have reached the dead heart of the garrison town of Ca'es Nean.  At one
+time this square used to bustle with activity merchants selling wares and
+children palying, now all you see aretheir walking ghosts.  From here, you can
+travel in any direction.  To the east lies the garrison barracks.  To the west
+are private residences.  The great fortress keep lies to the north and to the
+south is the enterance of Ca'es Nean.    
+~
+143 64 0 0 0 0
+D2
+~
+~
+0 0 14311
+D3
+~
+~
+0 0 14313
+S
+#14313
+Garrison Hall~
+   At one time, you could have found many off-duty guardsmen gathered around
+the tables that fill this room.  Here, the guardsmen gambled and recounted
+countless stories of past wars and exploits while they enjoyed a pint of ale.
+On the walls you see old moth eaten banners of the guard, once revered with
+pride, now forgotten in ruins.  Around a large fire pit in the center of the
+hall, you see phantom warriors huddled, but the fire offers no warmth or
+comfort for the soldiers anymore.    
+~
+143 8 0 0 0 0
+D0
+~
+private~
+2 3 14314
+D1
+~
+~
+0 0 14312
+D2
+~
+~
+0 0 14315
+S
+#14314
+Captains quarters~
+   Inside the Captains quarters it is quite spartan and clean for that matter.
+Along one wall, you find what's left of a bed, at the foot of that is an intact
+chest.  Near the window sits a desk with papers and what looks to be a battle
+plan.  You finally gaze upon the ghostly Captain who is looking out over
+something that is happening down below.  He turns briefly and gives you a grim
+look.    
+~
+143 65608 0 0 0 0
+D2
+~
+door~
+2 0 14313
+S
+#14315
+Kitchen~
+   Once a place of rich smells of spices, herbs and excellent army food, all
+that be smelt here now are the smells of rotting foods.  In the midst of all
+this decay, you see the spectral chef.  Standing tall next to his cold oven, he
+looks down on you critically with his butcher knife.  A look crosses his face
+that suggests to you that you might be a menu specialty.    
+~
+143 136 0 0 0 0
+D0
+~
+~
+0 0 14313
+S
+#14317
+Main Barracks~
+   Lines of bunks frame the walls, you have entered the soldiers main barracks.
+Here the air is forlorn, you can almost feel the fear and frustration.  
+Phantom soldier are seated at various tables and bunks.  One of the phantoms
+looks as if he is writting something out at one of the tables.  In this room
+there is only one other door, other than the one you just came through.  The
+door to the west leads to the barracks armoury.    
+~
+143 0 0 0 0 0
+S
+$~

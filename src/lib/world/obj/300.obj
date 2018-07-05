@@ -1,0 +1,17 @@
+#30012
+face %s~
+The torn off face of %s~
+The torn off face of %s is lying in a muck of blood here.~
+~
+0 0 0 0 0 1
+0 0 0 0
+0 0 0
+#30013
+windpipe, %s~
+a nasty windpipe of %s~
+A nasty windpipe of %s is lying here, the wind whistles through its hollowness.~
+~
+0 0 0 0 0 1
+0 0 0 0
+0 0 0
+$~

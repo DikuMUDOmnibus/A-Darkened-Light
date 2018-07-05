@@ -1,0 +1,25 @@
+#9000
+Astral Walker~
+Astral Walker~
+The Astral Walker is here waiting for some voyager.
+~
+Astral Walker
+~
+778330 0 0 0 33904 262144 0 0 0 E
+10 10 0 20d2+1000 1d10+10
+0 0
+8 8 1
+MaxMove: 50
+E
+>greet_prog 100~
+if isaffected($i) & SANCT
+  say SANCT
+else
+  say NOTHING
+endif
+~
+>reset_prog 100~
+say Hello!
+~
+|
+$

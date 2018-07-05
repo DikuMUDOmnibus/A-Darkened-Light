@@ -1,0 +1,39 @@
+#22300
+Pipe~
+pipe~
+The pipe for smoking ganja is lying here still hot. It emits bright light.~
+~
+1 65600 0 0 0 16385
+0 0 -1 0
+1 100 10
+E
+smoke~
+You are breathing sweet marihuana smell from the pipe.
+~
+E
+fill ~
+You've filled the pipe for using 
+~
+A
+5 -5
+A
+3 -2
+A
+1 -3
+A
+14 -50
+A
+8 5
+A
+6 10
+C
+2109444 0 0 0
+#22301
+key common~
+The common key~
+The common key is lying here. It looks really...  common.~
+~
+18 4 0 0 0 16385
+0 0 0 0
+1 0 0
+$~

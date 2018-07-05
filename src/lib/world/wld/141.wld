@@ -1,0 +1,845 @@
+#14100
+Hell~
+The smell of brimstone tickles your senses, and makes your stomac quesy.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14101
+D1
+~
+~
+0 0 14102
+D2
+~
+~
+0 0 14131
+D3
+~
+~
+0 0 14103
+S
+#14101
+Hell~
+The smell of brimstone tickles your senses, and makes your stomac quesy.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14105
+D2
+~
+~
+0 0 14100
+S
+#14102
+Hell~
+The smell of brimstone tickles your senses, and makes your stomac quesy.
+~
+141 0 0 0 0 0
+D1
+~
+~
+0 0 14120
+D3
+~
+~
+0 0 14100
+S
+#14103
+Hell~
+The smell of brimstone tickles your senses, and makes your stomac quesy.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14115
+D1
+~
+~
+0 0 14100
+D2
+~
+~
+0 0 14120
+D3
+~
+~
+0 0 14104
+S
+#14104
+Hell~
+The smell of brimstone tickles your senses, and makes your stomac quesy.
+~
+141 0 0 0 0 0
+D1
+~
+~
+0 0 14103
+D3
+~
+~
+0 0 14105
+S
+#14105
+A damp, warm tunnel~
+You are in a damp, warm tunnel.
+~
+141 32776 0 0 0 12
+D0
+~
+~
+0 0 14106
+D1
+~
+~
+0 0 14104
+D2
+~
+~
+0 0 14101
+D3
+~
+~
+0 0 14106
+S
+#14106
+A damp, warm tunnel~
+You continue on in Hell, through this warm tunnel.
+~
+141 32776 0 0 0 0
+D0
+~
+~
+0 0 14107
+D1
+~
+~
+0 0 14105
+D2
+~
+~
+0 0 14105
+D3
+~
+~
+0 0 14107
+S
+#14107
+A warm, damp tunnel~
+You contiue through a warm, damp tunnel.
+~
+141 32776 0 0 0 0
+D0
+~
+~
+0 0 14108
+D1
+~
+~
+0 0 14106
+D2
+~
+~
+0 0 14106
+D3
+~
+~
+0 0 14108
+S
+#14108
+A warm damp tunnel~
+You are in a warm damp tunnel.
+~
+141 8 0 0 0 0
+D0
+~
+~
+0 0 14109
+D1
+~
+~
+0 0 14107
+D2
+~
+~
+0 0 14107
+D3
+~
+~
+0 0 14110
+S
+#14109
+A warm damp tunnel~
+You are in a warm, damp tunnel.
+~
+141 8 0 0 0 0
+D0
+~
+~
+0 0 14121
+D1
+~
+~
+0 0 14108
+D2
+~
+~
+0 0 14108
+S
+#14110
+A warm damp room~
+You are in a warm, damp room.
+~
+141 8 0 0 0 0
+D0
+~
+~
+0 0 14149
+D1
+~
+~
+0 0 14108
+D2
+~
+~
+0 0 14131
+S
+#14111
+A warm damp tunnel~
+You continue through a warm, damp tunnel in Hell.
+~
+141 8 0 0 0 0
+S
+#14112
+A warm damp tunnel~
+The smell of brimstone tickles your senses, and makes your stomac quesy.
+~
+141 8 0 0 0 0
+S
+#14113
+A warm damp tunnel~
+The smell of brimstone tickles your senses, and makes your stomac quesy.
+~
+141 0 0 0 0 0
+S
+#14114
+A warm damp tunnel~
+The smell of brimstone tickles your senses, and makes your stomac quesy.
+~
+141 0 0 0 0 0
+S
+#14115
+A warm damp tunnel~
+The smell of brimstone tickles your senses, and makes your stomac quesy.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14116
+D2
+~
+~
+0 0 14103
+S
+#14116
+A warm damp tunnel~
+The smell of brimstone tickles your senses, and makes your stomac quesy.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14117
+D2
+~
+~
+0 0 14115
+S
+#14117
+A warm damp tunnel in hell.~
+You contiue through a warm, damp tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14118
+D2
+~
+~
+0 0 14116
+S
+#14118
+A room in hell.~
+You continue on in Hell, through this warm tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14119
+D2
+~
+~
+0 0 14117
+D3
+~
+~
+0 0 14131
+S
+#14119
+A room in Hell.~
+You contiue through a warm, damp tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14120
+D2
+~
+~
+0 0 14118
+S
+#14120
+A room in Hell~
+You are in a warm, damp room.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14103
+D1
+~
+~
+0 0 14121
+D2
+~
+~
+0 0 14119
+D3
+~
+~
+0 0 14102
+S
+#14121
+A room in Hell~
+You are in a warm, damp room.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14122
+D1
+~
+~
+0 0 14122
+D2
+~
+~
+0 0 14143
+D3
+~
+~
+0 0 14143
+S
+#14122
+A room in Hell~
+You are in a damp, warm tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14123
+D1
+~
+~
+0 0 14123
+D2
+~
+~
+0 0 14121
+D3
+~
+~
+0 0 14121
+S
+#14123
+A room in Hell~
+You are in a damp, warm tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14124
+D1
+~
+~
+0 0 14124
+D2
+~
+~
+0 0 14122
+D3
+~
+~
+0 0 14122
+S
+#14124
+A room in Hell~
+You are in a damp, warm tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14125
+D1
+~
+~
+0 0 14125
+D2
+~
+~
+0 0 14123
+D3
+~
+~
+0 0 14123
+S
+#14125
+A room in Hell~
+You are in a damp, warm tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14131
+D1
+~
+~
+0 0 14126
+D2
+~
+~
+0 0 14124
+D3
+~
+~
+0 0 14124
+S
+#14126
+A room in Hell~
+You are in a damp, warm tunnel.
+~
+141 0 0 0 0 0
+D1
+~
+~
+0 0 14127
+D3
+~
+~
+0 0 14125
+S
+#14127
+A room in Hell~
+You are in a damp, warm tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14131
+D1
+~
+~
+0 0 14128
+D2
+~
+~
+0 0 14131
+D3
+~
+~
+0 0 14126
+S
+#14128
+A room in Hell~
+You are in a damp, warm tunnel.
+~
+141 0 0 0 0 0
+D1
+~
+~
+0 0 14129
+D3
+~
+~
+0 0 14127
+S
+#14129
+A room in Hell~
+You are in a damp, warm tunnel.
+~
+141 0 0 0 0 0
+D1
+~
+~
+0 0 14130
+D2
+~
+~
+0 0 14142
+D3
+~
+~
+0 0 14128
+S
+#14130
+A room in Hell~
+You are in a damp, warm tunnel.
+~
+141 0 0 0 0 0
+D3
+~
+~
+0 0 14129
+S
+#14131
+A room in Hell~
+You continue on in Hell, through this warm tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14144
+D1
+~
+~
+0 0 14143
+D2
+~
+~
+0 0 14127
+D3
+~
+~
+0 0 14132
+S
+#14132
+A room in Hell~
+You continue on in Hell, through this warm tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14131
+D1
+~
+~
+0 0 14131
+D2
+~
+~
+0 0 14133
+D3
+~
+~
+0 0 14134
+S
+#14133
+A room in Hell~
+You continue on in Hell, through this warm tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14132
+D2
+~
+~
+0 0 14134
+S
+#14134
+A room in Hell~
+You continue on in Hell, through this warm tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14133
+D1
+~
+~
+0 0 14132
+D2
+~
+~
+0 0 14135
+D3
+~
+~
+0 0 14135
+S
+#14135
+A room in Hell~
+You continue on in Hell, through this warm tunnel.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14134
+D1
+~
+~
+0 0 14134
+D2
+~
+~
+0 0 14136
+D3
+~
+~
+0 0 14136
+S
+#14136
+A room in Hell~
+Should anyone ever ask, Hell is apparently an endless pattern of twisting hallways.
+Assuming you ever get out of here...heh heh.
+~
+141 8 0 0 0 0
+D0
+~
+~
+0 0 14135
+D1
+~
+~
+0 0 14135
+D2
+~
+~
+0 0 14137
+D3
+~
+~
+0 0 14137
+S
+#14137
+A room in Hell~
+Should anyone ever ask, Hell is apparently an endless pattern of twisting hallways.
+Assuming you ever get out of here...heh heh.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14136
+D1
+~
+~
+0 0 14136
+D2
+~
+~
+0 0 14138
+D3
+~
+~
+0 0 14138
+S
+#14138
+A room in Hell~
+Should anyone ever ask, Hell is apparently an endless pattern of twisting hallways.
+Assuming you ever get out of here...heh heh.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14137
+D1
+~
+~
+0 0 14137
+D2
+~
+~
+0 0 14139
+D3
+~
+~
+0 0 14139
+S
+#14139
+A room in Hell~
+Should anyone ever ask, Hell is apparently an endless pattern of twisting hallways.
+Assuming you ever get out of here...heh heh.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14138
+D1
+~
+~
+0 0 14138
+D2
+~
+~
+0 0 14140
+D3
+~
+~
+0 0 14149
+S
+#14140
+A room in Hell~
+Should anyone ever ask, Hell is apparently an endless pattern of twisting hallways.
+Assuming you ever get out of here...heh heh.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14139
+S
+#14141
+A room in Hell final 10~
+Is that a glowing?  Maybe you should go this way.
+~
+141 8 0 0 0 0
+D3
+~
+~
+0 0 14131
+S
+#14142
+A room in Hell final 9~
+Is that a glowing?  Maybe you should go this way.
+~
+141 0 0 0 0 0
+D0
+~
+~
+0 0 14129
+D2
+~
+~
+0 0 14143
+S
+#14143
+A room in Hell final 8~
+Is that a glowing?  Maybe you should go this way.
+~
+141 4 0 0 0 0
+D0
+~
+~
+0 0 14121
+D1
+~
+~
+0 0 14121
+D2
+~
+~
+0 0 14149
+D3
+~
+~
+0 0 14143
+S
+#14144
+A room in Hell final 7~
+   Well, it's definitely brighter here...  The walls glow with a definite
+redness...  And it's getting damn hot!!  But, it does seem like a good idea to
+continue.  It's better than where you have been, I'd think.    
+~
+141 8 0 0 0 0
+D0
+~
+~
+0 0 14143
+D2
+~
+~
+0 0 14131
+S
+#14145
+A room in Hell final 5~
+Is that a glowing?  Maybe you should go this way.
+~
+141 0 0 0 0 0
+D1
+~
+~
+0 0 14149
+S
+#14146
+A room in hell final 4~
+   Hey, there's something ahead of you, through this tunnel.  You might have
+found a way out, finally!    
+~
+141 8 0 0 0 0
+S
+#14147
+A room in Hell final 3~
+The tunnel out (you believe) continues.
+~
+141 8 0 0 0 0
+S
+#14148
+A room in Hell~
+Just a little further now.  There's a shape ahead of you, you think.
+~
+141 8 0 0 0 0
+S
+#14149
+A room in Hell FINAL~
+   Well, here you are...  In front of the biggest frigging demon of them all!!
+Better start bowing and scraping now.  He's not seemingly the nicest of
+creatures...  But he is smiling, so maybe...    
+~
+141 12 0 0 0 0
+D0
+~
+~
+0 0 14143
+D1
+~
+~
+0 0 14139
+D2
+~
+~
+0 0 14110
+D3
+~
+~
+0 0 14145
+S
+#14150
+A room in Hell~
+You are in a damp, warm tunnel.
+~
+141 0 0 0 0 0
+S
+$~

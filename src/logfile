@@ -1,0 +1,156 @@
+Jul 11 01:22:19 :: CircleMUD, version 3.00 beta patchlevel 14 - Modified by Mayhem
+
+Jul 11 01:22:19 :: Using lib as data directory.
+Jul 11 01:22:19 :: Running game on port 4002.
+Jul 11 01:22:19 :: Finding player limit.
+Jul 11 01:22:19 :: Setting player limit to 300 using rlimit.
+Jul 11 01:22:19 :: Opening mother connection.
+Jul 11 01:22:19 :: Binding to all IP interfaces on this host.
+Jul 11 01:22:19 :: Boot db -- BEGIN.
+Jul 11 01:22:19 :: Resetting the game time:
+Jul 11 01:22:19 ::    Current Gametime: 13H 12D 16M 468Y.
+Jul 11 01:22:19 :: Loading world settings:
+Jul 11 01:22:19 ::    PKilling: Allowed
+Jul 11 01:22:19 ::    PThieving: Allowed
+Jul 11 01:22:19 ::    Casting sleep on PCs: Allowed
+Jul 11 01:22:19 ::    Charming PCs: Allowed
+Jul 11 01:22:19 ::    Summoning PCs: Not Allowed
+Jul 11 01:22:19 ::    Roomaffect PCs: Not Allowed
+Jul 11 01:22:19 ::    Wizlock: 0
+Jul 11 01:22:19 ::    Max-lev-diff: 10
+Jul 11 01:22:19 ::    God OLC: Allowed
+Jul 11 01:22:19 ::    Clan OLC: Allowed
+Jul 11 01:22:19 :: Building command search tree:
+Jul 11 01:22:19 ::   486 commands. Done.
+Jul 11 01:22:19 :: Loading introscreens.
+Jul 11 01:22:20 :: Reading news, credits, help, bground, info & motds.
+Jul 11 01:22:20 :: SYSERR: text/bldbook: string too big (8192 max)
+Jul 11 01:22:20 :: Loading zone table.
+Jul 11 01:22:20 ::    72 zones, 4608 bytes.
+Jul 11 01:22:20 :: Loading rooms.
+Jul 11 01:22:20 ::    3246 rooms, 285648 bytes.
+Jul 11 01:22:20 ::    762533 bytes in descs, 291684 bytes in exdescs.
+Jul 11 01:22:20 :: Renumbering rooms.
+Jul 11 01:22:20 :: Checking start rooms.
+Jul 11 01:22:20 :: Loading mobs and generating index.
+Jul 11 01:22:20 ::    891 mobs, 17820 bytes in index, 374220 bytes in prototypes.
+Jul 11 01:22:20 ::    104189 bytes in descs.
+Jul 11 01:22:20 :: Loading objs and generating index.
+Jul 11 01:22:20 ::    1096 objs, 21920 bytes in index, 157824 bytes in prototypes.
+Jul 11 01:22:20 ::    45893 bytes in descs.
+Jul 11 01:22:20 :: Loading clans and generating index.
+Jul 11 01:22:20 :: Parsing clan #1
+Jul 11 01:22:20 :: Parsing clan #5
+Jul 11 01:22:20 :: Parsing clan #10
+Jul 11 01:22:20 :: Parsing clan #11
+Jul 11 01:22:20 :: Parsing clan #12
+Jul 11 01:22:20 :: Parsing clan #13
+Jul 11 01:22:20 :: Parsing clan #15
+Jul 11 01:22:20 :: Renumbering zone table.
+Jul 11 01:22:20 :: Loadin guild masters.
+Jul 11 01:22:20 :: Loading shops.
+Jul 11 01:22:20 :: Loading zone owners.
+Jul 11 01:22:20 :: Loading help entries.
+Jul 11 01:22:20 ::    853 entries, 13648 bytes.
+Jul 11 01:22:20 :: Generating player index.
+Jul 11 01:22:20 ::    6 players in database.
+Jul 11 01:22:20 :: Loading fight messages.
+Jul 11 01:22:20 :: Loading social messages.
+Jul 11 01:22:20 :: Assigning function pointers:
+Jul 11 01:22:20 ::    Shopkeepers.
+Jul 11 01:22:20 ::    Guildmasters.
+Jul 11 01:22:20 ::    Spells.
+Jul 11 01:22:20 :: Assigning spell and skill levels.
+Jul 11 01:22:20 :: Sorting command list and spells.
+Jul 11 01:22:20 :: Generating lists of spells.
+Jul 11 01:22:20 :: Booting mail system.
+Jul 11 01:22:20 ::    400 bytes read.
+Jul 11 01:22:20 ::    Mail file read -- 0 messages.
+Jul 11 01:22:20 :: Reading banned site and invalid-name list.
+Jul 11 01:22:20 :: Ban file 'etc/badsites' doesn't exist.
+Jul 11 01:22:20 :: Booting dns cache.
+Jul 11 01:22:20 :: Deleting timed-out crash and rent files:
+Jul 11 01:22:20 ::     Deleting objects from killa's rent file.
+Jul 11 01:22:20 :: Done.
+Jul 11 01:22:20 :: Booting houses.
+Jul 11 01:22:20 :: House control file 'etc/hcontrol' does not exist.
+Jul 11 01:22:20 :: Resetting Limbo - Internal (rooms 0-99).
+Jul 11 01:22:20 :: Resetting Xelpin (rooms 100-199).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 200-299).
+Jul 11 01:22:20 :: Resetting River Island Of Minos (rooms 300-999).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 1000-1099).
+Jul 11 01:22:20 :: Resetting God Simplex (rooms 1100-1299).
+Jul 11 01:22:20 :: SYSERR: zone file: unknown cmd in reset table; cmd disabled
+Jul 11 01:22:20 :: SYSERR: ...offending cmd: '0' cmd in zone #12, line 8
+Jul 11 01:22:20 :: Resetting Space Station Alpha (rooms 1300-1599).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 1600-1899).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 1900-2099).
+Jul 11 01:22:20 :: Resetting The High Tower Of Magic (rooms 2100-2699).
+Jul 11 01:22:20 :: Resetting The High Tower Of Magic II (rooms 2700-2699).
+Jul 11 01:22:20 :: Resetting Northern Midgaard Main City (rooms 2700-3099).
+Jul 11 01:22:20 :: Resetting Southern part of Midgaard (rooms 3100-3199).
+Jul 11 01:22:20 :: Resetting The Graveyard (rooms 3200-3299).
+Jul 11 01:22:20 :: Resetting The Three Of Swords (rooms 3300-3399).
+Jul 11 01:22:20 :: Resetting Miden'Nir (rooms 3400-3599).
+Jul 11 01:22:20 :: Resetting The Chessboard of Midgaard (rooms 3600-3699).
+Jul 11 01:22:20 :: Resetting Moria, Levels 1-2 (rooms 3700-4199).
+Jul 11 01:22:20 :: Resetting Moria, Level 3 (rooms 4200-4199).
+Jul 11 01:22:20 :: Resetting The Great Eastern Desert (rooms 4200-5099).
+Jul 11 01:22:20 :: Resetting Drow City (rooms 5100-5199).
+Jul 11 01:22:20 :: Resetting The City Of Thalos (rooms 5200-5299).
+Jul 11 01:22:20 :: Resetting The Great Pyramid (rooms 5300-5399).
+Jul 11 01:22:20 :: Resetting New Thalos (rooms 5400-5699).
+Jul 11 01:22:20 :: Resetting New Thalos, Continued (rooms 5700-5699).
+Jul 11 01:22:20 :: Resetting New Thalos Wilderness (rooms 5700-5699).
+Jul 11 01:22:20 :: Resetting The Castle of Shadows (rooms 5700-5799).
+Jul 11 01:22:20 :: Resetting Psychedelic mistery (rooms 5800-5899).
+Jul 11 01:22:20 :: Resetting Bloody Lovers Clan (rooms 5900-5999).
+Jul 11 01:22:20 :: Resetting Haon-Dor, Light Forest (rooms 6000-6099).
+Jul 11 01:22:20 :: Resetting Haon-Dor, Dark Forest (rooms 6100-6199).
+Jul 11 01:22:20 :: Resetting The Orc Enclave (rooms 6200-6299).
+Jul 11 01:22:20 :: Resetting Arachnos (rooms 6300-6399).
+Jul 11 01:22:20 :: Resetting Rand's Tower (rooms 6400-6499).
+Jul 11 01:22:20 :: Resetting The Dwarven Kingdom (rooms 6500-6599).
+Jul 11 01:22:20 :: Resetting Sundhaven (rooms 6600-6799).
+Jul 11 01:22:20 :: Resetting Froboz's Factory (rooms 6800-6838).
+Jul 11 01:22:20 :: Resetting The Sewer, First Level (rooms 6839-7099).
+Jul 11 01:22:20 :: Resetting The Second Sewer (rooms 7100-7199).
+Jul 11 01:22:20 :: Resetting The Sewer Maze (rooms 7200-7399).
+Jul 11 01:22:20 :: Resetting The Tunnels In The Sewer (rooms 7400-7399).
+Jul 11 01:22:20 :: Resetting Redferne's Residence (rooms 7400-7999).
+Jul 11 01:22:20 :: Resetting Transporters (rooms 8000-9099).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 9100-9199).
+Jul 11 01:22:20 :: Resetting FantasyLand (rooms 9200-9299).
+Jul 11 01:22:20 :: Resetting Atlantis (The sunken city) (rooms 9300-9599).
+Jul 11 01:22:20 :: Resetting Intrak (rooms 9600-9699).
+Jul 11 01:22:20 :: Resetting Dadko's zone of hiden castle (rooms 9700-9899).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 9900-10099).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 10100-10199).
+Jul 11 01:22:20 :: Resetting Crinitos, jungle (rooms 10200-10299).
+Jul 11 01:22:20 :: Resetting Rome (rooms 10300-12099).
+Jul 11 01:22:20 :: Resetting Hell (rooms 12100-14150).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 14151-14299).
+Jul 11 01:22:20 :: Resetting UNDERWATER (rooms 14300-14399).
+Jul 11 01:22:20 :: Resetting The Ruins of Drooan (rooms 14400-14499).
+Jul 11 01:22:20 :: Resetting King Welmar's Castle (rooms 14500-15099).
+Jul 11 01:22:20 :: Resetting The Haunted House (rooms 15100-17062).
+Jul 11 01:22:20 :: Resetting Newbie Zone (rooms 17063-18699).
+Jul 11 01:22:20 :: Resetting New Sparta (rooms 18700-21999).
+Jul 11 01:22:20 :: Resetting The Abandoned Cathedral (rooms 22000-22099).
+Jul 11 01:22:20 :: Resetting Vice Island -- Questor (rooms 22100-22199).
+Jul 11 01:22:20 :: Resetting Vice Island -- Questor (rooms 22200-22204).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 22205-22399).
+Jul 11 01:22:20 :: Resetting Zona Staronovej Kultury (rooms 22400-22499).
+Jul 11 01:22:20 :: Resetting Darkland (rooms 22500-22599).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 22600-22699).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 22700-22799).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 22800-29699).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 29700-29999).
+Jul 11 01:22:20 :: Resetting New Zone (rooms 30000-30099).
+Jul 11 01:22:20 :: Boot db -- DONE.
+Jul 11 01:22:20 :: Signal trapping.
+Jul 11 01:22:20 :: Entering game loop.
+Jul 11 01:22:20 :: No connections.  Going to sleep.
+Jul 11 01:22:22 :: SYSERR: Received SIGHUP, SIGINT, or SIGTERM.  Shutting down...
+Jul 11 01:22:22 :: Saveing all players in game.
+Jul 11 01:22:22 :: Shutdown...

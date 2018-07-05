@@ -1,0 +1,263 @@
+#0
+bug~
+a bug~
+This object is BAD!  If you see it, there must be a bug in the game.  Please
+report it immediately using the BUG command.~
+~
+13 0 0 0 0 0
+0 0 0 0
+0 0 0
+#1
+wings~
+a pair of wings~
+A pair of wings is sitting here.~
+~
+9 0 0 0 0 17
+6 0 0 0
+0 0 200
+#10
+waybread bread~
+a waybread~
+Some waybread has been put here.~
+~
+19 64 0 0 0 1
+24 0 0 0
+1 50 50
+E
+waybread bread~
+The waybread is the traditional feed of elves when travelling, they
+call it lembas.  It is said to refresh the weary traveler greatly.
+~
+#11
+Piece, Intestine~
+a nast piece of intestine~
+A nasty pile of intestines is lying here - colon and all.~
+The warrior's trademark skill.
+~
+19 0 0 0 0 1
+0 0 0 0
+0 0 0
+#15
+mace nightbringer~
+Nightbringer~
+A mace with the word 'Nightbringer' etched into the shaft lies here.~
+~
+5 262156 0 0 0 8193
+0 15 15 5
+10 0 50000
+S
+blind_weapon
+#16
+sword firecaster~
+Firecaster~
+A sword with the word 'Firecaster' etched into the hilt lies here.~
+~
+5 262156 0 0 0 8193
+0 15 15 5
+8 0 50000
+S
+fireball_weapon
+#17
+flail unholy~
+Unholy~
+A flail with the word 'Unholy' etched into the shaft lies here.~
+~
+5 262156 0 0 0 8193
+0 15 15 5
+8 0 50000
+S
+curse_weapon
+#30
+unfinished object~
+an unfinished object~
+A floor boards have been broken and left here.~
+~
+13 0 0 0 0 0
+0 0 0 0
+1000 0 1000
+#31
+portal gate~
+a misty portal~
+A misty portal floats here, beckoning you to enter, if you dare!~
+~
+13 0 0 0 0 0
+0 0 0 0
+1000 0 -1
+S
+portal
+#50
+spring fountain water~
+a bubbling spring~
+A spring is bubbling here merrily.~
+~
+23 0 0 0 0 0
+30 25 15 0
+1000 0 10000
+#51
+berries red~
+a few red berries~
+A few red berries are here.~
+~
+19 0 0 0 0 1
+12 0 0 1
+1 10 1
+#52
+blue berries energetic~
+a few blue berries~
+A few blue berries are here.~
+~
+19 0 0 0 0 1
+24 0 0 0
+0 0 0
+#53
+mushroom~
+a mushroom~
+A mushroom is growing here.~
+~
+19 0 0 0 0 1
+12 0 0 0
+0 0 0
+#54
+bread piece lost~
+a piece of bread~
+A piece of bread someone lost here.~
+~
+19 0 0 0 0 1
+12 0 0 0
+2 0 0
+#55
+meat deer~
+a meat of deer~
+A meat of deer somebody lost here.~
+~
+19 0 0 0 0 1
+12 0 0 0
+4 0 0
+#56
+meat chipmunk~
+a meat of chipmunk~
+A chipmunk meat is here in the dust.~
+~
+19 0 0 0 0 1
+3 0 0 0
+1 0 0
+#57
+trunk hollow~
+a hollow trunk~
+A hollow trunk is here.~
+~
+17 0 0 0 0 1
+25 20 0 0
+40 0 0
+#60
+remains boards floor broken~
+the floor boards~
+The large flooor boards have been broken and left here.~
+~
+13 0 0 0 0 0
+0 0 0 0
+10000 0 0
+E
+boards floor remains~
+It seems someone tried to bury something here.
+~
+#61
+gravel raked~
+the raked gravel~
+The gravel on the road has been raked by someone.~
+~
+13 0 0 0 0 0
+0 0 0 0
+10000 0 0
+E
+gravel raked~
+It seem someone digged into the road. He has maybe buried something,
+altough this is not proper place to hide anything.
+~
+#62
+raked dirt~
+the raked dirt~
+The dirt here is rather raked.~
+~
+13 0 0 0 0 0
+0 0 0 0
+10000 0 0
+E
+dirt ground~
+It seems someone digged the dirt here...
+~
+#63
+roots~
+the destroyed roots~
+The roots of trees were carelessly destroyed here.~
+~
+13 0 0 0 0 0
+0 0 0 0
+10000 0 0
+E
+roots~
+It looks someone worked hard to bury something here.
+~
+#64
+raked clay~
+the raked clay~
+Someone raked the clay here.~
+~
+13 0 0 0 0 0
+0 0 0 0
+10000 0 0
+E
+clay~
+It looks someone worked hard to bury something here.
+~
+#65
+rocks~
+the raked rocks~
+Somebody raked the rocks here.~
+~
+13 0 0 0 0 0
+0 0 0 0
+10000 0 0
+E
+rocks~
+It looks someone worked hard to bury something here.
+~
+#70
+hole floor~
+a big hole in the floor~
+A big hole is here in the floor.~
+~
+13 0 0 0 0 0
+0 0 0 0
+10000 0 0
+E
+hole~
+It seems someone tried to dig to the ground.
+~
+#71
+hole~
+a big hole~
+A big hole has been digged here to the ground.~
+~
+13 0 0 0 0 1
+0 0 0 0
+10000 0 0
+E
+hole~
+It seems someone tried to dig something from the ground.
+~
+#99
+scythe death~
+the Scythe of Death~
+The Scythe of Death rests heavily on the ground.~
+~
+5 123762188 0 0 0 8193
+0 15 15 5
+40 0 50000
+E
+scythe death~
+It is a very heavy scythe.  The grey handle is made from hard wood and the
+long iron blade is completely smooth from countless years of use.  It feels
+cold to the touch.
+~
+$~

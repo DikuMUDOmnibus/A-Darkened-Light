@@ -1,0 +1,124 @@
+#170
+The Haunted House~
+Maddog~
+0 0
+17062 25 1
+* the door commands are pretty easy to recognize, so I have no comments
+D 0 17003 0 1
+D 0 17004 2 1
+D 0 17011 0 2
+D 0 17011 2 2
+D 0 17012 2 2
+D 0 17013 0 2
+D 0 17014 0 2
+D 0 17014 2 2
+D 0 17015 2 2
+D 0 17016 0 2
+D 0 17018 0 2
+D 0 17020 3 2
+D 0 17021 0 1
+D 0 17025 2 1
+D 0 17027 0 1
+D 0 17028 2 1
+D 0 17029 2 2
+D 0 17029 5 1
+D 0 17032 1 1
+D 0 17032 0 1
+D 0 17033 3 1
+D 0 17034 2 1
+D 0 17037 0 1
+D 0 17037 1 1
+D 0 17038 3 1
+D 0 17038 5 2
+D 0 17039 3 1
+D 0 17039 1 1
+D 0 17040 1 1
+D 0 17041 3 1
+D 0 17042 1 0
+D 0 17042 3 1
+D 0 17043 3 0
+D 0 17044 1 1
+D 0 17045 1 2
+D 0 17047 3 1
+D 0 17048 1 1
+D 0 17049 3 1
+D 0 17050 1 1
+D 0 17055 2 1
+D 0 17056 1 1
+D 0 17057 4 2
+D 0 17058 3 1
+D 0 17061 4 1
+D 0 17062 5 2
+D 0 17062 4 2
+*all door commands are up from here
+M 0 17023 1 17062 * load a stone wall into room #17062
+G 1 17033 1 * give a stone wall a rugged key
+E 1 17034 1 16 * have stone wall wield a jagged piece of stone
+O 0 17006 1 17060 * load an old well into room #17060
+O 0 17004 1 17022 * load the fireplace into room #17022
+M 0 17000 1 17020 * load the dungeon ruler into room #17020
+E 1 17001 1 11 * give him the shield of the dead to wear as shield
+G 1 17007 1 * give him the key to the treasure
+G 1 17002 1 * give him a skeleton key
+M 1 17019 1 17020 * load a slave into room #17020
+M 0 17001 1 17057 * load an old woman into room #17057
+E 1 17000 1 1 * give her a ring of the devil to wear on right finger
+E 1 17012 1 16 * give her the PUNISHER to wield as a weapon
+G 1 17014 1 * give her a purple potion
+O 0 17008 1 17041 * load a small bed into room #17041
+O 0 17009 1 17045 * load a golden lance into room #17045
+O 0 17010 1 17058 * load a torch into room #17058
+M 0 17002 5 17021 * load a wandering ghoul into room #17021
+E 1 17011 3 16 * give it a pair of bloody claws to wield as a weapon
+M 0 17002 5 17011 * load a wandering ghoul into room #17011
+E 1 17011 3 16 * give it a pair of bloody claws to wield as a weapon
+M 0 17002 5 17039 * load a wandering ghoul into room #17039
+E 1 17011 3 16 * give it a pair of bloody claws to wield as a weapon
+M 0 17003 1 17058 * load darkness into room #17058
+G 1 17005 1 * give him a special key
+E 1 17027 1 17 * give him the dark sword of power to be held
+M 0 17004 1 17040 * load a harmless spider into room #17040
+O 0 17013 1 17044 * load a rusty sword into room #17044
+M 0 17005 1 17018 * load the mad dragon into room #17018
+G 1 17003 1 * give him a secret key
+E 1 17031 1 7 * give him a dragon tail to wear on legs
+E 1 17032 1 6 * give him a bull skull to wear on head
+M 0 17006 2 17044 * load a box into room #17044
+M 0 17007 4 17027 * load a rock into room #17027
+M 0 17007 4 17026 * load a rock into room #17026
+M 0 17008 7 17022 * load a little spider into room #17022
+M 0 17008 7 17033 * load a little spider into room #17033
+M 0 17008 7 17046 * load a little spider into room #17046
+O 0 17015 1 17056 * load an old leather belt into room #17056
+O 0 17016 1 17056 * load an old jacket into room #17056
+O 0 17017 1 17033 * load a scarf into room #17033
+O 0 17018 1 17034 * load lots of gold coins into room #17034
+M 0 17009 6 17005 * load a headless ghost into room #17005
+E 1 17019 2 17 * give him a ghosts' head to be held
+P 1 17020 1 17019 * put a stupid ghost's brain into a ghosts' head
+M 0 17009 6 17037 * load a headless ghost into room #17037
+E 1 17019 2 17 * give him a ghosts' head to be held
+P 1 17020 1 17019 * put a stupid ghost's brain into a ghosts' head
+M 0 17010 1 17049 * load a large bat into room #17049
+M 0 17011 3 17004 * load a little bat into room #17004
+O 0 17021 1 17017 * load a skull into room #17017
+M 1 17012 1 17017 * load a rat into room #17017
+O 0 17022 1 17061 * load a bench into room #17061
+O 0 17023 1 17061 * load a box into room #17061
+P 1 17024 2 17023 * put a bottle of water into a box
+P 1 17025 1 17023 * put an old bottle of whisky into a box
+P 1 17026 3 17023 * put an old bread into a box
+M 0 17013 3 17009 * load a wandering rat into room #17009
+M 0 17014 2 17047 * load a roach into room #17047
+M 0 17015 2 17006 * load a beetle into room #17006
+M 0 17016 1 17012 * load an insane prisoner into room #17012
+M 0 17017 1 17016 * load the evil prisoner into room #17016
+E 1 17028 1 17 * give him a rusted file to be held
+M 0 17018 1 17013 * load a sad prisoner into room #17013
+M 0 17020 1 17036 * load a lost wizard into room #17036
+E 1 17029 1 17 * give him a glowing wand to be held
+G 1 17030 1 * give him a violet scroll
+M 0 17021 1 17045 * load the boogie monster into room #17045 
+M 0 17022 1 17051 * load a dark crow into room #17051
+S
+$~

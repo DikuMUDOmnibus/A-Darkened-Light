@@ -1,0 +1,100 @@
+#5900
+Entrance To Bloody Lovers Clan~
+  You have appeared in the long dark tunnel. Be carefull, the ceiling is very
+low. Several tall members have problems to pass through it without head
+crashing. On the eastern end there is massive lead gate without handle but
+with strange looking wheel.
+~
+59 71688 0 0 0 0
+D1
+You look at the massive lead obsidian gate.
+~
+gate~
+1 0 5901
+S
+#5901
+Bloody Lovers Plaza~
+  Standing on this square you sense the wealth and fame of Bloody Lovers.
+It is truly unique and beautiful. The floor is decorated with obscure and
+unusual symbols. In the center near the fountain high up on a large shining
+granite padestal are three huge statues of clan leaders.
+~
+59 71688 0 0 0 0
+D0
+You can see Bloody Lovers Library in the distance.
+~
+~
+0 0 5904
+D1
+You can see Bloody Lovers Bank in the distance.
+~
+~
+0 0 5902
+D2
+You can see Bloody Lovers Kitchen in the distance.
+~
+curtain~
+1 0 5905
+D3
+You look at the massive lead obsidian gate.
+~
+gate~
+1 0 5900
+S
+#5902
+Bloody Lovers Bank~
+  This bank is the only one in the clan. Drzgros is proud of his contract with
+the Brutus that allowes him to do his bussiness here. The bank is absolutely
+secure. Nobody ever told of a successful robbery on this bank. The staircase
+leads down to the reception room of Bloody Lovers.
+~
+59 67592 0 0 0 0
+D3
+You can see Bloody Lovers Plaza in the distance.
+~
+~
+0 0 5901
+D5
+You can see Bloody Lovers Reception downstairs.
+~
+~
+0 0 5903
+S
+#5903
+Bloody Lovers Reception~
+  This is the ground floor of the bank. The receptionist is here waiting for
+you. You must be very tired. Maybe you should have some rest here.
+~
+59 67592 0 0 0 0
+D4
+You can see Bloody Lovers Bank upstairs.
+~
+~
+0 0 5902
+S
+#5904
+Bloody Lovers Library~
+  Tons of books line the walls. There are books on almost every subject you
+can think of. A series of desks line the walls many of them filled with scholar
+reading volumes on many different subjects.
+~
+59 67592 0 0 0 0
+D2
+You can see Bloody Lovers Plaza in the distance.
+~
+~
+0 0 5901
+S
+#5905
+Bloody Lovers Kitchen~
+  It is quiet and sultry in the kitchen. Some flies looking for breadcrumbs
+are walking absent-mindedly about on the waxcloth table cover.
+~
+59 67592 0 0 0 0
+D0
+You can see Bloody Lovers Plaza in the distance.
+~
+curtain~
+1 0 5901
+S
+$~

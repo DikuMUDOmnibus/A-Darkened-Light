@@ -1,0 +1,101 @@
+#22500
+Gourgaz~
+Gourgaz~
+Gourgaz tu stoji a pozera na teba
+~
+Je to velky na plaza sa podobajuci tvor. Zda sa ze je vodca giakov.
+~
+65576 0 0 0 0 0 0 0 -500 E
+20 5 -1 20d20+250 3d8+13
+5000 35000
+8 8 0
+MaxMove: 50
+E
+#22501
+Giak~
+Giak~
+Giak bojovnik sa tu chysta na Utok !
+~
+Vyzera ze svoj volny cas travi v posilovni :)
+Urcite je to dobry bojovnik, je vidiet kopu jazvy na jeho tele
+ktore svedcia o jeho zazitkoch z boja
+~
+40 0 0 0 0 0 0 0 -500 E
+12 10 0 25d10+100 3d8+10
+1500 10000
+8 8 1
+MaxMove: 50
+E
+#22502
+Strazca priesmyku~
+Strazca~
+Strazca priesmyku si ta pozorne premeriava
+~
+It looks, err, unfinished.
+~
+16783626 0 0 0 0 0 0 0 350 E
+40 -8 -6 30d70+700 8d8+27
+75000 300000
+8 8 1
+BareHandAttack: 3
+MaxMove: 50
+E
+#22597
+tester mob~
+Toto je testovaci mob~
+testovaci mob nechape co tu robi
+~
+It looks, err, unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+30 20 10 1d1+2000 1d1+0
+0 10000
+8 8 0
+E
+>fight_prog 90~
+say Skus ako ti sekne fireball...
+cast 'fireball'
+~
+|
+#22598
+telo~
+telo~
+pokusny mob
+~
+It looks, err, unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+MaxMove: 50
+E
+>hitprcnt_prog 100~
+if hitprcnt $hlava <= 5
+  then
+mpecho ideee totoooooo
+else endif
+~
+|
+#22599
+hlava~
+hlava~
+Toto je pokusny mob
+~
+It looks, err, unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+20 10 -10 10d10+500 5d5+10
+50000 100000
+8 8 0
+MaxMove: 50
+E
+>death_prog 100~
+mpmload 22599
+mpmload 22599
+
+
+mpecho Vmomente ako si odsekol hlavu sa namiesto nej objavili dalsie dve
+~
+|
+$

@@ -1,0 +1,242 @@
+#9200
+The Begining~
+This is the begining.
+The begining of the new world...
+You should run away if you want to stay alive.
+But if you survive then you'll be the best killer around here.
+
+Let the GODs be with you...(you will need it)
+~
+92 2097217 0 0 0 4
+D0
+~
+gate~
+1 9202 9202
+D3
+~
+~
+0 0 9201
+S
+#9201
+Passage to the new world~
+You are entering this new zone.
+Type "read note" to know something more.
+~
+92 2097153 0 0 0 0
+D1
+~
+~
+0 0 9200
+D3
+~
+~
+0 0 9209
+S
+#9202
+Behind the gate~
+Well...
+If you've made you down here then the guards that were guarding the gate
+must be death!
+Let the guards Rest In Pieces :)
+~
+92 0 0 0 0 0
+D0
+~
+door~
+1 0 9203
+D2
+~
+gate~
+1 0 9200
+S
+#9203
+The southest square of this realm~
+You are on the town square...
+There are only two things you should know.
+The first is that there are training guilds aroud this square.
+The second is that the rest of the town lays in north.
+~
+92 0 0 0 0 0
+D0
+~
+~
+0 0 9210
+D1
+~
+~
+0 0 9204
+D2
+~
+door~
+1 0 9202
+D3
+~
+~
+0 0 9205
+D4
+~
+~
+0 0 9207
+D5
+~
+~
+0 0 9206
+S
+#9204
+The home room of the bone dragon master~
+This room is very very big.
+Do you want to know more? But what? This room is just for training...
+~
+92 0 0 0 0 0
+D3
+~
+~
+0 0 9203
+S
+#9205
+Home of the green dragon master~
+Another training room of another training master...
+Any more training questions?
+~
+92 0 0 0 0 0
+D1
+~
+~
+0 0 9203
+D3
+~
+~
+0 0 -1
+S
+#9206
+The home room of the red dragon master~
+The name of this room says everything...
+It must be enought for you.
+~
+92 0 0 0 0 0
+D4
+~
+~
+0 0 9203
+S
+#9207
+ABOVEAIR~
+You are in the ,err aboveair.
+What is it?
+It is an underground up in the air :)
+~
+92 0 0 0 0 0
+D0
+~
+~
+0 0 9208
+D5
+~
+~
+0 0 9203
+S
+#9208
+Another aboveair~
+Where do you want to go today?
+Rome? New Thalos?
+Just choose a way...
+~
+92 0 0 0 0 0
+D0
+~
+~
+0 0 6786
+D1
+~
+~
+0 0 21130
+D2
+~
+~
+0 0 9207
+D3
+~
+~
+0 0 9000
+D4
+~
+~
+0 0 9001
+S
+#9209
+Time door~
+You are in a big portal.
+Don't move if you want to enter another world!
+~
+92 163840 0 0 0 0
+D3
+~
+~
+0 0 6103
+T
+9201 1 3 0
+S
+#9210
+Shoping square~
+This square is very popular by people which really like to do shopping.
+If you enjoy shopping then look around and buy yourself something nice...
+~
+0 0 0 0 0 0
+D1
+~
+~
+0 0 9211
+D2
+~
+~
+0 0 9203
+D3
+~
+~
+0 0 9212
+S
+#9211
+East shopping center~
+This side of shopping is most used by girls.
+Why? Look around and see...
+~
+0 0 0 0 0 0
+D3
+~
+~
+0 0 9210
+S
+#9212
+West shopping center~
+I really like this side of shopping square like other man...
+Why? You can by more useful things here than on the east square (like alcohol)
+~
+0 0 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 9210
+D4
+~
+~
+0 0 9213
+S
+#9213
+Bart's treehouse shop~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D2
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 9212
+S
+$~

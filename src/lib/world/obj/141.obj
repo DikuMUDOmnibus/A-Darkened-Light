@@ -1,0 +1,108 @@
+#14100
+tattered jeans~
+a tattered pair of jeans~
+A tattered pair of jeans lie here.~
+~
+11 0 0 0 0 33
+0 0 0 0
+3 10 3
+A
+17 1
+#14101
+gold~
+a few gold pieces~
+A few gold pieces are here.~
+~
+20 0 0 0 0 1
+5 0 0 0
+0 0 0
+#14102
+leather shirt~
+a leather shirt~
+A leather shirt has been disgarded here.~
+~
+11 0 0 0 0 9
+0 0 0 0
+3 15 6
+A
+17 1
+#14103
+baseball bat~
+a baseball bat~
+A baseball bat is lying here.~
+~
+5 0 0 0 0 8193
+0 2 7 5
+8 100 25
+A
+19 1
+#14106
+A decrepite corpse~
+A decrepite corpse~
+A absolutly disguisting decrepite corpse is lying here rotting away.~
+its horrid and smelly.
+~
+15 0 0 0 0 0
+80000000 1 -1 0
+800000 0 0
+#14110
+leather couch~
+a leather couch~
+A leather couch is here.~
+~
+12 70 0 0 0 1
+0 0 0 0
+9999 0 0
+#14130
+golden arrow~
+a golden arrow~
+A golden arrow is lying here.~
+~
+30 256 0 0 0 16385
+0 0 0 0
+1 100 1
+A
+19 3
+A
+18 3
+#14149
+bracer Jed's~
+Jed's Bracer~
+A bracer lies here.~
+~
+9 0 0 0 0 4097
+50 0 0 0
+1 2147483647 2147483647
+A
+17 30
+A
+19 50
+A
+18 50
+A
+20 50
+A
+22 50
+A
+21 50
+#14150
+Jed's ring~
+Jed's Ring~
+A ring is lying here.~
+~
+9 0 0 0 0 3
+30 0 0 0
+1 2147483647 999999999
+A
+2 10
+A
+18 20
+A
+17 20
+A
+19 50
+A
+24 30
+A
+23 30
+$~

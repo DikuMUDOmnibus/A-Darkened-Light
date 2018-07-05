@@ -1,0 +1,121 @@
+#22400
+android~
+the Android seria I~
+The Android serie I
+~
+Asi jeden meter devatdesiat vysoky android. Velmi zdravo vyzerajuci , tak
+zdravo ako len android v jeho veku vyzerat moze. Studuje ta svojim prenikavym
+pohladom od hlavy az po konceky prstov na nohach.
+~
+69674 0 0 0 301991040 262144 0 0 -100 E
+25 20 -5 30d20+0 1d1+20
+4000 30000
+7 8 1
+MaxMove: 50
+E
+#22401
+cyborg~
+Cyborg zvany krvavy noz~
+Cyborg stands here.
+~
+Tento cyborg je obycajny cyborg najstarsia generacia, nenajdes ho uz nikde len
+v uplne zabudnutych kutoch tohto sveta. On sam ma problemy so svojou
+mobilitou a este ta musi aj obsluzit . Tak cakaj.
+~
+11 0 0 0 0 0 0 0 0 E
+40 10 -10 30d1000+0 1d1+0
+100000 0
+8 8 0
+MaxMove: 50
+E
+#22402
+mechwarrior warrior mech~
+maly mechwarrior~
+Maly mechwarrior tu stoji.
+~
+Ten krpaty mechwarrior len na teba cumii a nic. Zeby cakal kedy zautocis?
+Mozno hej. Na nom mozes vidiet technologiu ale dost zastaralu.
+Avsak aj tak ti moze ublizit.
+~
+4264 64 0 0 33555584 0 0 0 -100 E
+10 18 -2 20d20+0 1d1+30
+1000 21000
+8 8 1
+BareHandAttack: 12
+MaxMove: 50
+E
+#22403
+cyborg brutal~
+brutal cyborg~
+Brutal cyborg stands here.
+~
+Brutalny vyzor nic viac.
+~
+42 96 0 0 117441704 131072 0 0 0 E
+35 -10 -20 10d100+0 20d20+30
+0 450000
+8 8 0
+MaxMove: 50
+E
+#22404
+android~
+android seria II~
+An android seria II stands here.
+~
+Nic len plech.
+~
+6410 32 0 0 436208768 131072 0 0 -1000 E
+36 -30 -5 30d1000+0 1d30+10
+1000 60000
+8 8 2
+MaxMove: 50
+E
+#22412
+mutant hodinar~
+mutant hodinar~
+Hodinar tu stoji bez pohybu.
+~
+Povodne to bol zivocich nikdo vsak nevie aky! Teraz uz ma 20 oci, ktore mu
+iste pomahaju v jeho praci. Alebo nie? Ked nie tak potom musim lutovat toho
+jeho ocneho lekara.
+~
+10 0 0 0 0 0 0 0 0 E
+20 20 -2 30d30+0 1d1+0
+2000 0
+8 8 1
+MaxMove: 50
+E
+#22415
+mutant zipo~
+mutant Zipo~
+V pozore tu stoji mutant Zipo.
+~
+Dost neprijemne zmutovane telo sa mu leskne. Dovod pre to je zlto zeleny
+sliz co mu steka z otvorenych ust. Pat oci mu dodava ozaj neludsky  vyzor.
+Cez nozdry na teba slahaju neobvikle plamene. Ich neobviklost je v tom, ze
+su zltej farby.
+~
+43 0 0 0 0 0 0 0 -1000 E
+30 -5 1 30d200+0 5d8+5
+1 30000
+8 8 1
+BareHandAttack: 12
+MaxMove: 50
+SpecProc: dragon_fire
+E
+#22499
+inetka inga~
+dievcatko inetka~
+Inetka tu len tak lezi.
+~
+Cierne vlasy jej siahaju az po plecia. Hnedymi ocami ta prebodava a z jej
+pier pocujes slova "xcem ta"
+Jej krasne telo je pokryte cele slahackou.
+~
+8 0 0 0 1152 0 0 0 0 E
+0 10 -20 30d1000+0 10d1+10
+1000 0
+8 8 2
+BareHandAttack: 11
+E
+$

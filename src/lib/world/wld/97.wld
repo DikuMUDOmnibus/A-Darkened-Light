@@ -1,0 +1,1848 @@
+#9700
+The Begin~
+   One upon a time , there was a human called Dadko.  He plays MUD very good
+and became Immortal.  Then he ask the Implementator to have his own zone.  And
+he has it.  You are now in his zone of hiden castle.
+~
+97 16 0 0 0 12
+D0
+You see a road to the vilage.
+~
+~
+0 0 9701
+D2
+You see a dark road there.
+~
+~
+0 0 9708
+E
+Begin~
+The Begin of Dadko's zone
+~
+S
+#9701
+Cesta ku hradu~
+   Nachadzas sa na cesto do hradu.  Vraj niekedy tam bolo vela zlata.  No
+odkedy sa ten hrad stratil , akosi tu uz nikto nechodi a povrch cesty sa zacal
+nicit.  No aj tak sa este po nej ako tak da prejst.  Ale nezaskodilo by ju
+trosku opravit.    
+~
+97 2097152 0 0 0 12
+D0
+Vidis iba zaprasenu cestu.
+~
+~
+0 0 9702
+D2
+Vidis miestnost zaliatu strasne oslepujucim svetlom
+~
+~
+0 0 9700
+D3
+Vidis akysi obchod a nad obchodom napis "CARODEJNICKE POMOCKY"
+~
+<NONE>~
+0 0 9704
+S
+#9702
+V blizkosti hradu~
+   Nachadzas sa uz v blizkosti hradu , uz vidis aj hradne mury.  Ale akosi za
+tymi hradbami nic nevidis.  No nevies , ci sa ti to len sniva , alebo je to
+fakt pravda.    
+~
+97 0 0 0 0 12
+D0
+Nedaleko vidis nejake mesto , ale pomaly sa ti straca.
+~
+~
+0 0 9703
+D2
+Vidis nejaku zaprasenu cestu a na jej konci jasne svetlo
+~
+~
+0 0 9701
+S
+#9703
+Vchod do hradu~
+   Nachadzas sa pred obrovskou stenou.  Zda sa , ze niekedy tu bola nejaka
+brana.  No ako tak pozeras zistujes , ze tu branu asi zamurovali.  Nikto nevie
+preco bola zamurovana , ale bol to asi poriadny dovod.  Pri podrobnejsom
+prieskume steny si v rohu nasiel akysi priechod. Podoba sa to sice viac na mrezu ale co uz.
+~
+97 4 0 0 0 2
+D0
+Vidis pred sebou obrovsku stenu , kde vraj pred tym bola brana do bohateho mesta.
+V rohu steny vidis malicky prechod na druhu stranu.
+~
+prechod~
+1 0 9705
+D2
+Vidis nejaku cestu a daleko , daleko nejake strasne jasne svetlo.
+~
+~
+0 0 9702
+S
+#9704
+CARODEJNICKE POMOCKY~
+   Nachadzas sa v obchode s carodejnickymi pomockami . Nejaky starucky dedusko
+si tu cosi mrmle nad akousi cudnou flastickou.  A ta flasticka sa akosi zacina
+menit.  Zrazu vidis , ako sa naplnila akousi cudnou tekutinou.    
+~
+97 2097172 0 0 0 0
+D1
+Vidis tam nejaku cestu , ktora ide zo severu na juh.
+~
+~
+0 0 9701
+S
+#9705
+Nadvorie~
+   Stojis na mieste , kde niekedy bolo nieco ako hradne nadvorie.  Teraz je tu
+len fiacik z neho a ked sa pozries pred seba tak vidis nic.  Nic je tazke
+identifikovat , proste nie je tu nic.  Na mieste , kde sa podla povesti mal
+nachadzat hrad , je teraz hlllboka priepast, ktoru vyplna nic.  Ked sa pozries
+vedla seba vidis hradby toho hradu , co sa tu mal nachadzat a popri nich sa
+vinie uzky chodnicek.    
+~
+97 0 0 0 0 1
+D1
+Vidis tam nejaku uzku cesticku.
+~
+~
+0 0 9709
+D2
+Vidis pred sebou staru obrovsku branu , ktora je bohuzial z druhej strany zamurovana.
+Ale v rohu sa nachadza malicky priechod.
+~
+prechod~
+1 0 9703
+D3
+Vidis tam uzku cesticku.
+~
+~
+0 0 9739
+S
+#9706
+The dark road through forest~
+   You are on the road to somewhere , but you don't know where.  The road is
+going to be very dark.  You don't know if you can find the way back.  It would
+be bad if you can't find it, because you will die.    
+~
+97 1 0 0 0 3
+D0
+You see a road there.
+~
+~
+0 0 9707
+D2
+You see a forest there
+~
+~
+0 0 6071
+S
+#9707
+The dark road~
+   You are on the road.  You see a light on the way north.  But the light goes
+to grow.  You must hurry if you want to go there.  Be hurry please.  Or you
+will die here.  The weather goes to be colder.    
+~
+97 524293 0 0 0 12
+D0
+You see a road , and on the and you see a strange light.
+~
+~
+0 0 9708
+D2
+You see a dark road there.
+~
+~
+0 0 9706
+S
+#9708
+The road~
+   You are on the road.  You see a light near you on the north.  You see there
+interesting things.  But you feel , the road is not ok.  It looks you goes to
+fall trough.    
+~
+97 1 0 0 0 12
+D0
+You see a strange light there.
+~
+~
+0 0 9700
+D2
+You see a road there.
+~
+~
+0 0 9707
+S
+#9709
+Uzka ulicka~
+   Nachadzas sa na uzkej cesticke.  Na juhu je hradba a na severe je prazdnota.
+Mury vyzeraju dost silne a su aj dost vysoke.  Prazdnota , vsak vyzera strasne
+odpudzujuco a nebolo by dobre do nej spadnut.    
+~
+97 256 0 0 0 12
+D1
+Vidis uzku cesticku medzi hradnym murom a nicotou.
+~
+~
+0 0 9710
+D3
+Vidis tam obrovsku branu , ktora je akosa zda zatvorena.
+~
+~
+0 0 9705
+D5
+~
+~
+0 0 -1
+S
+#9710
+Uzka cesticka~
+   Nachadzas sa na uzkej cesticke.  Na juhu je hradba a na severe je prazdnota.
+Mury vyzeraju dost silne a su aj dost vysoke.  Prazdnota , vsak vyzera strasne
+odpudzujuco a nebolo by dobre do nej spadnut.    
+~
+97 256 0 0 0 12
+D1
+Vidis uzku cesticku medzi nicotou a hradnym murom
+~
+~
+0 0 9711
+D3
+Vidis uzku cesticku medzi hradnym murom a nicotou.
+~
+~
+0 0 9709
+S
+#9711
+Pod Hradnou Vezou~
+   Nachadzas sa v blizkosti hradnej veze , vedla seba vidis tocite schodisko
+nahor.  Hradna veza vyzera trosku zajimavo a meria vela vela metrov.  Jej mury
+su potiahnute akymsi slizom.  Vrch veze vyzera dost zajimavo , pretoze tam
+svieti akesi cudesne svetlo .
+~
+97 256 0 0 0 0
+D0
+Vidis tam uzku cesticku medzi hradnym murom a nicotou.
+~
+~
+0 0 9714
+D3
+Vidis uzku cesticku medzi nicotou a hradnym murom
+~
+~
+0 0 9710
+D4
+Vidis tam tocite schodisko , ktore sa zda vedie az na vrch veze.
+~
+~
+0 0 9712
+S
+#9712
+Schodisko~
+   Nachadzas sa na strmom schodisku hore do veze.  Ked sa pozries hore , vidis
+tam zajimave svetlo.  Miestnost vyzera dost cudesne.  V jej strede sa nachadza
+nieco cudesne.    
+~
+97 256 0 0 0 0
+D4
+Vidis tam vrchol veze , odkial sa da celkom dobre rozhliadat.
+~
+~
+0 0 9713
+D5
+Vidis nic ine iba tocite schodisko.
+~
+~
+0 0 9711
+S
+#9713
+Hradna veza~
+   Nachadzas sa na hradnej vezi.  Na juh vidis les a pod vezou na sever vidis
+nicotu.  Povodne namiesto nicoty bol niekedy hrad ale uz tu nie je a nikto
+nevie preco.  V strede sa tu nachadza nieco take ako gulovy blesk , az na to ,
+ze sa nehybe vobec.  Ale vytvara tu zajimavu atmosferu.    
+~
+97 65552 0 0 0 1
+D5
+Vidis tam strme tocite schodisko.
+~
+~
+0 0 9712
+S
+#9714
+Uzka cesticka~
+   Nachadzas sa na uzkej cesticke.  Na vychode je hradba a na zapade je
+prazdnota.  Mury hradby vyzeraju dost odpudzujuco , ale su dost silne a vysoke.
+Prazdnota vsak vyzera strasne odpudzujuco a nebolo by dobre tam spadnut.    
+~
+97 256 0 0 0 12
+D0
+Vidis tam iba uzku cesticku.
+~
+~
+0 0 9715
+D2
+Vidis hradnu vezu a dva zbiehajuce sa mury zo zapadu a severu.
+~
+~
+0 0 9711
+S
+#9715
+Uzka cesticka~
+   Nachadzas sa na uzkej cesticke.  Na vychode je hradba a na zapade je
+prazdnota.  Mury hradby vyzeraju dost odpudzujuco , ale su dost silne a vysoke.
+Prazdnota vsak vyzera strasne odpudzujuco a nebolo by dobre tam spadnut.    
+~
+97 256 0 0 0 12
+D0
+Niekedy tam bola hradna brana.
+~
+~
+0 0 9716
+D2
+Vidis tam uzku cesticku a v dialave hradnu vezu.
+~
+~
+0 0 9714
+S
+#9716
+Niekdajsia hradna brana~
+   Niekedy tu bola hradna brana , ale potom co zmyzol hrad ju zamurovali aby sa
+tu nikto nedostal.  Ked sa pozries na vychod , vidis iba velku stenu co tu
+ostala po brane , ktoru zamurovali.    
+~
+97 16 0 0 0 1
+D0
+Vidis tam uzku cesticku.
+~
+~
+0 0 9718
+D2
+Vidis tam iba uzku cesticku.
+~
+~
+0 0 9715
+S
+#9717
+Pod hradnou vezou~
+   Nachadzas sa pod hradnou vezou.  Vyzera byt dost vysoka , ale jej vrchol ,
+je v akomsi cudnom mraku.  Jej mur je pokrity akymsi cudnym slizom , ktory sa
+pomaly presuva na teba.    
+~
+97 16 0 0 0 1
+D0
+Niekedy tam bola brana.
+~
+~
+0 0 -1
+D1
+Vidis tam hradny mur.
+~
+~
+0 0 -1
+D2
+Vidis tam uzku cesticku medzi hradnym murom a nicotou.
+~
+~
+0 0 9719
+D3
+Vidis tam uzku cesticku
+~
+~
+0 0 9721
+D4
+Vidis tam zajimave tocite schodisko , ktore zda sa vedie hore do hradnej veze.
+~
+~
+0 0 9720
+D5
+~
+~
+0 0 -1
+S
+#9718
+Uzka ulicka~
+   Nachadzas sa na uzkej cesticke.  Na vychode je hradba a na zapade je
+prazdnota.  Mury hradby vyzeraju dost odpudzujuco , ale su dost silne a vysoke.
+Prazdnota vsak vyzera strasne odpudzujuco a nebolo by dobre tam spadnut.    
+~
+97 256 0 0 0 12
+D0
+Vidis tam uzku cesticku.
+~
+~
+0 0 9719
+D2
+Niekedy tam bola hradna brana.
+~
+~
+0 0 9716
+S
+#9719
+Uzka cesticka~
+   Nachadzas sa na uzkej cesticke.  Na vychode je hradba a na zapade je
+prazdnota.  Mury hradby vyzeraju dost odpudzujuco , ale su dost silne a vysoke.
+Prazdnota vsak vyzera strasne odpudzujuco a nebolo by dobre tam spadnut.    
+~
+97 256 0 0 0 12
+D0
+Vidis tam roh , kde sa zbiehaju dve hradne mury.
+~
+~
+0 0 9717
+D2
+Vidis tam uzku cesticku a v dialave miesto , kde kedysi bola hradna brana.
+~
+~
+0 0 9718
+S
+#9720
+Na tocitom schodisku~
+   Si na tocitom schodisku , ktore sa zda sa vedie hore do veze.  Ked sa
+pozries hore , vidis tam miestnost a nad nou je akysi cudny tmavy mrak.  Ale
+nezda sa , zeby bola miestnost nebezpecna.    
+~
+97 256 0 0 0 0
+D4
+Vidis tam rozhladnu cast veze.
+~
+~
+0 0 9722
+D5
+Vidis tamalicky priestor pred hradnou vezou.
+~
+~
+0 0 9717
+S
+#9721
+Uzka cesticka~
+   Nachadzas sa na uzkej cesticke.  Na severe je hradba a na juhu je prazdnota.
+Mury hradby vyzeraju dost odpudzujuco , ale su dost silne a vysoke. Prazdnota
+vsak vyzera strasne odpudzujuco a nebolo by dobre tam spadnut.    
+~
+97 256 0 0 0 12
+D1
+Vidis tam nejaku hradnu vezu.
+~
+~
+0 0 9717
+D3
+Vidis tam uzku cesticku.
+~
+~
+0 0 9723
+S
+#9722
+Na hradnej vezi~
+   Stojis na rozhladnej casti hradnej veze.  Ale akosi tu nic nevidno pretoze
+celu vezu zahaluje akysi mrak.  Vytvara tu take cudne prostredie.  Je tu dost
+sero , ale aj tak vidno , ze mury su pokryte cudnym slizom.    
+~
+97 17 0 0 0 1
+D5
+Vidis tam tocite schodisko.
+~
+~
+0 0 9720
+S
+#9723
+Uzka cesticka~
+   Nachadzas sa na uzkej cesticke.  Na severe je hradba a na juhu je prazdnota.
+Mury hradby vyzeraju dost odpudzujuco , ale su dost silne a vysoke. Prazdnota
+vsak vyzera strasne odpudzujuco a nebolo by dobre tam spadnut.    
+~
+97 256 0 0 0 12
+D1
+Vidis tam uzku cesticku.
+~
+~
+0 0 9721
+D3
+Vidis miesto , kde niekedy bola severna hradna brana.
+~
+~
+0 0 9724
+S
+#9724
+Niekdajsia severna brana.~
+   Niekedy tu na sever boha hradna brana , ale zamurovali ju.  Bolo to kvoli
+tomu , aby nikto nemohol spadnut do nicoty , co zostala po hrade.  Namiesto
+brany vidis na sever len jednu vysoku stenu , na ktorej vydno sem tam zostatky
+brany.    
+~
+97 16 0 0 0 1
+D1
+Vidis tam uzku cesticku.
+~
+~
+0 0 9723
+D3
+Vidis tam uzku cesticku.
+~
+~
+0 0 9725
+S
+#9725
+Uzka cesticka~
+   Nachadzas sa na uzkej cesticke.  Na severe je hradba a na juhu je prazdnota.
+Mury hradby vyzeraju dost odpudzujuco , ale su dost silne a vysoke. Prazdnota
+vsak vyzera strasne odpudzujuco a nebolo by dobre tam spadnut.    
+~
+97 256 0 0 0 12
+D1
+Vidis tam niekdajsiu severnu branu.
+~
+~
+0 0 9724
+D3
+Vidis tam uzku cesticku a v dialave hradnu vezu.
+~
+~
+0 0 9726
+S
+#9726
+Uzka cesticka~
+   Nachadzas sa na uzkej cesticke.  Na severe je hradba a na juhu je prazdnota.
+Mury hradby vyzeraju dost odpudzujuco , ale su dost silne a vysoke. Prazdnota
+vsak vyzera strasne odpudzujuco a nebolo by dobre tam spadnut.    
+~
+97 256 0 0 0 12
+D1
+Vidis tam uzku cesticku a v dialave niekdajsiu severnu branu.
+~
+~
+0 0 9725
+D3
+Vidis tam hradnu vezu.
+~
+~
+0 0 9727
+S
+#9727
+Pod hradnou vezou.~
+   Nachadzas sa po hradnou vezou.  Vedla teba sa spaja severny a zapadny mur.
+Veza sa zda byt dost vysoka , ale jej vrcholec nevidis , lebo ju zahaluje velky
+cierny mrak.
+~
+97 16 0 0 0 1
+D1
+Vidis tam iba uzku cesticku.
+~
+~
+0 0 9726
+D2
+Vidis tam uzku cesticku.
+~
+~
+0 0 9730
+D4
+Vidis tocite schodisko , ktore vedie kamsi nahor.
+~
+~
+0 0 9728
+S
+#9728
+Schodisko~
+   Nachadzas sa na tocitom schodisku , ktore vedie niekam na hor.  Zda sa , ze
+vedie az na vrchol veze.  Vrchol veze sa skryva vo velkom ciernom mraku.  
+Odniekial tu pocujes cudny bzukot.    
+~
+97 256 0 0 0 0
+D4
+Vidis tam vyhliadkovu cast veze , ktora je zahalena cudnym mrakom.
+~
+~
+0 0 9729
+D5
+Vidis tam pristranstvo pred vezou.
+~
+~
+0 0 9727
+S
+#9729
+Vyhliadkova cast veze.~
+   Nachadzas sa na vyhliadkovej casti veze.  Mozes sa odtial pozerat po celom
+mude , ale asi nic neuvidis , pretoze veza je zahalena cudnym mrakom.  Je tu
+nejaky strasne silny bzukot.  Ked sa pozries do rohu vidis tam nieco cudne, ale
+nevies zistit co to je.    
+~
+97 131089 0 0 0 1
+D5
+Vidis tam akesi tocite schodisko.
+~
+~
+0 0 9728
+T
+9740 1 2 18614
+S
+#9730
+Uzka cesticka~
+   Nachadas sa na uzkej cesticke.  Na zapade je hradba a na vychode je
+prazdnota.  Mury hradby vyzeraju dost odpudujuco , ale su dost silne a vysoke.
+Prazdnota vsak vyzera strasne odpudzujuco a nebolo by dobre tam spadnut.    
+~
+97 256 0 0 0 12
+D0
+Vidis tam priestranstvo pred vezou.
+~
+~
+0 0 9727
+D2
+Vidis uzku cesticku.
+~
+~
+0 0 9731
+S
+#9731
+Uzka cesticka~
+   Nachadas sa na uzkej cesticke.  Na zapade je hradba a na vychode je
+prazdnota.  Mury hradby vyzeraju dost odpudujuco , ale su dost silne a vysoke.
+Prazdnota vsak vyzera strasne odpudzujuco a nebolo by dobre tam spadnut.    
+~
+97 256 0 0 0 12
+D0
+Vidis hradnu vezu a roh kde sa zbieha severny a vychodny mur.
+~
+~
+0 0 9730
+D2
+Tam bola niekedy vychodna brana.
+~
+~
+0 0 9732
+S
+#9732
+Byvala vychodna brana.~
+   Niekedy tu bola vychodna brana , ale zamurovali ju.  Zamurovali ju preto ,
+aby nikto nemohol spadnut do tej prazdnoty , co tu zostala po hrade.  Do teraz
+nikto nevysvetlil kam sa hrad stratil.
+~
+97 16 0 0 0 2
+D0
+Vidis tam uzku cesticku.
+~
+~
+0 0 9731
+D2
+Vidis tam uzku cesticku.
+~
+~
+0 0 9733
+S
+#9733
+Uzka cesticka~
+   Nachadas sa na uzkej cesticke.  Na zapade je hradba a na vychode je
+prazdnota.  Mury hradby vyzeraju dost odpudujuco , ale su dost silne a vysoke.
+Prazdnota vsak vyzera strasne odpudzujuco a nebolo by dobre tam spadnut.    
+~
+97 256 0 0 0 2
+D0
+Niekedy tam bola vychodna brana.
+~
+~
+0 0 9732
+D2
+Vidis tam uzku cesticku.
+~
+~
+0 0 9734
+S
+#9734
+Uzka cesticka~
+   Nachadas sa na uzkej cesticke.  Na zapade je hradba a na vychode je
+prazdnota.  Mury hradby vyzeraju dost odpudujuco , ale su dost silne a vysoke.
+Prazdnota vsak vyzera strasne odpudzujuco a nebolo by dobre tam spadnut.    
+~
+97 256 0 0 0 2
+D0
+Vidis tam uzku cesticku
+~
+~
+0 0 9733
+D2
+Vidis tam malicky priestor pred hradnou vezou.
+~
+~
+0 0 9735
+S
+#9735
+Pod hradnou vezou.~
+   Stojis na malom priestranstve pred hradnou vezou.  Tato veza je cudna tym ,
+ze hore pocujes nejaky hlas , ale nevies ani nahodou , kto tam moze byt.  Je to
+cudne , pretoze tu uz daaavno nikto nie je , tak potom preco tie hlasy???    
+~
+97 16 0 0 0 2
+D0
+Vidis tam uzku cesticku
+~
+~
+0 0 9734
+D1
+Vidis tam uzku cesticku.
+~
+~
+0 0 9738
+D4
+Vidis tam totice schodisko , ktore sa vinie kamsi nahor.
+~
+~
+0 0 9736
+S
+#9736
+Na tocitom schodisku.~
+   Nachcdzas sa na tocitom schodisku , ktore sa vinie z hora na dol.  Hore sa
+zda , ze vedie az do veze.  Hore nad sebou pocujes nejaky cudny hlas , ktory je
+stale silnejsi.  Akoby sa nejaka osoba priblizovala k tebe.    
+~
+97 256 0 0 0 0
+D4
+Vidis tam vyhliadkovu cast veze.
+~
+~
+0 0 9737
+D5
+Vidis tam malicke priestranstvo pred vezou.
+~
+~
+0 0 9735
+S
+#9737
+Vrchol veze~
+   Nachadzas sa v nejakom cudnom obchodiku.  Je to zajimave , pretoze este
+nikto nevidel obchod hore na vezi.  Ked sa pozries za obchodnika , vidis tam
+vysiet rozne zbrane.  Niektore sa ligocu novotou , ine zase nie.    
+~
+97 2097168 0 0 0 2
+D5
+Vidis tam tocite schodisko.
+~
+~
+0 0 9736
+S
+#9738
+Uzka cesticka~
+   Nachadzas sa na uzkej cesticke.  Na juhu je hradba a na severe je prazdnota.
+Mury vyzeraju dost silne a su aj dost vysoke.  Prazdnota , vsak vyzera strasne
+odpudzujuco a nebolo by dobre do nej spadnut.    
+~
+97 256 0 0 0 2
+D1
+Vidis tam uzku cesticku.
+~
+~
+0 0 9739
+D3
+Vidis maly priestor pred vezou.
+~
+~
+0 0 9735
+S
+#9739
+Uzka ulicka~
+   Nachadzas sa na uzkej cesticke.  Na juhu je hradba a na severe je prazdnota.
+Mury vyzeraju dost silne a su aj dost vysoke.  Prazdnota , vsak vyzera strasne
+odpudzujuco a nebolo by dobre do nej spadnut.    
+~
+97 256 0 0 0 2
+D1
+Vidis tam juznu branu.
+~
+~
+0 0 9705
+D3
+Vidis tam uzku cesticku
+~
+~
+0 0 9738
+S
+#9740
+Cudna miestnost~
+   Nachadzas sa v nejakej precudesnej miestnosti.  Nevies ako si sa tu ocitol a
+nevies ani ako sa mozes vratit s5.  Zacina sa na tebe prejavovat strach.  
+Nastastie si na severe zbadal akusi malu chodbicku.  Daleko na jej konci je
+vidiet akesi svetielko.    
+~
+97 131072 0 0 0 0
+D0
+Vidis nejaku chodbu.
+~
+~
+0 0 9741
+D5
+~
+~
+0 0 -1
+T
+9722 192 3 0
+P
+dump
+S
+#9741
+Tmava chodba~
+   Si v nejakej podzemnej chodbicke.  Zrejme si sa dostal do hradu , ktory pred
+davnymi rokmi zmyzol.  Steny chodby su nejake slizke a zo stropu vysi pavucina.
+Popri tvojich nohach sa premavaju nejake cudne zvieratka.  Zda sa , ze su to
+mysi a potkany.    
+~
+97 257 0 0 0 0
+D0
+Vidis tam nejaku chodbu
+~
+~
+0 0 9742
+D2
+Vidis iba nejaku cudnu miestnost.
+~
+~
+0 0 9740
+S
+#9742
+Podzemna chodba~
+   Nachadzas sa v nejakej podzemnej chodbe.  Na jej severe vidis cudesne
+svetlo.  Steny chodby su este stale slizke , no uz nie az tak.  Pavucina
+odtialto kamsi zmyzla.  Ale mysi a potkanov je tu este viac.    
+~
+97 257 0 0 0 0
+D0
+Zda sa , ze tam vidis konec chodby.
+~
+~
+0 0 9743
+D2
+Vidis tmavu chodbu.
+~
+~
+0 0 9741
+S
+#9743
+Na konci chodby~
+   Nachadzas sa na konci chodby.  Pred sebou vidis nieco , co vyzera ako zadna
+stena nejakeho kresla.  Ked sa pozries lepsie vidis na tej stene akesi cudne
+znaky.  Medzi tymi znakmi si spoznal znak skryteho hradu.
+~
+97 257 0 0 0 0
+D1
+Vidis tam akusi miestnost.
+~
+~
+0 0 9744
+D2
+Vidis tam tmavu chodbu.
+~
+~
+0 0 9742
+D3
+Vidis tam akusi halu.
+~
+~
+0 0 9745
+S
+#9744
+Na vychod od tronu~
+   Nachadzas sa na vychod od tronu.  Ak sa pozries na tron , vidis tam sediet
+akehosi starsieho pana , ktory ma na hlave akusi korunu vykladanu drahokamami ,
+v ruke ma zezlo a na sebe akysi plast.
+~
+97 0 0 0 0 1
+D1
+Vidis tam cast haly
+~
+~
+0 0 9760
+D2
+Vidis tam cast haly
+~
+~
+0 0 9767
+D3
+Vidis tam tron a na nom sediet krala.
+~
+~
+0 0 9746
+S
+#9745
+Na zapad od tronu~
+   Nachadzas sa na zapad od tronu.  Ak sa pozries na tron , vidis tam sediet
+akehosi starsieho pana , ktory ma na hlave akusi korunu vykladanu drahokamami ,
+v ruke ma zezlo a na sebe akysi plast.
+~
+97 0 0 0 0 1
+D1
+Vidis tam tron , na ktorom sedi kral.
+~
+~
+0 0 9746
+D2
+Vidis tam cast haly
+~
+~
+0 0 9765
+D3
+Vidis tam konec haly.
+~
+~
+0 0 9747
+S
+#9746
+V blizkosti tronu~
+   Nachadzas sa v blizkosti tronu.  Na trone sedi nejaky starsi pan , ktory zda
+sa je kral.  Pozera sa na teba nepristojnym pohladom , akoby ta tu radsej
+nechcel ani vidiet.  Takze radsej odid skor ako sa na teba nahneva.    
+~
+97 0 0 0 0 1
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9744
+D2
+Vidis tam cast haly
+~
+~
+0 0 9766
+D3
+Vidis tam cast obrovskej haly.
+~
+~
+0 0 9745
+S
+#9747
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na vychod vidis tam tron.  
+Vidis tu nejake schodisko , ktore sa vinie kamsi dohora.  Na zapade zase vidis
+nejaku branicku a za nou malu kralovsku zahradu.    
+~
+97 8 0 0 0 1
+D1
+Casto tam stoji bojovnik hradnej straze.
+~
+~
+0 0 9745
+D2
+Vidis tam cast haly
+~
+~
+0 0 9764
+D3
+Vidis tam zahradu.
+~
+brana~
+1 9707 9751
+D4
+Vidis tam tocite schodisko kamsi nahor.
+~
+~
+0 0 9748
+S
+#9748
+Tocite schodisko~
+   Stojis na tocitom schodisku.  Vedie kamsi nahor a zda sa , ze vedie az hore
+do veze.  Ked si sa pozrel na mury , zistil si , ze mury su dost hrube.  
+Schodisko je vyrobene z kamena.    
+~
+97 12 0 0 0 0
+D4
+Vidis tam tocite schodisko , co sa vinie nahor.
+~
+~
+0 0 9749
+D5
+Vidis tam cast haly.
+~
+~
+0 0 9747
+S
+#9749
+Tocite schodisko~
+   Stojis na tocitom schodisku.  Vedie kamsi nahor a zda sa , ze vedie az hore
+do veze.  Ked si sa pozrel na mury , zistil si , ze mury su dost hrube.  
+Schodisko je vyrobene z kamena.    
+~
+97 8 0 0 0 0
+D4
+Vidis tam komnatu kralovnej.
+~
+dvere~
+1 9701 9750
+D5
+Vidis tam tocite schodisko.
+~
+~
+0 0 9748
+S
+#9750
+Komnata kralovnej~
+   Stojis v komnate kralovnej.  Vidis tu jej obrovsku postel , nocny stolik ,
+toaletny stolik , skrinu , stolicku , stol a koberec na zemi.  Ked sa pozries
+dookola vidis okno , za ktorym nevidno nic , pretoze je zahalene akymsi mrakom
+, no aj napriek tomu je v miestnosti svetlo a pritom tu nevidis ziadnu sviecku.
+~
+97 8 0 0 0 0
+D5
+Vidis tam tocite schodisko nadol.
+~
+dvere~
+1 9701 9749
+S
+#9751
+Zaciatok kralovskej zahrady~
+   Nachadzas sa v kralovskej zahrade.  Rastu tu rozne rastliny no
+najzaujimavejsi je asi strom , ktory rastie v strede zahrady a na nom rastu
+nejake zajimave jablka.    
+~
+97 4 0 0 0 2
+D0
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9758
+D1
+Vidis tam hradnu halu.
+~
+brana~
+1 9707 9747
+D3
+Vidis tam pokracovanie hradnej brany
+~
+~
+0 0 9752
+S
+#9752
+V zahrade~
+   Nachadzas sa v kralovskej zahrade.  Rastu tu rozne rastliny no
+najzaujimavejsi je asi strom , ktory rastie v strede zahrady a na nom rastu
+nejake zajimave jablka.    
+~
+97 4 0 0 0 2
+D0
+Vidis tam zajimavy strom
+~
+~
+0 0 9759
+D1
+Vidis tam koniec zahrady a branu
+~
+~
+0 0 9751
+D3
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9753
+S
+#9753
+V hradnej zahrade~
+   Nachadzas sa v kralovskej zahrade.  Rastu tu rozne rastliny no
+najzaujimavejsi je asi strom , ktory rastie v strede zahrady a na nom rastu
+nejake zajimave jablka.    
+~
+97 4 0 0 0 2
+D0
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9754
+D1
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9752
+S
+#9754
+V zahrade~
+   Nachadzas sa v kralovskej zahrade.  Rastu tu rozne rastliny no
+najzaujimavejsi je asi strom , ktory rastie v strede zahrady a na nom rastu
+nejake zajimave jablka.    
+~
+97 4 0 0 0 2
+D0
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9755
+D1
+Vidis tam zaujimavy strom
+~
+~
+0 0 9759
+D2
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9753
+S
+#9755
+V zahrade~
+   Nachadzas sa v kralovskej zahrade.  Rastu tu rozne rastliny no
+najzaujimavejsi je asi strom , ktory rastie v strede zahrady a na nom rastu
+nejake zajimave jablka.    
+~
+97 4 0 0 0 2
+D1
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9756
+D2
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9754
+S
+#9756
+V zahrade~
+   Nachadzas sa v kralovskej zahrade.  Rastu tu rozne rastliny no
+najzaujimavejsi je asi strom , ktory rastie v strede zahrady a na nom rastu
+nejake zajimave jablka.    
+~
+97 4 0 0 0 2
+D1
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9757
+D2
+Vidis tam zaujimavy strom
+~
+~
+0 0 9759
+D3
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9755
+S
+#9757
+V zahrade~
+   Nachadzas sa v kralovskej zahrade.  Rastu tu rozne rastliny no
+najzaujimavejsi je asi strom , ktory rastie v strede zahrady a na nom rastu
+nejake zajimave jablka.    
+~
+97 4 0 0 0 2
+D2
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9758
+D3
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9756
+S
+#9758
+V zahrade~
+   Nachadzas sa v kralovskej zahrade.  Rastu tu rozne rastliny no
+najzaujimavejsi je asi strom , ktory rastie v strede zahrady a na nom rastu
+nejake zajimave jablka.    
+~
+97 4 0 0 0 2
+D0
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9757
+D2
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9751
+D3
+Vidis tam zaujimavy strom
+~
+~
+0 0 9759
+S
+#9759
+Pri strome~
+   Nachadzas sa v blizkosti stromu , na ktorom rastu zlate jablcka.  Ked sa
+lepsie prizries zistujes , ze tie jablcka sa daju aj jest.  Nikto ale nevie ,
+co sa potom s tebou stane , ked nejake zjes.    
+~
+97 4 0 0 0 2
+D0
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9756
+D1
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9758
+D2
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9752
+D3
+Vidis tam pokracovanie zahrady
+~
+~
+0 0 9754
+S
+#9760
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries okolo seba , vidis tu nejake
+tocite schodisko , ktore vedie kamsi nahor.  Ked sa pozries dolu , vidis peknu
+dlazbu.    
+~
+97 8 0 0 0 2
+D0
+~
+~
+0 0 -1
+D2
+Vidis tam cast haly
+~
+~
+0 0 9768
+D3
+Vidis tam cast haly
+~
+~
+0 0 9744
+D4
+Vidis tam tocite schodisko.
+~
+~
+0 0 9761
+S
+#9761
+Schodisko~
+   Nachadzas sa na tocitom shodisku.  Schodisko vedie kamsi dohora.  Ked sa
+pozries na stenu vidis tu nejake znaky.  Schodisko je zrobene z pevneho kamena
+a zda sa , ze nie je ani slizke.    
+~
+97 4 0 0 0 0
+D4
+Vidis tam tocite schodisko.
+~
+~
+0 0 9762
+D5
+Vidis tam halu.
+~
+~
+0 0 9760
+S
+#9762
+Schodisko~
+   Nachadzas sa na tocitom shodisku.  Schodisko vedie kamsi dohora.  Ked sa
+pozries na stenu vidis tu nejake znaky.  Schodisko je zrobene z pevneho kamena
+a zda sa , ze nie je ani slizke.    
+~
+97 8 0 0 0 0
+D4
+Vidis tam komnatu carodejnika.
+~
+~
+0 0 9763
+D5
+Vidis tam tocite schodisko
+~
+~
+0 0 9761
+S
+#9763
+Carodejnikova komnata~
+   Nachadzas sa v carodejnikovej komnate.  Nachadza sa tu kopa knih ,
+flasticiek prazdnych , ale aj plnych kadejakych vodiciek a kopa zvitkov.  Na
+okne vidis carodejnikovu macicku , ktora je cierna ako uhol.    
+~
+97 4 0 0 0 0
+D5
+Vidis tam tocite schodisko.
+~
+~
+0 0 9762
+S
+#9764
+Hala~
+   Nachadzas sa vo velkej hale.  Na sever mozes vidiet vchod do kralovskej
+zahrady.  Smerom na severo-vychod mozes vidiet kralovsku straz a krala.  Ked sa
+pozries na dlazku vidis tam cast mozaiky , ktora sa tu nachadza.  Smerom na
+zapad vidis vstup do jedalne ich velicenstiev.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9747
+D1
+Vidis tam cast haly
+~
+~
+0 0 9765
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9773
+D3
+Vidis tam jedalen ich velicenstiev.
+~
+~
+0 0 9786
+S
+#9765
+Na juho-vychod od tronu~
+   Nachadzas sa vo velkej hale.  Smerom na severo-vychod vidis tron a na nom
+krala.  Ked sa pozries na zem vidis dalsiu cast mozaiky , ktora vyplna celu
+halu.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly
+~
+~
+0 0 9745
+D1
+Vidis tam cast haly
+~
+~
+0 0 9766
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9772
+D3
+Vidis tam cast haly
+~
+~
+0 0 9764
+S
+#9766
+Pred tronom~
+   Nachadzas sa pred obrovskym tronom , na ktorom sedi kral tohoto hradu.  Ked
+sa pozries na zem vidis cast cudnej mozaiky.  Zvycajne tu postava hradna straz.
+Ked sa pozries na strop , vidis tam zaujimavy luster.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly
+~
+~
+0 0 9746
+D1
+Vidis tam cast haly
+~
+~
+0 0 9767
+D2
+Vidis tam hradnu branu
+~
+~
+0 0 9771
+D3
+Vidis tam cast haly
+~
+~
+0 0 9765
+S
+#9767
+Na juho-zapad od tronu~
+   Nachadzas sa na juho-zapad od tronu.  Na trone sedi akysi pan , na hlave ma
+korunu vykladanu drahokamami , v jednej ruke drzi mec v druhej zezlo a na sebe
+ma plast.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly
+~
+~
+0 0 9744
+D1
+Vidis tam cast haly
+~
+~
+0 0 9768
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9770
+D3
+Vidis tam cast haly
+~
+~
+0 0 9766
+S
+#9768
+Hala~
+   Nachadzas sa v casti haly.  Ked sa pozries na strop , vidis tam prekrasny
+luster.  Na lustri svieti mnozstvo sviecok.  Luster osvetluje celu halu a ked
+sa pozries na zem vidis tam prekrasnu mozaiku.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly
+~
+~
+0 0 9760
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9769
+D3
+Vidis tam cast haly
+~
+~
+0 0 9767
+S
+#9769
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na zapad , vidis tam prechod ku
+vezeniam.  Ked sa pozries hore , vidis tam nadherny luster a rozne kresby po
+strope tejto haly.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9768
+D1
+Vidis tam cudne schodisko , ktore vedie kamsi dole.
+~
+~
+0 0 9785
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9778
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9770
+S
+#9770
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 8 0 0 0 0
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9767
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9769
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9777
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9771
+S
+#9771
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 0 0 0 0 0
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9766
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9770
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9776
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9772
+S
+#9772
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9765
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9771
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9775
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9773
+S
+#9773
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9764
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9772
+D2
+Vidis tam cast haly
+~
+~
+0 0 9774
+S
+#9774
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9773
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9775
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9783
+S
+#9775
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9772
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9776
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9782
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9774
+S
+#9776
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9771
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9777
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9781
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9775
+S
+#9777
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9770
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9778
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9780
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9776
+S
+#9778
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9769
+D2
+Vidis tam cast haly.
+~
+~
+0 0 9779
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9777
+S
+#9779
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9778
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9780
+S
+#9780
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9777
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9779
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9781
+S
+#9781
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9776
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9780
+D2
+Vidis tam hradnu branu.
+~
+~
+0 0 9784
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9782
+S
+#9782
+Hala~
+   Nachadzas sa vo velkej hale.  Ked sa pozries na strop , vidis tam nadherny
+vysvieteny luster.  Na strope su zase pomalovane rozne kresby.  Ked sa pozries
+dole , mozes tu vidiet cast prekrasnej mozaiky.    
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9775
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9781
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9783
+S
+#9783
+Hala~
+You are in an unfinished room.
+~
+97 8 0 0 0 2
+D0
+Vidis tam cast haly.
+~
+~
+0 0 9774
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9782
+S
+#9784
+Juzna hradna brana.~
+   Nachadzas sa v priestoroch juznej hradnej brany.  Nevies ako si sa tu ocitol
+, ale vidis to co tu bolo pred tym nez zmizol hrad.  Hradna brana vyzera
+neporusena.    
+~
+97 8 0 0 0 2
+D2
+Vidis tam cestu.
+~
+~
+0 0 9703
+S
+#9785
+Prechod ku vezeniam~
+   Nachadzas sa v mensej miestnosti.  Ked sa pozeries dole , vidis tam
+schodisko , ktore vedie kamsi do ciernoty.  Citis tu zapach stuchliny.  Nevies
+odkial ide , ale mas pocit , ze ide zo spodu z vezeni.    
+~
+97 0 0 0 0 0
+D3
+Vidis tam cast haly.
+~
+~
+0 0 9769
+S
+#9786
+Zaciatok stola~
+   Nachadzas sa v jedalni ich velicenstiev.  Vidis tu jeden dlhocizny stol , na
+ktorom je koooopa jedla.  Ked sa pozries vidis , ze z jedla sa este pari , ale
+nikto tu nie je , takze nevies ci si mozes zobrat.    
+~
+97 8 0 0 0 2
+D1
+Vidis tam cast haly.
+~
+~
+0 0 9764
+D3
+Vidis tam stred jedalne.
+~
+~
+0 0 9787
+S
+#9787
+V strede jedalne~
+   Nachadzas sa v prostriedku jedalne.  Ked sa pozries vidis dva smery ,
+ktorymi sa vinie dlhy stol , plny samich dobrot.  Tie dobroty vyzeraju strasne
+dobre , ale nevies ci si mozes nieco zobrat , pretoze tu nikto nie je.    
+~
+97 8 0 0 0 2
+D1
+Vidis tam konec jedalne.
+~
+~
+0 0 9786
+D3
+Vidis tam koniec jedalne.
+~
+~
+0 0 9788
+S
+#9788
+Koniec jedalne~
+   Nachadzas sa na konci jedalne.  Zvycajne tu na stolicke sedava kral , ale
+ten ma teraz povinnosti , takze tu nie je.  Ked sa pozries na stol , tak mozes
+vidiet kopu jedla , z ktoreho stupa horuca para a ktore prenadherne rozvoniava
+po celej jedalni.    
+~
+97 8 0 0 0 2
+D1
+Vidis tam stred jedalne.
+~
+~
+0 0 9787
+S
+$~

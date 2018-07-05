@@ -1,0 +1,532 @@
+#22100
+dress pink taffeta~
+a pretty pink taffeta dress~
+A pretty pink taffeta dress lies crumpled on the ground.~
+~
+9 0 0 0 0 1025
+1 0 0 0
+5 3000 1000
+E
+dress pink taffeta~
+It's a beautifuly tailored pink dress. You would look quite nice in it.
+~
+#22101
+dress blue silk~
+a pretty blue silk dress~
+A pretty blue silk dress is getting wrinkled and dirty lying on the ground.~
+~
+9 0 0 0 0 1025
+1 0 0 0
+5 3000 1000
+E
+dress blue silk~
+It's a beautifully tailored silk dress. You would look smashing in it.
+~
+#22102
+dress white cotton~
+a pretty pristine white cotton dress~
+A pretty white cotton dress has been tossed to the ground.~
+~
+9 0 0 0 0 1025
+1 0 0 0
+5 3000 1000
+E
+dress white cotton~
+It's a lovely cotton dress. You would look quite the woman in it.
+~
+#22103
+dress beige burlap~
+an ugly beige burlap dress~
+An ugly beige burlap dress looks very like a sack of potatoes on the ground.~
+~
+9 0 0 0 0 1025
+1 0 0 0
+5 3000 1000
+E
+dress beige burlap~
+Eyugh. Gross. You don't actually want to wear _this_, do you?
+~
+#22104
+dress swirling beautiful multi-colored~
+a beautiful swirling multi-colored dress~
+A beautiful, swirling, multi-colored dress is getting soiled on the ground.~
+~
+9 0 0 0 0 1025
+3 0 0 0
+5 7000 2500
+E
+dress swirling beautiful multi-colored~
+The dress is made from many different colors, and just seems to flow more than
+rest. You would look more beautiful than you ever have in this luscious garb.
+~
+A
+3 -2
+A
+24 -3
+#22105
+talisman demon-faced demon faced charming~
+a demon-faced talisman~
+A talisman with the face of a demon on it has been thrown to the ground.~
+~
+4 2116113 0 0 0 16389
+27 3 3 7
+10 50000 17000
+E
+talisman demon-faced demon faced charming~
+  It has a picture of a disgustingly ugly daemon on it. It looks quite evil, 
+but it also looks very powerful. You can feel the magic flowing from it to
+your hand. You're torn on whether to use it or not.
+~
+#22106
+robe leisure~
+a robe of leisure~
+A robe of leisure is on the ground.~
+~
+9 0 0 0 0 9
+8 0 0 0
+5 8000 2700
+E
+robe leisure~
+  Oh, my, you could just sink right into this robe. It looks so very
+*comfortable.*
+~
+A
+2 3
+A
+5 -3
+#22107
+rattle tar~
+a tar rattle~
+A tar rattle just insists on your getting it.~
+~
+8 128 0 0 0 16385
+0 0 0 0
+2 10000 3333
+E
+rattle tar~
+  Awww...look at it! You just wnat to pick it right up and rattle it.
+~
+A
+3 -3
+A
+9 -5
+#22108
+scroll fear~
+a screaming scroll~
+A scroll with the description of a man screaming at the top of his lungs has been left here.~
+~
+2 33562688 0 0 0 16385
+20 54 0 0
+15 40000 13333
+E
+scroll fear~
+  It looks pretty frightening.
+~
+#22109
+crown spikes~
+a Crown of Spikes~
+A crown with very sharp spikes has been very carelessly left here to rust.~
+~
+9 177252944 0 0 0 17
+8 0 0 0
+20 75000 25000
+E
+crown spikes~
+  The hat itself is rather disconcerting. Huge, very sharp, razorlike spikes
+protrude from the top; it's padded with cloth at the bottom, so it looks like
+it might be worth with relative comfort--but it sure looks sinister.
+~
+A
+1 2
+A
+5 -1
+#22110
+robe fear~
+a black, bloodstained robe~
+A black, bloodstained robe is crumpled on the floor.~
+~
+9 177252880 0 0 0 1025
+7 0 0 0
+20 80000 27000
+E
+robe fear black blood stained bloodstained~
+  This strange robe seems to absorb the light around it. It's stained with the
+blood of many men.
+~
+A
+12 20
+A
+4 -3
+#22111
+ball chain~
+a ball and chain~
+A ball and chain lies on the ground.~
+~
+14 90199660 0 0 0 65
+0 0 0 0
+30 100 25
+E
+ball chain~
+  It's a huge steel bowling ball--looks to way several hundred kilograms--with
+a long chain extended to one legiron...
+~
+A
+2 -6
+A
+14 -50
+#22112
+manacles handcuffs~
+some manacles~
+Some manacles are on the ground.~
+~
+14 90199660 0 0 0 129
+0 0 0 0
+15 100 25
+A
+3 -4
+A
+10 100
+#22113
+key cell cellkey~
+a cellkey~
+A cellkey has been hung on the wall.~
+~
+18 0 0 0 0 16385
+1 0 0 0
+3 20 6
+#22114
+knife butcher~
+a huge butcher knife~
+A huge butcher knife has been left on the ground.~
+~
+5 2579 0 0 0 8193
+0 2 9 3
+26 100000 75000
+E
+knife butcher~
+  It looks quite effective as a knife. It's very sharp and has just the right
+amount of blood from previous kills.
+~
+A
+18 3
+A
+19 3
+#22115
+armbands pitch black~
+a pair of pitch black armbands~
+A pair of pitch black armbands has been thrown to the ground.~
+~
+9 177252930 0 0 0 257
+7 0 0 0
+10 40000 15000
+E
+armbands pitch plack~
+  These armbands are made from the same kind of stone the outer area of the
+High Path in Vice Island are. They are probably imported from the same place.
+~
+A
+18 1
+#22116
+leggings pitch black~
+a pair of pitch black leggings~
+A pair of pitch black leggings lie on the ground.~
+~
+9 33565249 0 0 0 33
+4 0 0 0
+15 20000 10000
+E
+leggings pitch black~
+   The leggings are made from the same kind of stone the outer area of the 
+High Path in Vice Island are. They are probably imported from the same place.
+~
+A
+13 -10
+A
+18 3
+#22117
+boots pitch black~
+a pair of pitch black boots~
+A pair of pitch black boots lie on the ground.~
+~
+9 177252930 0 0 0 65
+6 0 0 0
+15 30000 10000
+E
+boots pitch black~
+   The boots are made from the same kind of stone the outer area of the 
+High Path in Vice Island are. They are probably imported from the same place.
+~
+A
+2 1
+#22118
+gloves pitch black~
+a pair of pitch black gloves~
+A pair of pitch black gloves are on the ground.~
+~
+9 177252930 0 0 0 129
+7 0 0 0
+15 100000 33000
+E
+gloves pitch black~
+   The gloves are made from the same kind of stone the outer area of the 
+High Path in Vice Island are. They are probably imported from the same place.
+~
+A
+5 2
+#22119
+blade terror~
+the terror-blade~
+The Blade of Terror has been thrown to the ground.~
+~
+5 2577 0 0 0 8193
+0 4 6 3
+15 100000 33000
+E
+blade pitch black terror~
+   The blade is made from the same kind of stone the outer area of the 
+High Path in Vice Island are. They are probably imported from the same place.
+~
+A
+1 3
+A
+18 3
+#22120
+armor pitch black plate~
+a pitch-black plate armor~
+A pitch black plate armor has been carelessly left behind.~
+~
+9 177252930 0 0 0 9
+8 0 0 0
+50 200000 66666
+E
+armor pitch black plate~
+   The armor is made from the same kind of stone the outer area of the 
+High Path in Vice Island are. They are probably imported from the same place.
+~
+A
+17 -10
+#22121
+headdress terror~
+the Headdress of Terror~
+The Headdress of Terror has been dropped here.~
+~
+9 177252930 0 0 0 17
+9 0 0 0
+30 10000 3333
+E
+headdress terror~
+  This headdress is made from the same metal as the Temple of Terror is made 
+from. Perhaps they came from the same blacksmith.
+~
+A
+3 -3
+A
+14 20
+#22122
+ring pitch black~
+a ring of pitch-black metal~
+A ring of pitch-black metal is half-sticking out of the floor.~
+~
+8 177252930 0 0 0 3
+0 0 0 0
+2 120000 44000
+E
+ring pitch black~
+   The ring is made from the same kind of stone the outer area of the 
+High Path in Vice Island are. They are probably imported from the same place.
+~
+A
+5 2
+#22123
+cloak darkness~
+a cloak of the purest black~
+A cloak of darkness is in a heap on the ground.~
+~
+9 177252930 0 0 0 5
+5 0 0 0
+20 100000 33333
+E
+cloak darkness~
+  The material the cloak is made from just seems to suck the light right in.
+You can still see around you, but things just look dimmer. It's rally odd.
+~
+A
+4 -1
+A
+12 5
+#22124
+armor scale iridescent~
+an irridescent scale armor~
+An armor made out of the irridescent scales of a dragon is on the floor.~
+~
+9 143690298 0 0 0 9
+9 0 0 0
+50 1000000 333333
+A
+1 3
+A
+19 3
+#22125
+whip cat o' nine tails~
+a cat o' nine tails~
+A cat o' nine tails is on the ground here.~
+~
+5 33564618 0 0 0 8193
+0 4 5 2
+20 120000 27000
+A
+19 1
+#22126
+spectacles rimmed 4-eyes four-eyes four eyes~
+a pair of wire-rimmed spectacles~
+A pair of wire-rimmed spectacles is about to get crushed if it is left on the ground.~
+~
+8 0 0 0 0 17
+0 0 0 0
+5 1000 300
+#22127
+key strangely shaped~
+a strangely shaped key~
+A strangely shaped key is lying on the ground.~
+~
+18 0 0 0 0 16385
+1 0 0 0
+3 100 33
+#22128
+key black pitch~
+a pitch-black key~
+A pitch-black key is lying on the ground.~
+~
+18 0 0 0 0 16385
+1 0 0 0
+3 100 33
+#22129
+key glass~
+a transparent glass key~
+A transparent glass key lies on the ground.~
+~
+18 0 0 0 0 16385
+2 0 0 0
+3 100 33
+#22130
+key stone~
+a stone key~
+A stone key lies on the ground.~
+~
+18 0 0 0 0 16385
+1 0 0 0
+3 100 33
+#22131
+key redwood~
+a redwood key~
+A redwood key lies on the ground.~
+~
+18 0 0 0 0 16385
+2 0 0 0
+3 100 33
+#22132
+key iron dull~
+a dull iron key~
+A dull iron key lies on the ground. *yawn*~
+~
+18 0 0 0 0 16385
+1 0 0 0
+3 100 33
+#22133
+key tiny~
+a tiny key~
+You almost miss a tiny key on the ground.~
+~
+18 0 0 0 0 16385
+1 0 0 0
+3 100 33
+#22134
+key burning~
+a red-hot key~
+A red-hot key glows brightly on the ground.~
+~
+18 0 0 0 0 16385
+1 0 0 0
+3 100 33
+#22135
+potion red glowing~
+a glowing red potion~
+A glowing red potion bubbles in a canister on the ground.~
+~
+10 0 0 0 0 16385
+15 2 17 33
+3 1000 333
+E
+potion red glowing~
+It looks rather strange. Somehow you get the feeling it might not be a good
+idea to quaff this one.
+~
+#22136
+potion blue shining~
+a shining blue potion~
+A shining blue potion is in a canister on the ground.~
+~
+10 0 0 0 0 16385
+20 18 69 0
+3 1000 333
+E
+potion blue shining~
+It looks informative.
+~
+#22137
+potion green~
+a green potion~
+A green potion is in a canister on the ground.~
+~
+10 0 0 0 0 16385
+15 29 0 0
+3 1000 333
+E
+potion green~
+It has a sign on it that reads, "drink me."
+~
+#22138
+potion purple glowing full restore~
+a purple potion of full restoration~
+A purple potion of full restoration rests on the floor.~
+~
+10 0 0 0 0 16385
+30 66 0 0
+3 1000 333
+E
+potion purple~
+It has a sign on it that reads, "use this only as a last resort."
+~
+#22139
+cloak wisdom~
+a cloak of wisdom~
+A green cloak of wisdom is in a heap on the ground.~
+~
+9 2753 0 0 0 5
+3 0 0 0
+3 1000 333
+E
+cloak wisdom~
+It's of a silvery metal, and practically eminates magic.
+~
+A
+4 3
+A
+13 10
+#22140
+cloak forgetfulness~
+a cloak of forgetfulness~
+A hazel cloak of forgetfulness is in a big heap on the ground.~
+~
+9 2753 0 0 0 5
+3 0 0 0
+3 1000 333
+E
+cloak forgetfulness~
+It's of a strange hazel material, and doesn't look particularly helpful.
+~
+A
+3 -5
+A
+9 -10
+$~

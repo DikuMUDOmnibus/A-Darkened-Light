@@ -1,0 +1,46 @@
+interpreter.c:
+case '1':
+      if (GET_HOME(d->character) < 0 || GET_HOME(d->character) > NUM_HOMETOWNS) {
+        log("SYSERR: Invalid hometown for %s", GET_NAME(d->character));
+        GET_LOADROOM(d->character) = mortal_start_room;
+      } else {
+        int index = GET_HOME(d->character);
+
+        if (GET_HOME(d->character) == 0)
+          GET_HOME(d->character) = 2;
+        GET_LOADROOM(d->character) = hometowns[index].magic_room;
+      }
+
+spec_grave.c
+around line 77 after the else { add:
+int index = GET_HOME(victim);
+
+and change the line:
+char_to_room(victim, real_room(hometowns[GET_HOME(victim)].magic_room));
+to be:
+char_to_room(victim, real_room(hometowns[index].magic_room));
+
+
+In spec_props.c
+GET_NAME(mob) = str_dup("rhino");
+
+change to:
+     /*
+      * GET_NAME(mob)=str_dup("rhino");
+      * since it's an NPC? we'll just assign it rather than do an invalid left value assignment
+      */
+      mob->player.short_descr=str_dup("rhino");
+
+-------------
+GET_NAME(mob)=str_dup("elephant");
+change to:
+     /*
+      * GET_NAME(mob)=str_dup("elephant");
+      * since it's an NPC? we'll just assign it rather than do an invalid left value assignment
+      */
+      mob->player.short_descr=str_dup("elephant");
+
+--------------
+GET_NAME(mob)=str_dup("mouse");
+change to:
+//needed? GET_NAME(mob)=str_dup("mouse");

@@ -1,0 +1,993 @@
+OLC REDIT ZEDIT MEDIT OEDIT SEDIT GEDIT
+
+Usage: olc { save }
+
+OnLine Creation.  A feature which will eventually allow the creation
+of areas ONLINE, without having to reboot the system. OLC gives you also the
+list of zones you are permitted to edit.
+&WSAVE&w subcommand saves all modified components. Using without a
+subcommand shows olc info. Save subcommand is only available for Chief
+Builder and higher.
+
+Other commands are menu-based editors:
+	REDIT - Room EDITor		ZEDIT - Zone EDITor
+	MEDIT - Mobile EDITor		OEDIT - Object EDITor
+	SEDIT - Shop EDITor		GEDIT - Guild EDITor
+
+Usage: *edit <vnum>
+
+<vnum> is the virtual number of object you want to edit or view. Commonly
+you must have assigned the zone by chief builder in order to edit. The
+permissions for editing are roughly assigned as follows:
+
+1) Chief Builders and above may edit any zone in the mud.
+2) Builders can edit zones assigned by Chief Builders and view any zone in
+   the mud, except those that are marked as PRIVATE.
+3) Players below Builders (e.g. Clan Builders) may edit their clan zone and
+   view those zones marked PUBLIC.
+
+There may be also other restrictions for certain groups from above for
+setting particular flags and editing particular atributes.
+
+To save particular component of the zone use *edit save <zone vnum>. However
+you must have editing priority for this zone. 
+
+Some of these editor have online help system invoked by command '?'. '?'
+alone brings help topic about actual menu and '? <topic>' displays <topic>
+just like typing HELP <topic>. 
+
+See also: SHOW->ZONES, ZRESET
+#
+"MEDIT MAIN MENU"
+------------------------------------------------------------------------------
+
+&g-- Mob Number&w
+	This number is critical; it is the identity of the mobile within
+	the game.  It is the number that will be used to reference the
+	mobile from zone files and is the number used to ``load''
+	mobiles from within the game.
+
+&g1) Sex&w
+	Sex of the mob- one of the following
+		Neutral	(it/its)
+		Male	(he/his)
+		Female	(she/her)
+
+&g2) Alias&w
+	The list of keywords, separated by spaces, that can be used by
+	players to identify the mobile.  The mobile can only be
+	identified using the keywords that appear in its alias list; it
+	cannot be identified by a word that appears only in its name.
+	Great care should be taken to ensure that the spellings of names
+	and aliases match.  Fill words such as ``the,'' ``a,'' and
+	``an'' should _not_ appear in the Alias List.
+
+&g3) S-Desc&w = Short Description
+	The description of the mobile used by the MUD when the mobile
+	takes some action.  For example, a short description of ``The
+	Beastly Fido'' would result in messages such as ``The Beastly
+	Fido leaves south.'' and ``The Beastly Fido hits you hard.''
+	The Short Description should _never_ end with a punctuation mark
+	because it will be inserted into the middle of sentences such as
+	those above.
+
+&g4) L-Desc&w = Long Description
+	The description displayed when a mobile is in its default
+	position; for example, ``The Beastly Fido is here, searching
+	through garbage for food.''  When the mobile is in a position
+	other than its default position, such as sleeping or
+	incapacitated, the short description is used instead; for
+	example, ``The Beastly Fido is lying here, incapacitated.''
+	Unlike the Short Description, the Long Description _should_ end
+	with appropriate punctuation.
+
+&g5) D-Desc&w = Detailed Description
+	The description displayed for a mobile when a player looks at
+	the mobile by typing ``look at <mobile>.''
+
+&g6) Level&w
+	Level of mob. It ranges from 1 to 40 and should be set wisely,
+	because mob's capabilities often depend on the level set.
+
+&g7) Alignment&w
+	A number from -1000 to 1000 representing the mob's initial alignment.
+
+		-1000...-350   Evil
+		 -349...349    Neutral
+		  350...1000   Good
+
+&g8) Hitroll&w
+	A bonus to probability of hitting enemy during fight. Hitroll of
+	"Normal" mobiles ranges from 0 to 3, "Super tough mobile's hitroll
+	may reach 18 (usually impossible to be killed by player) .
+
+&g9) Damroll&w
+	A bonus to the size of the damage caused to enemy during fight. 
+	Damroll of "Normal" mobiles ranges from 0 to 3, so do not used too
+	high values without reason because it makes mob to tough to be killed 
+	by players.
+
+&gA) NumDamDice&w = Number of Damage Dice
+&gB) SizeDamDice&w = Size of Damage Dice
+
+	Damage caused by mob's hit is calculated as follows:
+	Sum NumDamDice throws of SizeDamDice-sided dice.
+
+&gC) Num HP Dice&w = Number of Hitpoint Dice
+&gD) Size HP Dice&w = Size of Hitpoint Dice
+&gE) HP Bonus&w = Hitpoint Bonus
+
+	Initial hitpoints are calculated as follows:
+	Throw (Num HP Dice)-times by (Size HP Dice)-sided dice and add
+	(HP Bonus).
+	Max HP mob can receive: (Num HP Dice)*(Size HP Dice)+(HP Bonus)
+	
+&gF) Armor Class&w
+	The ability of the monster to avoid damage.  Range is from -100
+	to 100, with lower values indicating better armor.  Roughly, the
+	scale is:
+
+	AC  100    Naked person
+	AC    0    Very heavily armored person (full plate mail)
+	AC -100    Armored Battle Tank (hopefully impossible for players)
+
+&gG) Exp&w
+	The number of experience points the mobile is born with.
+
+&gH) Gold&w
+	The number of gold coins the mobile is born with.
+
+&gI) Position&w = Load Position
+	The position the mobile is in when born.
+	Please use only values from 3 to 6 and 8. 
+
+&gJ) Default&w = Default Position
+	The position to which monsters will return after a fight. 
+	In addition, the Default Position defines when the mob's long 
+	description is displayed (see ``Long Description'' above).
+
+&gK) Attack&w = Bare Hand Attack Type
+	This controls the description of violence given during battles,
+	in messages such as ``The Beastly fido bites you very hard.''
+
+&gL) NPC Flags&w
+	A bitvector defining behavior of the mobile.
+
+&gM) AFF Flags&w = Affection Flags
+	A bitvector of affection (mostly magic). Good for making mob blind,
+	invisible or protected from spells.
+
+&gN) Mob Programs&w
+	A scripts used to control the behavior of mobile. We are using
+	severely modified MobProgs.
+
+&gO) Spec proc&w
+	Predefined special procedures giving mobile certain behavior.
+
+&gQ) Quit&w
+	Exit editor (and prompt for save if needed)
+
+#
+"AFF_FLAGS" "AFF FLAGS"
+------------------------------------------------------------------------------
+
+	BLIND		Mob is blind.
+	INVIS		Mob is invisible.
+	DET_ALIGN	Mob is sensitive to the alignment of others.
+	DET-INVIS	Mob can see invisible characters and objects.
+	DET-MAGIC	Mob is sensitive to magical presence.
+	SENSE-LIFE	Mob can sense hidden life.
+	WATWALK		Mob can traverse unswimmable water sectors.
+	SANCT		Mob is protected by sanctuary (half damage).
+	GROUP		Reserved for internal use.  Do not set.
+	CURSE		Mob is cursed.
+	INFRA		Mob can see in dark.
+	POISON		Reserved for internal use.  Do not set.
+	PROT-EVIL	Mob is protected from evil characters.
+	PROT-GOOD	Mob is protected from good characters.
+	SLEEP		Reserved for internal use.  Do not set.
+	!TRACK		Mob cannot be tracked.
+	TAMED		Mob is tamed fro riding.
+	UNUSED17	Unused (room for future expansion).
+	SNEAK		Mob can move quietly (room not informed).
+	HIDE		Mob is hidden (only visible with sense life).
+	UNUSED20	Unused (room for future expansion).
+	CHARM		Reserved for internal use.  Do not set.
+	DET-TRAP	Reserved for internal use.  Do not set.
+	HOLD		Reserved for internal use.  Do not set.
+	HASTE		Reserved for internal use.  Do not set.
+	SHIELD		Mob is less vulnerable to missiles (ranged wpns).
+	DEATHDANCE	Reserved for internal use.  Do not set.
+	MIRROR		Reserved for internal use.  Do not set.
+	STONESKIN	Reserved for internal use.  Do not set.
+	BLINK		Reserved for internal use.  Do not set.
+	FLY		Mob is flying.
+	WATERBR		Mob can breath water.
+	PROT_FIRE	Mob is protected from fire (lava, etc.)
+	+1		Not implemented yet. Do not set.
+	+2		Not implemented yet. Do not set.
+	+3		Not implemented yet. Do not set.
+	+4		Not implemented yet. Do not set.
+	+5		Not implemented yet. Do not set.
+	SILVER		Not implemented yet. Do not set.
+	FARSEE		Not implemented yet. Do not set.
+	CRIT_HIT	Not implemented yet. Do not set.		
+	BURNING		Mob is burning.
+	FREEZING	Mob is freezing.
+	ACIDED		Mob is acided.
+	PROT_COLD	Mob is protected from cold (cold spells, etc.)
+	PASSDOOR	Mob can pass closed or locked doors.
+	ENH_HEAL	Reserved for internal use.  Do not set.
+	ENH_MANA	Reserved for internal use.  Do not set.
+	ENH_MOVE	Reserved for internal use.  Do not set.
+	UNUSED		Reserved for future use. Do not set.
+	ANTIMAGIC	Mob is unaffectable by magic.
+	BLOODL		Mob regenerates as it sucks blood.
+	BLOCK		Reserved for internal use. Do not set.
+	FSHIELD		Fire shield damages enemy when receives hit.
+
+#
+"NPC FLAGS" "MOB_XXX Flags"
+------------------------------------------------------------------------------
+	SPEC		* Reserved for internal use.
+ 	SENTINEL	  Stationary mob, stays in the room where loaded.
+	SCAVENGER	  Picks random items dropped in the room.
+	ISNPC		* Reserved for internal use.
+	AWARE		  Immune to backstab.
+	AGGR		  Aggressive to PCs, which can see.
+	STAY-ZONE	  Stay in the zone where loaded.
+	WIMPY		  Attempts to flee if hp drops below 20%.
+			  If set in conjuction with AGGR attack only
+			  unconscious victims (sleeping or wounded).
+	AGGR_EVIL	  Aggresive to PCs with evil alignment.
+	AGGR_GOOD	  Aggresive to PCs with good alignment.
+	AGGR_NEUTRAL	  Aggresive to PCs with neutral alignment.
+	MEMORY		  Remember the PCs who attacked its and attack if
+			  meet them again.
+	HELPER		  Helps fighting NPC in the room (useful for
+			  creating groups of mobs attacking together).
+	!CHARM		  Immune to charm spell.
+	!SUMMN		  Immune to summon spell.
+	!SLEEP		  Immune to sleep spell.
+	!BASH		  Immune to bash skill.
+  	!BLIND		  Mob cannot be blinded.
+	MOUNTABLE	  Mob can by mounted and ridden.
+	GHOST		  Mob won't leave corpse after killing, carried
+			  items are dropped on the ground
+	UNDEAD		  Mob is undead. Apply holy word, holy shout spells. 
+			  Immune to death ripple, death wave, etc.
+	AGGR_CLAN	* Not implemented yet.
+	PET		  Mob disappears when its master leaves game.
+	ETHEREAL	  Mob is invisible (independent from AFF_INVISIBLE)
+	FASTREGEN	  Faster (2 times) regeneration.
+	FASTAGGR	  Fast aggression, cannot be skiped by moving
+                          quickly.
+	!BURN		  Mob cannot burn.
+  	+BURN		  Mob more vulnerable from burning.
+  	!FREEZE		  Mob cannot freeze.
+  	+FREEZE		  Mob more vulnerable from freezing.
+  	!ACID		  Mob is invulnerable from acid.
+  	+ACID		  Mob is more vulnerable from acid.
+  	CANBURN		* Not implemented yet.
+  	CANFREEZE	* Not implemented yet.
+  	CANACID		* Not implemented yet.
+  	GAZE_PETR	* Not implemented yet.
+  	CANTALK		* Not implemented yet.
+  	CANT_FLEE	  Mob dissalows fleeing of foes he is fightning.
+  	HUNT		* Mob will hunt its attackers slowly :).
+	*DELETED*	* Reserved for internal use.
+
+------------------------------------------------------------------------------
+&RNOTE: Flags marked with * may not be set without permission of Implementor.&w
+------------------------------------------------------------------------------
+#
+"ITEMS" "ITEM_XXX"
+------------------------------------------------------------------------------
+
+	UNDEFINED	Reserved for internal use. Do not set.
+	LIGHT		Item is emitting light (lamps, torchs, candles, etc.)
+	SCROLL		Item is magical scroll. Can be recited.
+	WAND		Item is magical wand.
+	STAFF		Item is magical staff.
+	WEAPON		Item is melee weapon.
+	FIRE WEAPON	Reserved for future use. Do not set.
+	MISSILE		Reserved for future use. Do not set.
+	TREASURE	Item is treasure.	
+	ARMOR		Item is armor.
+	POTION		Item is magical potion.
+	WORN		Reserved for future use. Do not set.
+	OTHER		Item is "other" kind :)
+	TRASH		Item is trash.
+	TRAP		Reserved for future use. Do not set.
+	CONTAINER	Item is conatiner (other item can be put in it)
+	NOTE		Item is written note.
+	LIQ CONTAINER	Item is liquid container (bottle, barrel, etc.)
+	KEY		Item is key.
+	FOOD		Item can be eaten.
+	MONEY		Item is money. It'll be converted into gold pieces
+			when picked.
+	PEN		Item is pen, allowing to write.
+	BOAT		Item allows to traverse unswimable water sectors.
+	FOUNTAIN	Item is a fountain.
+	THROW		Item is a throwing weapon.
+	GRENADE		Item is a timed grenade.
+	BOW		Item is a ranged weapon allowing to fire ARROWs.
+	SLING		Item is a ranged weapon allowing to fire ROCKs.
+	CROSSBOW	Item is a ranged weapon allowing to fire BOLTs.
+	BOLT		Can be fired from CROSSBOW.
+	ARROW		Can be fired from BOW.
+	ROCK		Can be fired from SLING.
+	FLIGHT		Item enables to fly.
+#
+"REDIT MAIN MENU"
+------------------------------------------------------------------------------
+
+&g-- Room Number&w
+	This number is critical; it is the identity of the room within
+	the game.  All other files will use this number to refer to this
+	room.  From within the game, this number can be used with
+	``goto'' to go to this room.
+
+&g1) Name&w
+	This string is the room's title, which is displayed before the
+	room description when players look at the room, or displayed
+	alone if players are using ``brief'').
+
+&g2) Description&w
+	The description of the room seen when they type ``look,'' or
+	when they enter the room with brief mode off.
+
+&g3) Room flags&w
+	Flags describing special features of the room.
+
+&g4) Sector type&w
+	A value defining the type of terrain in the room.
+
+&g5) Exit north
+6) Exit east
+7) Exit south
+8) Exit west
+9) Exit up
+A) Exit down&w
+	Room numbers to which particular direction leads. There can also be
+	defined features like doors, locks, etc., as well as direction
+	descriptions.
+
+&gB) Extra description&w
+	This section defines the extra descriptions such as signs or 
+	strange objects that might be in the room. There can be unlimited
+	number of extra descriptions.
+
+&gC) Teleport&w
+	This brings a menu allowing to define a teleport to work in the
+	room. This item signals whether is teleport defined or not, by
+	displaying word "YES" or "NO".
+
+&gD) Spec-proc&w
+	Predefined routines which control special behavior of the room.
+
+&gE) Room affect&w
+	Special behavior of the room often caused by 'roomaffect' spells
+	like 'wall of fog'.
+
+&gQ) Quit&w
+	Quit and eventually prompt for save.
+
+#
+"ROOM SECTOR TYPES"
+------------------------------------------------------------------------------
+	INSIDE		Indoors (small number of move points needed).
+	CITY		The streets of a city.
+	FIELD		An open field.
+	FOREST		A dense forest.
+	HILLS		Low foothills.
+	MOUNTAIN	Steep mountain regions.
+	WATER (Swim)	Water (swimmable).
+	WATER (No Swim)	Unswimmable water - boat required for passage.
+	UNDERWATER	Underwater.
+	IN FLIGHT	Wheee!
+	SWAMP		Muddy hardly passable terrain.
+	LAVA		Beware!
+	ROAD		Lower movement cost than even field.
+#
+"ROOM AFFECT FLAGS" 
+------------------------------------------------------------------------------
+
+	FOG		There is a thick fog in the room, disallowing to see
+			room descripiton.
+#
+"ROOM FLAGS" "ROOM_FLAGS" "ROOM_XXX"
+------------------------------------------------------------------------------
+
+	DARK		Room is dark.
+	DEATH		Room is a death trap; char dies.
+	!MOB		Mobs cannot enter room.
+	INDOORS		Room is indoors.
+	PEACEFUL	Room is peaceful (violence not allowed).
+	SOUNDPROOF	Shouts, gossips, etc. won't be heard in room.
+	!TRACK		'track' can't fing a path through this room.
+	!MAGIC		All magic attepted in this room will fail.
+	TUNNEL		Only one person allowed at a time.
+	PRIVATE		Cannot teleport in or goto if two people here.
+	GODROOM		Only LVL_GOD and above allowed to enter.
+	HOUSE		Reserved for internal use. Do not set.
+	HCRSH		Reserved for internal use. Do not set.
+	ATRIUM		Reserved for internal use. Do not set.
+	OLC		Reserved for internal use. Do not set.
+	*		Reserved for internal use. Do not set.
+	GOOD_REGEN	Mana, hp and vp regeneration 2-times faster.
+	TELEPORT	Reserved for internal use. Do not set.
+	OWNER_ONLY	Unimplemented. Do not set.
+	BAD_REGEN	Mana, hp and vp regeneration 2-times slower.		
+	*DELETED*	Reserved for internal use. Do not set.
+	!SUMMON		'summon', 'portal', 'recall' and similar spells does
+			not work in the room.
+#
+"REDIT TELEPORT"
+------------------------------------------------------------------------------
+
+&g1) Tele-Target&w
+	Teleport target room, setting to 0 will disable teleport.
+
+&g2) Tele-Freq&w
+	Frequency of teleport activation in teleport ticks.
+
+&g3) Tele-Flags&w
+	Flags controlling behavior of teleport.
+
+&g4) Tele-Obj&w
+	Vnum of obj needed to activate teleport (if any object needed).
+
+#
+"TELEPORT FLAGS"
+------------------------------------------------------------------------------
+
+  ForceLook		Executes 'look' command on player after teleporting.
+  EntryResetsTime	Unimplemented. Do not set.
+  SetsRandomTime	Random teleport frequency.
+  Spin			Unimplemented. Do not set.
+  HasOBJinInv		Teleports only if char is carrying object(Tele-Obj).
+  NoOBJinInv		Teleports only if char is not carrying object(Tele-Obj).
+  NoMesgDisplay		Do not notify char about being teleported.
+  SkipMobs		Do not teleport mobs.
+  SkipGroundObjects	Do not teleport objects in room.
+#
+"EXTRA DESCRIPTION MENU"
+
+&g1) Keyword&w
+	The word you use in LOOK AT <keyword> command.
+
+&g2) Description&w
+	Text you want to appear.
+
+&g3) Goto next description&w
+	Create one more description.
+
+#
+"ROOM EXIT MENU"
+
+&g) Exit to&w
+	Virtual number of a room this exit should lead in.
+
+&g2) Description&w
+	A text which appears when using LOOK <direction> command.
+
+&g3) Door name&w
+	Keywords separated by space, identifying the door. It's the name of
+	the door used in LOCK <door-name> command. E.g. if you use `door
+	gate` you can use LOCK door or LOCK gate. The same applies to OPEN,
+	CLOSE, UNLOCK, etc.
+
+&g) Key&w
+	VNum of key that can be used to unlock the door if it's locked.
+
+&g5) Door flags&w
+	Whether there are door and whether their lock can be picked.
+
+&g6) Purge exit&w
+	Remove exit in this direction.
+
+#
+&g0) No door&w
+	An unrestricted exit that has no door, or a special door cannot be 
+	opened or closed with the ``open'' and ``close'' commands.  The latter 
+	is useful for secret doors, trap doors,	or other doors that are 
+	opened and closed by something other than the normal commands, like 
+	a special procedure assigned to the room or an object in the room.
+
+&g1) Closeable door&w
+	Normal doors that can be opened, closed, locked, unlocked, and picked.
+
+&g2) Pickproof&w
+	Pickproof doors: if locked, can be opened only with the key.
+
+NOTE:
+	The initial state of all doors is open, but doors can be opened,
+	closed, and locked automatically when zones reset (see the zone
+	file documentation for details).
+
+#
+"ZEDIT MAIN MENU"
+
+Room Number/Room zone
+	Virtual number of edit room and edited zone
+
+Z) Zone Name
+	A label given to the zone so that it can be identified in system
+	logs.
+
+C) Creator
+	A name of the creator of the zone.
+
+B) Builders 
+	Space separated list of name of builders which may edit the zone.
+
+   
+
+L) Lifespan
+	The number of real-time minutes between zone resets for this
+	zone.  When the age of the zone (measured in minutes since the
+	last time that zone has been reset) reaches the zone's lifespan,
+	the zone is queued for reset.  The zone is then reset when it
+	reaches the front of the queue, and the conditions of the Reset
+	Mode (see below) are satisfied.
+
+T) Top Room Number
+	The highest numbered room belonging to this zone.  A room with
+	virtual number V belongs to zone N if TopRoom(zone N-1) < V <=
+	TopRoom(zone N) for all N > 0.  Rooms belong to zone 0 if their
+	number is between 0 and the top of zone 0.
+
+R) Reset Mode
+
+     0  Never reset the zone.  In this case, the age of the zone is
+        never updated, and it will never be queued for reset.  Thus,
+        the value of the Lifespan is effectively ignored.
+
+     1  Reset the zone only after it reaches its Lifespan and after
+        the zone becomes deserted, i.e. as soon as there are no
+        players located within the zone (checked once every minute).
+        This can make a zone more ``fair'' because it will keep the
+        hard mobs from reappearing in the zone until everyone leaves,
+        but on a busy MUD it can prevent a zone from ever being reset
+        since the zone may never stay empty for more than one minute.
+
+     2  Reset the zone as soon as it reaches its Lifespan, regardless
+        of who or what is in it.  This is the most commonly used
+        Reset Mode.
+
+M) Master Mob
+	Not yet implemented. Do not set.
+
+F) Zone Flags
+	Flags controlling special attributes of the zone.
+
+[Command list]
+	List of commands executed on the room on reset.
+
+N) New command
+	Add command in the list.
+
+E) Edit a command 
+	Edit command already in the list.
+
+D) Delete a command
+	Remove command from the list.
+
+Q) Prompt for save and quit.
+
+#
+"ZONE FLAGS" "ZON FLAGS" "ZON_XXX"
+
+	MAZE		Not yet implemented. Do not set.
+	!OWNER		Not yet implemented. Do not set.
+	FIXED_OWNER	Not yet implemented. Do not set.
+	!LIST		Not yet implemented. Do not set.
+	!PK		No playerkilling in the zone.
+	PRIVATE		Builders which cannot edit the zone, cannot also
+			view the zone.
+	PUBLIC		Zone can be viewed by mortal builders.
+
+#
+"ZEDIT COMMANDS" "ZONE COMMANDS"
+
+Each command consists of a letter, identifying the command-type,
+followed by three or four arguments.  The first argument, common to
+all the commands, is called the ``if-flag.''  If the if-flag for a
+command is 1, that command is only executed if the command immediately
+before it was executed as well.  If the if-flag is 0, the command is
+always executed.  If-flags are useful for things like equipping
+mobiles--you don't want to try to equip a mobile that has not been
+loaded.
+
+Commands that load mobiles and objects also include a ``max existing''
+argument.  This specifies the maximum number of copies of the mobile
+or object that are allowed to exist in the entire world at once.  If
+the number currently existing is greater than or equal to the ``max
+existing'' limit, the command is not executed.
+
+NOTE: WHEN YOU ARE USING OLC YOU WILL BE PROMPTED FOR EACH OF THESE VALUES
+SEQUENTIALLY, ONE AFTER ANOTHER!
+
+The valid zone-reset commands are M, O, G, E, P, D, and R.
+
+   M: load a mobile
+      Format: M <if-flag> <mob vnum> <max existing> <room vnum>
+
+      Mob vnum is the vnum of the mob to be loaded.  Room vnum is the
+      vnum of the room in which the mob should be placed.  The mob
+      will be loaded into the room.
+
+   O: load an object
+      Format: O <if-flag> <obj vnum> <max existing> <room vnum>
+
+      Obj vnum is the vnum of the obj to be loaded.  Room vnum is the
+      vnum of the room in which the obj should be placed.  The object
+      will be loaded and left lying on the ground.
+
+   G: give object to mobile
+      Format: G <if-flag> <obj vnum> <max existing>
+
+      Obj vnum is the vnum of the obj to be given.  The object will be
+      loaded and placed in the inventory of the last mobile loaded
+      with an ``M'' command.
+
+      This command will usually be used with an if-flag of 1, since
+      attempting to give an object to a non-existing mobile will
+      result in an error.
+
+   E: equip mobile with object
+      Format: E <if-flag> <obj vnum> <max existing> <equipment
+      position>
+
+      Obj vnum is the vnum of the obj to be equipped.  The object will
+      be loaded and added to the equipment list of the last mobile
+      loaded with an ``M'' command.  Equipment Position should be one
+      of the following:
+
+                  0    Used as light
+                  1    Worn on right finger
+                  2    Worn on left finger
+                  3    First object worn around neck
+                  4    Second object worn around neck
+                  5    Worn on body
+                  6    Worn on head
+                  7    Worn on legs
+                  8    Worn on feet
+                  9    Worn on hands
+                  10   Worn on arms
+                  11   Worn as shield
+                  12   Worn about body
+                  13   Worn around waist
+                  14   Worn around right wrist
+                  15   Worn around left wrist
+                  16   Wielded as a weapon
+                  17   Held
+
+   This command will usually be used with an if-flag of 1, since
+   attempting to give an object to a non-existing mobile will result
+   in an error.
+
+   P: put object in object
+      Format: P <if-flag> <obj vnum 1> <max existing> <obj vnum 2>
+
+      An object with Obj Vnum 1 will be loaded, and placed inside of
+      the copy of Obj Vnum 2 most recently loaded.
+
+      This command will usually be used with an if-flag of 1, since
+      attempting to put an object inside of a non-existing object will
+      result in an error.
+
+   D: set the state of a door
+      Format: D <if-flag> <room vnum> <exit num> <state>
+
+      Room vnum is the virtual number of the room with the door to be
+      set.  Exit num being one of:
+
+                  0    North
+                  1    East
+                  2    South
+                  3    West
+                  4    Up
+                  5    Down
+
+   State being one of:
+
+                  0    Open
+                  1    Closed
+                  2    Closed and locked
+
+   Care should be taken to set both sides of a door correctly.
+   Closing the north exit of one room does not automatically close the
+   south exit of the room on the other side of the door.
+
+   R: remove object from room
+      Format: R <if-flag> <room vnum> <obj vnum>
+
+      If an object with vnum Obj Vnum exists in the room with vnum
+      Room Vnum, it will be removed from the room and purged.
+
+#
+"OEDIT MAIN MENU"
+
+-- Item Number
+      This number is critical; it is the identity of the object within
+      the game.  It is the number that will be used to reference the
+      object from zone files and is the number used to ``load''
+      objects from within the game.
+
+1) Namelist
+      The list of keywords, separated by spaces, that can be used by
+      players to identify the object.  The object can only be
+      identified using the keywords that appear in its alias list; it
+      cannot be identified by a word that appears only in its name.
+      Great care should be taken to ensure that the spellings of names
+      and aliases match.  Fill words such as ``the,'' ``a,'' and
+      ``an'' should not appear in the namelist.
+
+2) S-Desc = Short Description
+      The description of the object used by the MUD when the object is
+      used.  For example, a short description of ``a long, green
+      stick'' would result in messages such as ``The Beastly Fido
+      picks up the long, green stick.''  The Short Description should
+      never end with a punctuation mark because it will be inserted
+      into the middle of sentences.
+
+3) L-Desc = Long Description
+      The description displayed when the object is seen lying on the
+      ground, for example, ``A furled umbrella is lying here.''
+      Unlike the Short Description, the Long Description should end
+      with appropriate punctuation.
+
+4) A-Desc = Action Description
+      Action Descriptions are primarily used for magical objects
+      (staves, wands, scrolls, and potions) to specify what message
+      displayed to the room when the magical item is used.  The Action
+      Description should be given in the act format specified in
+      act.doc.  If no Action Description is present, a default message
+      will be used:
+
+      Staves:  Rasmussen taps <object> three times on the ground.
+
+      Wands: Rasmussen points <object> at Onivel.
+
+      Scrolls: Rasmussen recites <object>.
+
+      Potions: Rasmussen quaffs <object>.
+
+      For objects which are readable papers, the Action Description
+      contains the text on the paper.
+
+5) Type
+      A number which specifies what type of object is being defined;
+      also controls the meanings of value0 through value4.  The Type
+      Flag must be one of the following numbers:
+
+6) Extra flags = Effects Bitvector
+      A bitvector (see section ``Using Bitvectors''), to define the
+      ``special effects'' of the object.  Flags that are marked as
+      ``cosmetic'' merely add an interesting message to the object
+      when it is examined, but has no substantive effect otherwise.
+
+7) Wear flags
+      These flags define on which positions the object can be worn.
+
+   Note that the TAKE bit controls whether or not an item can be
+   picked up using the ``get'' command, whereas the HOLD bit controls
+   if the object can be worn using the ``hold'' command.
+
+8) Weight
+      The weight of the object.  The weight controls how many strength
+      points a character must have to take the object, and is used to
+      calculate when bags and other containers become full.
+
+9) Cost
+      The value of the object in gold coins; used by shopkeepers.
+
+A) Rent Per Day
+      The cost per day to rent the object in the Reception.
+
+B) Timer
+      Initial value of the timer. The meaning of timer is undefined by
+      default, contact implementor if you want to add some timed effect.
+
+C) Levels
+      Range of levels that can use this object. Players outside this range
+      won't be able to wear the object nor pick it up.
+
+D) Values (Value 0, Value 1, Value 2, Value 3)
+      These values are very central.  They define the object's
+      abilities based on the Type Flag. Use ? for detailed description of
+      each value.
+
+E) Applies menu
+      Object Affect Fields give objects magical properties.  They affect
+      characters when the object is worn, not when picked up.
+
+F) Extra description menu
+      Special descriptions showed when look at <string> is executed.
+
+G) AFF Flags
+      Which affection flags to set on character is the item is worn.
+      NOTE: This should be used only on rare items, because the affections
+      flags are outrageous powerful and giving unlimited abilities!!!
+
+H) Spec-proc
+      Predefined special procedure.
+
+Q) Quit
+      Prompt for save and quit.
+#
+"EFF FLAGS" "OBJECT EFFECTS"
+
+	GLOW		Item is glowing (cosmetic).
+	HUM		Item is humming (cosmetic).
+	!RENT		Item cannot be rented.
+	!DONATE		Item cannot be donated.
+	!INVIS		Item cannot be made invisible.
+	INVISIBLE	Item is invisible.
+	MAGIC		Item has a magical aura and can't be enchanted.
+	!DROP		Item is cursed and cannot be dropped.
+	BLESS		Item is blessed (cosmetic).
+	!GOOD		Item can't be used by good-aligned characters.
+	!EVIL		Item can't be used by evil-aligned characters.
+	!NEUTRAL	Item can't be used by neutral-aligned characters.
+	!MAGE		Item can't be used by the Mage class.
+	!CLERIC		Item can't be used by the Cleric class.
+	!THIEF		Item can't be used by the Thief class.
+	!WARRIOR	Item can't be used by the Warrior class.
+	!SELL		Shopkeepers will not buy or sell the item.
+	!LIVE_GRENADE	Reserved for internal use. Do not set.
+	!MORTAL		Item cannot be used nor picked by mortals.
+	BURIED		Item is buried under ground and can be dig.
+	!PALADIN	Item can't be used by the Paladin class.
+	!RANGER		Item can't be used by the Ranger class.
+	!WARLOCK	Item can't be used by the Warlock class.
+	!CYBORG		Item can't be used by the Cyborg class.
+	!NECROMANCER	Item can't be used by the Necromancer class.
+	!DRUID		Item can't be used by the Druid class.
+	!ALCHEMIST	Item can't be used by the Alchemist class.
+	!BARBARIAN	Item can't be used by the Barbarian class.
+	!DISARM		Weapons only. Cannot be disarmed.
+	BOOMERANG	Not implemented. Do not set.
+	ENGRAVED	Reserved for internal use. Do not set.
+	AUTOENGRAVE	Item is automatically engraved to the first owner.
+	*DELETED*	Reserved for internal use. Do not set.
+	!SINK		Item does not sink if dropped in watery rooms.
+
+#
+"OBJECT APPLY MENU"
+
+	There can be up to 6 affection on the object. After pressing of
+	appropriate number you will be prompted for affect type and modifier 
+	value (number).
+
+#
+"OBJECT APPLIES"
+
+       NONE           No effect (typically not us
+       STR            Apply to strength.
+       DEX            Apply to dexterity.
+       INT            Apply to intelligence.
+       WIS            Apply to wisdom.
+       CON            Apply to constitution.
+       CHA            Apply to charisma.
+       CLASS          Unimplemented.  Do not use.
+       LEVEL          Unimplemented.  Do not use.
+       AGE            Apply to character's MUD ag
+       CHAR_WEIGHT    Apply to weight.
+       CHAR_HEIGHT    Apply to height.
+       MANA           Apply to MAX mana points.
+       HIT            Apply to MAX hit points.
+       MOVE           Apply to MAX movement point
+       GOLD           Unimplemented.  Do not use.
+       EXP            Unimplemented.  Do not use.
+       AC             Apply to armor class (AC).
+       HITROLL        Apply to hitroll.
+       DAMROLL        Apply to damage roll bonus.
+       SAVING_PARA    Apply to save throw: paraly
+       SAVING_ROD     Apply to save throw: rods
+       SAVING_PETRI   Apply to save throw: petrif
+       SAVING_BREATH  Apply to save throw: breath
+       SAVING_SPELL   Apply to save throw: spells
+
+#
+"SEDIT MAIN MENU"
+
+-- Shop Number
+	A unique number for the shop.											  # 
+						
+0) Shop Keeper Mobile Number
+	Virtual number of the shopkeeper mobile.
+
+1) Open 1, 2) Close 1, 3) Open 2, 4) Close 2
+Times when open
+	The times (in MUD-hours) between which the shop is open.  
+	Two sets of Open/Close pairs are allowed so that the shop can be
+	open twice a day (for example, once in the morning and once at
+	night).  To have a shop which is always open, these four values
+	should be: 0, 28, 0, 0
+
+5) Sell rate - Profit When Selling
+	The price of an object when a shopkeeper sells it is the
+	object's value times Profit When Selling.  This is a floating
+	point value.  It should be >= 1.0.
+						
+6) Buy rate - Profit When Buying
+	The amount of money a shopkeeper will offer when buying an
+	object is the object's value times Profit When Buying.  This is
+	a floating point value.  It should be <= 1.0.
+
+7) Keeper no item - Message when item to buy does not exist
+	The message given to a player if he tries to buy an item that
+	the shopkeeper does not have in his inventory.
+
+8) Player no item - Message when item to sell does not exist
+	The message given to a player if he tries to sell an item that
+	the player does not have in his inventory.
+
+9) Keeper no buy - Message when shop does not buy offered item
+	The message given to a player if he tries to sell an item that
+	the shopkeeper does not want to buy (controlled by the Buy Types
+	and Buy Namelists.)
+
+A) Keeper no cash - Message when shop can't afford item
+	The message given to a player if he tries to sell an item to a
+	shop, but the shopkeeper does not have enough money to buy it.
+
+B) Player no cash - Message when player can't afford item
+	The message given to a player if he tries to buy an item from a
+	shop but doesn't have enough money.
+
+C) Buy success - Message when successfully buying an item
+	The message given to a player when he successfully buys an item
+	from a shop.  The expression %d can be used in place of the cost
+	of the item (e.g., That'll cost you %d coins, thanks for your
+	business!
+
+D) Sell success - Message when successfully selling an item
+	The message given to a player when he successfully sells an item
+	to a shop.  The expression %d can be used in place of the cost
+	of the item as above.
+
+E) With Who Bitvector
+	A bitvector used to designate certain alignments or classes that 
+	the shop will not trade with.
+
+F) Shop Bitvector
+	A bitvector with the following values:
+	___________________________________________________________________
+	  WILL_START_FIGHT  	Players can to try to kill shopkeeper.
+	  WILL_BANK_MONEY	Shopkeeper will put money over 15000
+	___________________________________________________________________
+
+R) Rooms Menu
+	The virtual numbers the mobile must be in for the shop to be
+	effective.  (So trans'ed shopkeepers can't sell in the desert).
+
+P) Products Menu
+	An arbitrarily long list of the virtual numbers of objects that
+	the shop produces (i.e., items which will always be available,
+	no matter how many are bought).  The list must be terminated
+	with -1.
+
+T) Accept Types
+	These lines control what types of items that the shop will buy.
+	There can be an arbitrarily long list of buy types. 
+        The first argument, called ``Buy Type'' is the Type Flag of
+	items the shop will buy.
+
+	The second (optional) argument is called a Buy Namelist and
+	allows you to provide optional keywords to define specific
+	keywords that must be present on the objects for the shopkeeper
+	to buy or sell it.
+
+Q) Quit
+	Quit and prompt for save.
+
+A brief note:  Shopkeepers should be hard (if even possible) to
+kill.  The benefits players can receive from killing them is enough
+to unbalance most non monty-haul campaigns.
+
+#
+$

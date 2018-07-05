@@ -1,0 +1,22 @@
+#!/usr/bin/perl -i.bak
+#usage:  zonfilt #.zon
+
+$D = 0;
+
+while (<>) {
+    chop;
+    if (/^\#\d+\s*/) {
+        $D = 1
+    }
+
+    if (/^(\d+) (\d+) (\d+)\s*/) {
+        if ($D == 1) {
+            print "~\n0 0\n", $1," ", $2, " ", $3, "\n";
+            $D = 0;
+        } else {
+            print "$_\n";
+        }
+    } else {
+        print "$_\n";
+    }
+}

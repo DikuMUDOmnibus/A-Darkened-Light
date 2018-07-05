@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+&WPohyb:&w                             | &WKomunikacia:&w
+NORTH SOUTH EAST WEST UP DOWN      | SAY GSAY SHOUT HOLLER TELL ASK WHISPER
+LOOK EXITS ENTER LEAVE SWALK       | MAIL RECEIVE CHECK GOSSIP GRATS AUCTION
+SLEEP WAKE REST SIT STAND MEDITATE | NOTELL NOSHOUT NOGOSSIP NOGRATS NOAUCTION
+TAME MOUNT DISMOUNT BUCK           | 
+(LOCK UNLOCK OPEN CLOSE SPRING)    |
+(FORAGE)                           |
+-------------------------------------------------------------------------------
+&WPredmety:&w                          | &WInformacie:&w
+GET DROP JUNK DONATE PUT GIVE WEAR | SCORE HELP INFO WHO NEWS TIME WEATHER
+GRAB INVENTORY EQUIPMENT REMOVE    | WHERE CONSIDER LEVELS WIZLIST IMMLIST
+EXAMINE EAT DRINK TASTE SIP POUR   | CREDITS TOGGLE FLAGS WIZHELP AFFECTS
+BURY DIG			   | WHOAMI AREAS SCAN
+(FORGE SCRIBE BREW FISSION)        |
+-------------------------------------------------------------------------------
+&WBoj:&w                               | &WIne:&w
+KILL WIELD FLEE ASSIST TRACK       | ! BUG IDEA TYPO QUIT SAVE BRIEF COMPACT
+SHOOT THROW "PULL PIN"             | TITLE NOSUMMON COMMANDS SOCIALS DISPLAY
+(KICK BASH RESCUE BACKSTAB CAST)   | AUTOGOLD AUTOLOOT AUTOASSIST AUTOSPLIT
+(DISARM)			   | AUTOMAIL SHOWCLAN (EXAMUNIT) NEWBIE
+-------------------------------------------------------------------------------
+&WDalsie temy:&w
+SOCIAL SHOPS INNS SPELLS LINK AC BOARDS FLAGS HOUSES AREAS CLAN HOMETOWNS
+CLASSES CLERIC WARRIOR THIEF MAGIC USER PALADIN RANGER WARLOCK CYBORG
+NECROMANCER DRUID BARBARIAN ALCHEMIST
+-------------------------------------------------------------------------------
+&WSyntax: HELP <tema>&w

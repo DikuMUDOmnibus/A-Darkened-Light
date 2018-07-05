@@ -1,0 +1,111 @@
+#22200
+Blindingly lit hallway~
+  This east-west hallway is so brightly lit that you can barely see anything. 
+You have to shield your eyes just to see in front of you. It appears to be
+made from the same metal as the entrance to the building does.
+~
+222 8 0 0 0 0
+D0
+You see nothing there. Really. You don't. I promise.
+~
+door secret~
+0 0 22204
+D1
+You see the blindingly bright hallway.
+~
+~
+0 0 22202
+D3
+You see the blindingly bright hallway.
+~
+~
+0 0 22198
+S
+#22201
+Deadly Iron Maiden~
+  As you step into the room, you trip over a piece of wire--the wire breaks,
+and the bars of the coffin-like structure start to close. You try to run out,
+but before you can, it snap shut--and you feel the spikes pierce your heart
+as you quickly lose consciousness--but not before you remember how stupid
+you were to enter the room and certainly not before you feel the most
+intense pain you have ever felt in your life.
+~
+222 518 0 0 0 0
+D0
+You shouldn't be seeing anything. Go away.
+~
+~
+0 0 22202
+S
+#22202
+Blindingly lit hallway~
+  This east-west hallway is so brightly lit that you can barely see anything. 
+You have to shield your eyes just to see in front of you. It appears to be
+made from the same metal as the entrance to the building does. Openings to
+your north and south look like they need to be examined closely before you
+even think about going those ways. The Grand Temple of Terror is to your
+east.
+~
+222 8 0 0 0 0
+D0
+It looks as if this is the true source of all the light. It, however, is NOT
+cold like the globe in the first room, and it is also not at all the kind of
+place a person could survive if they took the chance.
+~
+~
+0 0 22203
+D1
+You can see the grand temple of terror.
+~
+~
+0 0 22204
+D2
+You can see what looks to be an iron maiden in the southern room--however, 
+it fits every part of that room...and looks like it's just about to snap 
+shut. It looks like you'd be very dumb to attempt entrance.
+~
+~
+0 0 22201
+D3
+The blindingly lit hallway continues onwards.
+~
+~
+0 0 22200
+S
+#22203
+The HellFire Room~
+   As you enter the room, you are promptly burned to a crisp. We warned you.
+So sorry!(NOT!!!)
+~
+222 518 0 0 0 0
+D2
+Umm...you're dead. You can't look that way. Leave us alone. We're a DT damnit!
+~
+~
+0 0 22202
+S
+#22204
+Grand Temple of Terror~
+ This shrine to terror couldn't be more aptly named. Elaborately made drawings
+all around the room depict one terrifying act after another. The light is 
+so bright that even though you close your eyes to hide the awful sights,
+you can still see them! You want to run, but are mesmerized by the utter
+horror of this place.
+~
+222 8 0 0 0 0
+D1
+You see nothing worth mentioning...
+~
+door secret~
+1 -1 22197
+D2
+You see, strangely enough, a way to the High Priest of Terror's office.
+~
+~
+0 0 22192
+E
+drawings~
+  Don't look at them any more closely than you have to!
+~
+S
+$~

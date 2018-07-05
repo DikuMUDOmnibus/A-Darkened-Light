@@ -1,0 +1,86 @@
+#5700
+The Vampire~
+the Vampire~
+The Vampire fly in Air
+~
+Vampire
+~
+9 0 0 0 0 0 0 0 -100 E
+10 17 0 3d100+0 1d1+0
+0 30000
+7 7 0
+BareHandAttack: 11
+MaxMove: 50
+SpecProc: dragon_guard
+E
+#5701
+shadowguard~
+the Odin`s Shadowguard~
+An Odin`s Shadowguard stands here.
+~
+It looks at you.
+~
+67110921 96 0 0 33555584 131584 0 0 0 E
+30 0 -20 30d1000+0 10d127+50
+0 1000
+8 7 1
+MaxMove: 50
+SpecProc: cityguard
+E
+>rand_prog 100~
+say Odin je ten najvacsii  God   , klanajte sa!!!
+~
+|
+#5702
+Algol~
+Algol ~
+Algol The Undead stands here.
+~
+It looks at you. It is very danger:)
+~
+11 16 0 0 0 0 0 0 0 E
+10 19 -3 30d80+0 1d1+50
+0 3000
+8 7 1
+MaxMove: 50
+SpecProc: fighter
+E
+#5703
+girl~
+Kathy~
+Very beautiful girl stands here.
+~
+nic mi  nerob , prosim ...
+~
+10 0 0 0 1088 0 0 0 100 E
+10 10 10 20d1+0 1d1+0
+0 0
+8 8 2
+MaxMove: 50
+E
+>greet_prog 100~
+say hi, $n!
+gossip vole nemam xut!
+~
+|
+#5704
+Shadow Monk~
+Shadow Monk~
+Shadow Monk is levitating around with strange gesture on his face
+~
+Small but powerful monk with closed eyes. But it seems that he watches every your step.
+~
+16779465 23 0 0 1074012188 1 0 0 100 E
+30 10 2 15d30+0 2d5+5
+10 25000
+8 8 1
+BareHandAttack: 12
+MaxMove: 50
+SpecProc: magic_user
+E
+>fight_prog 100~
+say You have disturbed the peace kept inside the walls of this castle
+Say PREPARE TO DIE!!!!
+~
+|
+$

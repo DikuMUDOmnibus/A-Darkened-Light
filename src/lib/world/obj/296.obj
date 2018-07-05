@@ -1,0 +1,91 @@
+#29600
+Demon, Sword~
+a sword of the morning star~
+A sword of the morning star lies here, beckoning for its owner.~
+A special piece of equipment for warriors.
+~
+5 266366976 0 0 0 8193
+0 10 10 3
+0 0 0
+A
+18 10
+A
+19 10
+#29601
+Demon, Dagger~
+an unreathreal demon dagger~
+An unreathreal demon dagger is lieing on the ground here.~
+~
+5 267415552 0 0 0 16385
+0 4 3 14
+3 0 0
+A
+18 5
+A
+19 5
+#29602
+Demon, solid metal~
+a piece of unreathreal demon metal guard~
+A solid metal unreathreal demon guarder lies on the ground here.~
+~
+9 267415808 0 0 0 9
+30 0 0 0
+3 0 0
+A
+1 10
+A
+13 50
+A
+17 20
+A
+2 3
+#29603
+Demon, bracer~
+an unrethreal demon bracer~
+An unrethreal demon bracer is hovering here.~
+a special piece of warrior eq.
+~
+9 267415552 0 0 0 4097
+10 0 0 0
+2 0 0
+A
+5 1
+A
+18 2
+#29604
+Demon, Necklace~
+an enchanted demon necklace~
+An enchanted demon necklace is floating here.~
+~
+0 267415552 0 0 0 5
+0 0 0 0
+0 0 0
+A
+2 2
+A
+18 2
+#29605
+A blood rod~
+a blood rod~
+A blood rod of the gods is lying here, slowly dialates red liquid.~
+drink blood with this for a vampire and quench your thirst.
+~
+23 0 0 0 0 1
+2147483647 2147483647 0 0
+0 0 0
+#29606
+A demon ring~
+a demon ring~
+A demon ring lies on the ground, humming ominously with power.~
+Set down from lucifer this artifact is something of a fashion statement.
+~
+3 1 0 0 0 3
+1 10 10 107
+0 0 0
+A
+1 1
+A
+18 1
+A
+19 1
+$~

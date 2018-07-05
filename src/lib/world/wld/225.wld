@@ -1,0 +1,109 @@
+#22500
+Zaciatok tvojho konca~
+Empty~
+225 0 0 0 0 2
+D3
+~
+~
+0 0 22501
+S
+#22501
+Cesta za hradom~
+Empty~
+225 0 0 0 0 2
+D1
+~
+~
+0 0 22500
+S
+#22502
+Pokracovanie tvojho konca~
+Empty~
+225 0 0 0 0 0
+S
+#22594
+Za priesmykom~
+You are in an unfinished room.
+~
+225 0 0 0 0 5
+D3
+~
+~
+0 0 22595
+S
+#22595
+Durncragsky priesmyk~
+You are in an unfinished room.
+~
+225 0 0 0 0 5
+D1
+~
+~
+0 0 22594
+D3
+~
+~
+0 0 22596
+S
+#22596
+Pred priesmykom~
+You are in an unfinished room.
+~
+225 0 0 0 0 12
+D1
+~
+~
+0 0 22595
+D3
+~
+~
+0 0 22597
+S
+#22597
+Cesta k priesmyku~
+  Cesticka pokracuje dalej. Je vidiet ze po nej chodievaju 
+len dive zvierata a ludsky tvor uz davno nebol v tychto 
+koncinach.
+~
+225 0 0 0 0 12
+D1
+~
+~
+0 0 22596
+D3
+~
+~
+0 0 22598
+S
+#22598
+Za hradom~
+Empty~
+225 0 0 0 0 0
+D1
+~
+~
+0 0 22597
+D3
+~
+~
+0 0 22599
+E
+tabula~
+       Durncargsky piesmyk
+            5 mil
+~
+S
+#22599
+Pod hradbami~
+Nachadzas sa pod hradbami hradu ktoreho panom je kral
+Welmar. Na vychode vidis daku zarastenu cesticku. Napadlo
+ta, ze si ju doterz nevsimol a preto sa vyberies prezkumat
+kam vedie.
+~
+225 0 0 0 0 12
+D1
+~
+~
+0 0 22598
+S
+$~

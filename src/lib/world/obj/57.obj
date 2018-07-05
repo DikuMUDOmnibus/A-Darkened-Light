@@ -1,0 +1,43 @@
+#5700
+The Sunbeam~
+the Sunbeam ~
+An sunbeam is lying here.~
+~
+5 256 0 0 0 8193
+0 1 2 12
+1 10000 10000
+A
+18 2
+S
+fireball_weapon
+#5701
+Algol`s Key~
+the key from gate~
+An key is lying here.~
+~
+18 4 0 0 0 1
+0 0 0 0
+0 0 0
+#5798
+Atom grenade~
+Atom grenade~
+Atom grenade is lying here~
+~
+25 262145 0 0 0 24577
+4 2 10 0
+1 100000 10
+#5799
+Dudyho sniperka~
+High Energi Plasma Snipers' Gun~
+High Energy Snipers Gun is lying here~
+~
+5 262147 0 0 0 8193
+0 100 100 0
+10 1000000 100
+A
+19 100
+A
+18 100
+C
+83886080 0 0 0 
+$~

@@ -1,0 +1,143 @@
+#221
+Vice Island -- Questor~
+CAVNESS~
+0 0
+22199 30 1
+* at the Beach
+M 0 22101 5 22104  woman in pink dress
+E 1 22100 5 5
+M 0 22102 5 22104  woman in blue dress
+E 1 22101 5 5
+M 0 22102 5 22104  woman in blue dress
+E 1 22101 5 5
+M 0 22103 5 22104  woman in pristine white
+E 1 22102 5 5
+M 0 22104 5 22104  woman in beige dress
+E 1 22103 5 5
+M 0 22104 5 22104  woman in beige dress
+E 1 22103 5 5
+M 0 22107 5 22101  crab
+M 0 22107 5 22101  crab
+M 0 22107 5 22101  crab
+M 0 22107 5 22101  crab
+* the Harem
+M 0 22105 1 22104  woman in multi-colored dress
+E 1 22104 2 5     
+M 0 22106 1 22104  master
+G 1 22105 2       give him a talisman
+E 1 22106 1 5     equip him with a leisure robe
+E 1 22130 10 17   equip him with the key to the Butcher 
+* at the tarry area
+M 0 22108 1 22125  the tar baby
+E 1 22107 15 17   equip it with a tar rattle
+* at the cliff road
+M 0 22109 2 22141  the seagull
+M 0 22109 2 22140  the seagull
+* at building of fear (SET GHOSTS AND KEYS!!!!)
+M 0 22110 1 22158  the priest of fear
+G 1 22108 10      equip with scroll of fear
+E 1 22109 1 6     equip with the Crown of Spikes
+E 1 22110 1 12    equip with the black, bloodstained robes
+E 1 22113 10 17   equip with the key to the prisoner
+* 
+M 0 22111 1 22151  ghost
+G 1 22131 10
+*
+M 0 22112 1 22152  prisoner
+E 1 22111 1 8     legirons on feet
+E 1 22112 1 9     manacles on hands
+*
+M 0 22113 1 22149  butcher
+E 1 22114 1 16    butcher knife
+E 1 22129 1 17    key to the gargoyle dt
+* high priest of terror 
+M 0 22114 1 22195  High Priest of Terror
+E 1 22115 1 10    equip with armbands(arms)
+E 1 22116 1 7     equip with leggings(legs)
+E 1 22117 1 8     equip with boots(feet)
+E 1 22118 1 9     equip with gloves(hands)
+E 1 22119 1 16    wield the terror-blade
+E 1 22120 1 5     equip with armor(body)
+E 1 22121 1 6     equip with headdress of Terror(head, of course)
+E 1 22122 1 1     equip with ring(finger_r)
+E 1 22123 1 3     equip with cloak of darkness(neck_1)
+G 1 22128 20      give key to ToT from the Trail of Terror
+* temple of terror
+* M 0 22116 1 4704  The Grand Dragon of Terror
+* E 1 22124 1 5     irridescent scale armor
+* shrine to vice
+M 0 22115 1 22199  The Keeper of the Shrine
+E 1 22125 10 16   wield me a cat o' nine tails, milady
+* house of despair
+M 0 22117 1 22165  The torturer
+E 1 22125 10 16   wield me a cat o' nine tails, milady
+G 1 22136 3       give a shining blue potion 
+G 1 22135 10      give a glowing red(harmful)
+M 0 22118 20 22166 Interrogator
+E 1 22126 500 6   spectacles   
+M 0 22118 20 22170 Interrogator
+E 1 22126 500 6   spectacles   
+M 0 22118 20 22170 Interrogator
+E 1 22126 500 6   spectacles   
+M 0 22118 20 22172 Interrogator
+E 1 22126 500 6   spectacles   
+M 0 22118 20 22172 Interrogator
+E 1 22126 500 6   spectacles   
+M 0 22118 20 22176 Interrogator
+E 1 22126 500 6   spectacles   
+M 0 22118 20 22176 Interrogator
+E 1 22126 500 6   spectacles
+G 1 22137 10      give a green potion    
+M 0 22118 20 22178 Interrogator
+E 1 22126 500 6   spectacles   
+M 0 22118 20 22178 Interrogator
+E 1 22126 500 6   spectacles   
+M 0 22118 20 22178 Interrogator
+E 1 22126 500 6   spectacles   
+M 0 22118 20 22178 Interrogator
+E 1 22126 500 6   spectacles
+M 0 22119 1 22171  Grand Inquisitor
+E 1 22138 1 17    potion of full restore
+E 1 22139 1 3     wear around neck one, cloak of wisdom
+* building of fear
+M 0 22120 1 22183  Priest of Hopelessness
+E 1 22140 20 3    cloak of forgetfullness(neck)      
+G 1 22135 10      potion of harmfulness
+* The keys, oh my!
+O 0 22133 1 22167  Load key that unlocks all outlay doors in House o' Despair.
+* The Doors, and I don't mean the group either
+*
+D 0 22138 2 2   Strange trail, locked and closed, Entrance to ToT
+D 0 22148 0 2   trophy room, locked and closed, to gargoyle dt
+* D 0 22147 2 2   gargoyle dt, locked and closed, to trophy room
+D 0 22148 2 4   trophy room, hidden, locked and closed, to dressing room
+D 0 22149 0 4   dressing room, hidden, locked, and closed, to trophy room
+D 0 22152 0 2   cell door, locked and closed, to strangely shaped hallway
+D 0 22153 0 1   strangely shaped hallway, closed, to open hearth
+D 0 22153 1 2   strangely shaped hallway, locked and closed, to supply room
+D 0 22153 2 2   strangely shaped hallway, locked and closed, to cell
+D 0 22154 2 1   open hearth, closed, to strangely shaped hallway
+D 0 22155 3 2   supply room, locked and closed, to strangely shaped hallway
+D 0 22156 0 1   deserted bedroom, closed, to creepy hallway
+D 0 22157 2 1   creepy hallway, closed, to deserted bedroom
+D 0 22157 1 2   creepy hall, closed and locked, to office of the priest of fear
+D 0 22158 3 2   office of the priest of fear, closed and locked, to creepy hall
+D 0 22159 0 1   creepy hallwy, closed, to closet
+D 0 22160 2 1   closet, closed, to creepy hallway
+D 0 22167 0 4   outlay, hidden, closed, and locked, to screening room
+D 0 22168 2 4   outlay, hidden, closed, and locked, to waiting room
+D 0 22173 0 4   outlay, hidden, closed, and locked, to waiting room 
+D 0 22177 2 4   outlay, hidden, closed, and locked, to sitting room
+D 0 22180 1 3   deserted corridor, hidden and closed, to dark room
+D 0 22181 1 3   deserted corridor, hidden and closed, to dark room
+D 0 22182 1 3   deserted corridor, hidden and closed, to dark room
+D 0 22183 3 3   dark room, hidden and closed, to deserted corridor(room 22181)
+D 0 22192 0 2   entrance to OHPT, locked and closed, to strange trail
+D 0 22194 2 2   Hall of Death, locked and closed, to entrance to OHPT
+D 0 22197 0 2   Entrance to ToT, locked and closed, to strange trail
+S
+$~
+
+
+
+

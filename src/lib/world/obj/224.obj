@@ -1,0 +1,173 @@
+#22400
+sud~
+Ziariaci sud~
+Obycajny sud plny radioaktivneho materialu.~
+~
+12 1 0 0 0 16385
+0 0 0 0
+30 20000 10000
+A
+4 -10
+A
+13 -50
+S
+curse_weapon
+#22401
+Heavy Laser Sword~
+Heavy Laser Sword~
+Super tazky novucicky laserovy mec.~
+~
+5 331778 0 0 0 8193
+0 10 20 3
+10 150000 10000
+A
+18 10
+A
+19 5
+#22402
+Zvazok kablov~
+Zvazok kablov~
+Je tu pohodeny zvazok roznofarebnych kablov.~
+~
+12 2048 0 0 0 1
+0 0 0 0
+10 1000 1000
+#22403
+energeticky stit~
+stit~
+Lezi tu davno zabudnuty stit. Vyzaruje z neho energia.~
+~
+9 513 0 0 0 513
+20 0 0 0
+14 30000 20000
+A
+1 -1
+#22404
+card~
+odin`s visa gold card~
+Visa gold card is lying here.~
+~
+12 262152 0 0 0 16513
+0 0 0 0
+19 10000000 1000
+A
+15 64
+S
+bank
+#22405
+topanky~
+energeticke topanky~
+Energeticke topanky uz troska pouzivane~
+~
+9 0 0 0 0 65
+13 0 0 0
+19 60000 4000
+A
+5 -4
+#22410
+Hodinky znacky Prim~
+stare hrdzave primky~
+Primky su tu hodene na zemi.~
+~
+9 128 0 0 0 4097
+-20 0 0 0
+10 15000 1000
+#22411
+hodinky bern~
+hodinky zo svajciarska~
+Nic ine nez hodinky, len troska predrazene~
+~
+1 0 0 0 0 257
+0 0 -1 0
+5 100000 2000
+E
+cas~
+Tak ako vcera o takomto case
+~
+#22412
+zlate hodinky rolex~
+rolex~
+Hodiny znacky rolex, same diamanty a nic viac. Nie este trocha zlata.~
+~
+9 1024 0 0 0 4097
+-1 0 0 0
+10 500000 10000
+#22413
+G Shock~
+G shock~
+Kvalitne digitalne hodiny z Osaky. Maju masivny kozenny remienok.~
+~
+9 32 0 0 0 4097
+17 0 0 0
+10 500000 10000
+A
+17 -1
+L
+20 110
+#22414
+Nastenne hodiny~
+hodiny na stenu~
+Klasicke hodiny na stenu.~
+~
+12 128 0 0 0 1
+0 0 0 0
+20 100000 2000
+L
+10 110
+#22416
+Kluc~
+kluc~
+Srienou potiahnuty kluc. Je tost masivny a vydrzi aj brutalnu silu.~
+~
+18 13 0 0 0 1
+0 0 0 0
+3 0 0
+L
+10 110
+#22420
+lsd~
+Normalne LSD~
+Normalne lsd sa tu povaluje. Nevidis na nom nic neobvikle.~
+~
+19 8 0 0 0 1
+70 0 0 20
+2 20000 100
+A
+3 -8
+A
+5 5
+A
+4 -10
+A
+14 20
+#22421
+Kinetin~
+jedno draze kinetinu~
+Biele male draze kinetinu~
+~
+19 4 0 0 0 1
+-10 0 0 1
+5 15000 2000
+A
+14 20
+L
+10 100
+#22430
+obycajny semtex~
+obycajny semtex~
+NO lezi tu semtex ale nie plexovka.~
+~
+25 0 0 0 0 1
+2 1000 1000 0
+20 0 0
+#22499
+karton~
+karton~
+Hnedy velky karton.~
+~
+9 0 0 0 0 9
+20 0 0 0
+10 10000 100
+C
+128 0 0 0 
+$~

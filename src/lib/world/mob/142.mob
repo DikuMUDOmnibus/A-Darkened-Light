@@ -1,0 +1,14 @@
+#14200
+healer priest~
+A feeble priest~
+A weak looking priest prays here.
+~
+A hooded old man whose face looks weathered and wrinkled. Fumes drift from his tattered cloak.
+~
+154 0 0 0 128 81920 0 0 -1000 E
+40 0 10 1d3+0 2d30+50
+0 2147483647
+8 8 1
+BareHandAttack: 13
+E
+$

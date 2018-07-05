@@ -1,0 +1,103 @@
+#15
+Space Station Alpha~
+~
+0 0
+1599 45 1
+*
+* Created, Edited and added to by Magnus
+* 
+* Mobiles
+* M 0 1301 10 1500    Hooker
+* E 1 1305 20 14      Purple Bracelet
+M 0 1504 1  1560    Captain Vance Marshal
+E 1 1509 5 16           Plasma Gun
+E 1 1508 10 0           Halogen Flashlight
+E 1 1507 5 12           Gravity Pack
+E 1 1506 5 6            ExoHelmet
+E 1 1505 5 9            ExoGloves
+E 1 1504 5 10           ExoSleeves
+E 1 1503 5 13           ExoBelt
+E 1 1502 5 8            ExoBoots
+E 1 1501 5 7            ExoLegs
+E 1 1500 5 5            ExoAbdomen
+M 0 1503 5 1504     Predator Alien
+E 1 1513 5 16
+M 0 1503 5 1535     Predator Alien
+M 0 1500 20 1500    Facehugger Alien
+M 0 1500 20 1500    Facehugger Alien
+M 0 1500 20 1500    Facehugger Alien
+M 0 1500 20 1500    Facehugger Alien
+M 0 1500 20 1500    Facehugger Alien
+M 0 1501 12 1505    Adult Alien
+M 0 1501 12 1515    Adult Alien
+M 0 1501 12 1525    Adult Alien
+M 0 1501 12 1530    Adult Alien
+M 0 1501 12 1535    Adult Alien
+M 0 1501 12 1540    Adult Alien
+M 0 1501 12 1541    Adult Alien
+M 0 1501 12 1541    Adult Alien
+M 0 1501 12 1550    Adult Alien
+M 0 1501 12 1555    Adult Alien
+M 0 1501 12 1556    Adult Alien
+M 0 1502 1  1500    Queen Alien
+M 0 1500 20 1510    Facehugger Alien
+M 0 1500 20 1521    Facehugger Alien
+M 0 1500 20 1532    Facehugger Alien
+M 0 1500 20 1541    Facehugger Alien
+M 0 1500 20 1539    Facehugger Alien
+M 0 1505 10 1540    Panther Alien
+M 0 1505 10 1555    Panther Alien
+M 0 1505 10 1530    Panther Alien
+M 0 1505 10 1505    Panther Alien
+M 0 1505 10 1510    Panther Alien
+M 0 1506 1  1514    Lt. Miko Oshura
+G 1 1514 7  
+G 1 1515 7
+G 1 1516 7
+G 1 1517 7
+E 1 1511 5  16           Laser Rifle
+E 1 1512 10 17           IR Goggles
+M 0 1507 1  1562    Predator Captain
+M 0 1503 5  1563    Predator
+E 1 1513 5 16
+M 0 1503 5  1544    Predator
+G 1 1514 7  
+G 1 1515 7
+G 1 1516 7
+G 1 1517 7
+M 0 1503 5  1544    Predator
+E 1 1513 5 16
+M 0 1508 5  1540    Crew
+E 1 1512 10 17           IR Goggles
+E 1 1510 5  16           Laser Pistol
+G 1 1514 7  
+G 1 1515 7
+G 1 1516 7
+G 1 1517 7
+M 0 1508 5  1503    Crew
+E 1 1512 10 17           IR Goggles
+E 1 1510 5  16           Laser Pistol
+G 1 1514 7  
+G 1 1515 7
+G 1 1516 7
+G 1 1517 7
+M 0 1508 5  1547    Crew
+E 1 1512 10 17           IR Goggles
+E 1 1510 5  16           Laser Pistol
+M 0 1508 5  1525    Crew
+E 1 1512 10 17           IR Goggles
+E 1 1510 5  16           Laser Pistol
+* Doors*
+D 0 1538 1 2             Hatch in depressurized room
+D 0 1538 3 2             Hatch in depressurized room
+D 0 1537 1 2
+D 0 1539 3 2
+O 0 1516 7 1516
+O 0 1517 7 1512
+O 0 1515 7 1517
+O 0 1514 7 1515
+O 0 1512 10 1501
+O 0 1511 10 1501
+*
+S
+$

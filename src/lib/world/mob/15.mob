@@ -1,0 +1,163 @@
+#1500
+facehugger alien~
+a facehugger alien~
+A facehugger stage alien sees you and springs!
+~
+A facehugger is trying to wrap it's tail around your throat!
+~
+fgmp 0 0 0 ks 0 0 0 -1000 E
+20 5 -20 10d100+25 5d8+5
+0 25000
+8 8 0
+BareHandAttack: 8
+E
+#1501
+alien~
+a drooling alien~
+A slime drooling alien is here waiting for lunch!
+~
+The alien 'smiles' back at you and extends its inner jaws!
+SNAP SNAP SNAP!
+~
+fgm 0 0 0 ks 0 0 0 -1000 E
+40 -20 -35 20d100+250 4d10+10
+0 90000
+8 8 0
+BareHandAttack: 9
+Str: 22
+Con: 20
+Dex: 22
+E
+#1502
+queen alien~
+the queen alien~
+The queen alien is here laying eggpods!
+~
+The queen alien is less than pleased at your presence. You
+should die now!
+~
+bclmnopq 0 0 0 fks 0 0 0 -1000 E
+50 -30 -50 10d100+2500 10d10+20
+0 200000
+6 6 2
+BareHandAttack: 9
+Str: 24
+Con: 24
+Dex: 20
+E
+#1503
+Predator alien~
+a Predator alien~
+A Predator alien is here scouting for trophies.
+~
+The Predator is a huge bipedal monstrosity with vertically
+aligned jaws and 'hair' that reminds you of when you used to
+fight gorgons! He is nearly twice your size and already has
+a nice polished human skull hanging from his trophy belt.
+It looks like you are next!
+~
+cfhlmnoq 0 0 0 bdfks 0 0 0 0 E
+50 -30 -50 20d100+1500 8d12+15
+0 150000
+8 8 1
+BareHandAttack: 8
+Str: 24
+Con: 24
+Dex: 24
+Int: 22
+Cha: 3
+E
+#1504
+Captain Vance Marshal captain vance marshal~
+Captain Vance Marshal~
+Captain Vance Marshal is here in his exoskeleton armor!
+~
+Captain Vance Marshal has obviously gone mad! Then again you
+would too if you had survived as long as he has on this cursed
+space station! 
+~
+bcfhl 0 0 0 dfk 0 0 0 0 E
+50 -25 -50  5d100+2250 8d10+8
+0 180000
+8 8 1
+BareHandAttack: 13
+Str: 20
+Con: 20
+Dex: 20
+Int: 19
+Wis: 18
+Cha: 18
+StrAdd:100
+E
+#1505
+panther alien~
+A panther alien~
+A fourlegged panther alien is here waiting to rip your guts out!
+~
+You thought the regular aliens had a lot of teeth?! This maneater
+has twice as many at the bipedal aliens. It also looks a lot nastier.
+It moves with such speed on all fours that there is just no way you
+can out run it. You must stand and fight this black monstrosity!
+~
+fgl 0 0 0 dfks 0 0 0 -500 E
+50 -25 0  15d50+1000 5d10+10
+0 100000
+8 8 0
+BareHandAttack: 9
+Str: 24
+Con: 18
+Dex: 23
+Int: 12
+Wis: 7
+Cha: 3
+StrAdd:100
+E
+#1506
+oshura woman~
+Lt. Miko Oshura~
+Lt. Miko Oshura is standing here in torn clothing.
+~
+This tough young lady has been through hell and has managed to keep
+her wits about her...not to mention her weapons! Man is she ever
+glad to see a smiling HUMAN face!
+~
+chl 0 0 0 dfk 0 0 0 500 E
+45 -50 -20 3d250+1000 6d8+20
+500 175000
+8 8 2
+Str: 18
+Con: 19
+Dex: 19
+StrAdd: 100
+E
+#1507
+captain alien predator~
+The Predator Captain~
+The Predator Captain is standing here looking angry!
+~
+Uh oh... now you've done it! There are some places you just shouldn't
+go ... this is one of them! The Captain of the Predators is very 
+angry that you have invaded his ship. He will have to 'discuss' it with
+his crewmembers after he finishes polishing your skull! 
+~
+bcfghlm 0 0 0 dfk 0 0 0 -1000 E
+50 -50 -100 10d250+4500 12d10+10
+100000 400000
+8 8 1
+Str: 23
+Con: 23
+Dex: 23
+E
+#1508
+crew crewmember~
+a crewmember~
+A Space Station Alpha crewmember is here trying to stay alive!~
+This poor haggard soul has been fleeing the onslaught of two different
+species of alien aggressors. How he has managed to stay alive this 
+long is anyone's guess. He must be extreamly resourceful!
+~
+chil 0 0 0 k 0 0 0 367 S
+35 -20 -40 5d100+900 6d8+15 
+5000 50000
+8 8 1
+$

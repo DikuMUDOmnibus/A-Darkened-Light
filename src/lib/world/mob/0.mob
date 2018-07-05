@@ -1,0 +1,169 @@
+#1
+Puff dragon fractal~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+Is that some type of differntial curve involving some strange, and
+unknown calculus that she seems to be made out of?
+~
+253961 0 0 0 33800 0 0 0 1000 E
+26 1 -1 5d10+550 4d6+3
+10000 155000
+8 8 2
+BareHandAttack: 12
+MaxMove: 50
+SpecProc: puff
+E
+#10
+clone~
+the clone~
+A boring old clone is standing here.
+~
+This clone is nothing to look at.  No, really, it is quite boring.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+MaxMove: 50
+E
+#11
+zombie undead humanoid~
+the zombie~
+A strange humanoid is here.  How odd, its flesh seems to be falling off!
+~
+This strange humanoid is moving rather slowly, and appears to be
+a corpse, a walking corpse!  It must be a zombie or something of
+the sort.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+BareHandAttack: 7
+MaxMove: 50
+E
+#19
+aerial servant shape~
+the aerial servant~
+An amorphous shape is floating in the air.
+~
+As you stare at this amorphous shape, it begins to appear to take
+the shape of a cloud-like humanoid.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+MaxMove: 50
+E
+#20
+elemental~
+the elemental~
+An elemental is standing patiently here.
+~
+This creature is the essence of the elements, and appears to be
+waiting patiently for something to occur.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+MaxMove: 50
+E
+#21
+phantasm~
+the phantasm~
+An scythe wielding phantasm is here, SCREAMING...
+~
+You shiver as you hear phantasm's scream.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+MaxMove: 50
+E
+#22
+elemental earth~
+the earth elemental~
+An earth elemental is standing patiently here.
+~
+This creature is the essence of the earth element, and appears to be
+waiting patiently for something to occur.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+MaxMove: 50
+E
+#23
+elemental water~
+the water elemental~
+An water elemental is standing patiently here.
+~
+This creature is the essence of the water element, and appears to be
+waiting patiently for something to occur.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+MaxMove: 50
+E
+#24
+elemental air~
+the air elemental~
+An air elemental is standing patiently here.
+~
+This creature is the essence of the air element, and appears to be
+waiting patiently for something to occur.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+MaxMove: 50
+E
+#25
+elemental fire~
+the fire elemental~
+An fire elemental is standing patiently here.
+~
+This creature is the essence of the fire element, and appears to be
+waiting patiently for something to occur.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+MaxMove: 50
+E
+#80
+jinn~
+the Yilard's jinn~
+The jinn is floating here... He has Yilard's crest burnt into face...
+~
+It looks, err, unfinished.
+~
+524296 0 0 0 0 0 0 0 0 E
+30 0 -7 1d10+600 2d10+30
+0 100000
+8 8 1
+MaxMove: 50
+E
+#99
+death reaper~
+Death~
+Death the Grim Reaper is observing you silently from empty eye sockets.
+~
+The dark-robed skeletal figure radiates an unendurable coldness.
+~
+256026 0 0 0 33960 0 0 0 0 E
+30 0 -10 1d1+665 10d15+20
+0 500000
+8 8 0
+MaxMove: 50
+E
+$

@@ -1,0 +1,101 @@
+#9500
+adventurer~
+adventurer~
+Adventurer is walking around and recruiting people...
+~
+He looks like an old man, but not so old to be not able to kill you..
+He lived in Atlantis for a long time and is so charmed by its beauty
+that he decided to talk about it on his journeys..
+He can show you the way to the gates of Atlantis.. The sunken city..
+~
+8 0 0 0 0 0 0 0 1000 E
+40 0 -2 10d100+1000 4d5+20
+20000 100000
+8 8 1
+BareHandAttack: 5
+MaxMove: 50
+E
+>fight_prog 30~
+say Touch this...
+cast 'fireball' $n
+~
+>time_prog 7~
+say It is time to recruit new souls for this town..
+mpgoto 3005
+~
+>time_prog 13~
+say It is time to recruit new souls for this town..
+mpgoto 3005
+~
+>time_prog 19~
+say It is time to recruit new souls for this town..
+mpgoto 3005
+~
+>rand_prog 5~
+say Atlantis is famous city..
+say It is full of friendly people..
+smile
+~
+>bribe_prog 10000~
+mpecho Adventurer begins mummling some strange phrases...
+mpecho You see a bright yellow aura around your body...
+say I'm sending you, $n, to the entrance of Atlantis..
+mpgoto 9500
+mptransfer $n 9500
+mpecho Yellow aura around your body slowly fades..
+mpgoto 3005
+~
+>time_prog 1~
+say It is time to recruit new souls for this town..
+mpgoto 3005
+~
+>speech_prog Go~
+say I'm going..
+mpgoto 3005
+~
+>rand_prog 5~
+say Atlantis is powerful town..
+say That strong weapons..
+say That ingenious architecture..
+smile $r
+~
+>rand_prog 10~
+say Give me 10000 coins and I'll get you to the entrance of Atlantis..
+grin $r
+say Maybe you should get canoe or raft before paying..
+stare $r
+~
+>rand_prog 5~
+grin $r
+say I can give you my canoe..
+say Just give me 10 coins..
+laugh
+~
+>bribe_prog 10~
+say Thanks..
+say Here is your 'canoe'..
+mpecho Adventurer gives you a canoe.
+say Enjoy it..
+grin $n
+~
+>all_greet_prog 100~
+say I'm only prototyp..
+say DO NOT DO WHAT I WILL SAY..
+say Atlantis doesn't exist yet..
+~
+|
+#9501
+old woman~
+old woman~
+Old woman is speaking here..
+~
+She is speaking about Atlantis.. About the city.. People.. Customs..
+She knows what she is speaking about because she was born in Atlantis..
+~
+9 0 0 0 0 0 0 0 200 E
+15 18 10 5d10+100 5d3+2
+0 0
+8 8 2
+SpecProc: wiseman
+E
+$

@@ -1,0 +1,27 @@
+I bet at this point you are wondering what the heck to do to start this 
+mud so here is a quick and simple way to start up this mud.
+
+unzip all files. there is no configurate the mud.
+go into the code directory and compile.
+after compilation finished type: mvcode to move all working directories to 
+the production copy of the mud.
+then type prodmake to compile the product copy.
+go back to mud directory and type ./rebooter.prod & 
+now the reason why there is 2 open source files 
+is because it is safe to work on a code section and then move it to the 
+prouction source so that you never have to completely whipe or use backup
+scripts.
+
+have fun with this mud you'll see that this is a great mud with excellent 
+preformance.
+
+
+=======================
+Updated:  July 11, 2006:
+
+To start:
+
+1. in mud directory edit autorun.sh to edit your port
+2. type in: make    in src directory to compile
+3. execute the autorun.sh with:  ./autorun.sh &
+

@@ -1,0 +1,234 @@
+#3100
+maid~
+the Maid~
+The Maid is waiting for your order.
+~
+She is very beautiful with golden hair, and deep blue eyes.  A good reason
+for coming here more often, you think to yourself.
+~
+26635 0 0 0 8 0 0 0 1000 E
+33 0 -10 1d1+30000 1d8+22
+2000 80000
+8 8 2
+E
+#3101
+sexton~
+the Sexton~
+A Sexton is sitting here, drinking hot tea.
+~
+The Sexton looks like he is relaxing after another gravedigging job.
+~
+10 0 0 0 0 0 0 0 800 E
+3 18 7 2d6+35 1d7+0
+13 300
+6 6 1
+E
+#3102
+chief guard~
+the Chief Guard~
+The Chief Guard is looking very upset.
+~
+A very angry chief.
+~
+46 0 0 0 8 0 0 0 800 E
+17 3 1 1d12+210 1d8+18
+0 28000
+8 8 1
+E
+#3103
+cityguard guard~
+the upset cityguard~
+A cityguard stands here, looking very upset.
+~
+A big, strong, angry guard.
+~
+46 0 0 0 0 0 0 0 1000 E
+10 10 2 1d12+123 1d8+3
+0 9000
+8 8 1
+E
+#3104
+secretary~
+the Secretary~
+A secretary is sitting at the desk, typing away on the typewriter.
+~
+She looks very busy.
+
+The Secretary says 'Sorry, but the Mayor is extremely busy today.'
+The Secretary says 'Please sit down and have a seat in the meantime.'
+~
+10 0 0 0 0 0 0 0 900 E
+12 9 2 1d12+148 2d7+1
+100 13000
+8 8 2
+E
+#3105
+mayor~
+the Mayor~
+The Mayor is sitting in his huge chair, snoring loudly.
+~
+He is a stocky, middle-aged man with thin, grey hair.
+~
+26635 0 0 0 8 0 0 0 1000 E
+24 0 -4 6d10+790 1d8+18
+1000 130000
+4 4 1
+SpecProc: mayor
+E
+#3106
+crier~
+the Town Crier~
+The Town Crier is here, weeping quietly.
+~
+He is very good at his job - completely dissolved in tears.
+~
+136 0 0 0 0 0 0 0 900 E
+1 20 9 2d6+10 1d5+0
+34 100
+8 8 1
+E
+#3120
+swan~
+the swan~
+A swan is swimming around in the pond.
+~
+The white swan is very elegant.
+~
+10 0 0 0 0 0 0 0 1000 E
+1 20 9 2d6+10 1d5+0
+0 100
+8 8 0
+E
+#3121
+duckling~
+the duckling~
+A duckling is swimming around in the pond.
+~
+The duckling is adorable, it looks most of all like a tiny furball.
+~
+10 0 0 0 0 0 0 0 1000 E
+0 20 10 1d1+0 1d1+0
+0 1
+8 8 0
+E
+#3122
+sparrow~
+the sparrow~
+A sparrow is flapping around on the ground.
+~
+The sparrow looks like it is enjoying life.
+~
+200 0 0 0 0 0 0 0 1000 E
+0 20 10 2d6+0 1d3+0
+0 25
+8 8 0
+E
+#3123
+duck~
+the duck~
+A duck is here, quacking happily.
+~
+The duck is quite fat.  It looks like it is enjoying life.
+~
+72 0 0 0 0 0 0 0 1000 E
+1 20 10 2d6+5 1d4+0
+0 75
+8 8 0
+E
+#3124
+minotaur~
+the mighty minotaur~
+The mighty minotaur is guarding the entrance
+~
+The minotaur is huge and looks almost invulnerable.
+~
+59466 0 0 0 0 0 0 0 800 E
+33 0 -10 6d10+1000 1d8+22
+3000 200000
+8 8 1
+E
+#3125
+guildmaster warlock~
+the warlocks' guildmaster~
+Your guildmaster is here emitting dark magical power...
+~
+It's Warlocks' guildmaster
+~
+190490 0 0 0 168 0 0 0 0 E
+34 0 -10 6d10+640 1d8+24
+23675 100000
+8 8 1
+E
+#3126
+crusader knight templar~
+the crusader~
+The crusader is here guarding the entrance to the guild of Paladins.
+~
+He is protected by Sanctuary.
+~
+59402 0 0 0 0 0 0 0 1000 E
+33 0 -6 6d10+1000 2d9+22
+2000 160000
+8 8 1
+E
+#3127
+master templar crusader paladin~
+the Master Templar~
+The Master Templar is here ... You feel his Sanctuary...
+~
+The Master Templar looks saint.
+~
+59418 0 0 0 0 0 0 0 1000 E
+34 -2 -10 6d10+1000 1d8+24
+35645 100000
+8 8 1
+E
+#3128
+guardian robot guard~
+the guardian robot~
+The guardian robot is here guarding entrance to the Cyborgs' guild
+~
+It's made of plastic composite.
+~
+174090 0 0 0 0 0 0 0 200 E
+34 0 -8 6d10+700 3d10+22
+0 160000
+8 8 1
+E
+#3129
+locutus cyborg master~
+Locutus, master of cyborgs~
+Locutus, your guildmaster is here living virtually.
+~
+His image pulses!!!
+~
+190490 0 0 0 1064 0 0 0 200 E
+34 -2 -10 1d1+1000 6d10+24
+34675 100000
+8 8 1
+E
+#3130
+guard ranger guardian~
+the ranger guard~
+The ranger guard is guarding entrance to the bar of rangers.
+~
+It looks, err, unfinished.
+~
+59402 0 0 0 0 0 0 0 900 E
+34 0 -5 6d10+700 1d8+22
+2000 160000
+8 8 1
+E
+#3131
+master ranger guildmaster~
+the Master Ranger~
+The Master Ranger is working here...
+~
+It's Elf.
+~
+57370 0 0 0 0 0 0 0 1000 E
+34 -2 -10 6d10+1000 1d8+24
+2000 100000
+8 8 1
+E
+$

@@ -1,0 +1,1024 @@
+#1800
+Inquisitor chief master guild~
+the Chief Inquisitor~
+The Chief Inquisitor stearnly looks at you from behind a desk here.
+~
+The Chief Inquisitor is sitting behind a large desk here; his eyes glinting
+in the darkness.  He is a suprisingly small man and quite unpreposessing. 
+However, when you look into his glinting eyes, you are sure some madness
+screams at you.
+~
+59403 136 1000 E
+30 14 14 30 14
+14 30 30 14 14
+0 0 500
+0 14 125 8
+0 198 2000
+6d10+30000 3d8+24
+-100 -100 -100 -100 
+0 0 0 0 
+2 2 2 2 2 
+18794 0
+6 6 1
+-1 -1 -1 
+#1801
+thug secret police man~
+the thug~
+A thug is here standing guard.
+~
+The thug looks fit and dangerous.
+~
+59402 136 1000 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 123 8
+0 198 2000
+6d10+10090 3d8+22
+-50 -50 -50 -50 
+0 0 0 0 
+2 2 2 2 2 
+2000 0
+7 7 1
+-1 -1 -1 
+#1803
+bartender ugly~
+an ugly bartender~
+An ugly bartender stands here eyeing you carefully.
+~
+He is really ugly and big! His nose has been broken in so many places that
+it is now splayed across most of his face. A vicious scar runs from above
+his right eybrow, across his eye, through his right nostrel and through his 
+top lip. If you didn't know better you might have assumed he was a moderatly
+handsome troll.
+~
+325643 8 750 E
+18 15 14 14 16
+14 30 14 14 14
+0 0 500
+0 12 60 15
+0 200 2400
+1d1+1940 5d4+2
+30 30 30 30 
+0 0 0 0 
+40 40 40 40 40 
+150 0
+7 7 1
+-1 -1 -1 
+#1804
+drunken sailor~
+a drunken sailor~
+A drunken sailor weaves about about singing a sea shanty.
+~
+His mother would be so upset to see him like this. Certainly that stuff
+on the front of his shirt is not part of his uniform.
+~
+376972 0 -550 E
+20 13 14 16 21
+14 14 14 14 14
+0 0 500
+2 14 20 18
+0 198 2000
+10d7+525 2d5+2
+45 45 45 45 
+2 0 0 0 
+80 80 80 80 80 
+800 0
+7 7 1
+-1 -1 -1 
+#1805
+surly sailor~
+a surly sailor~
+A surly looking sailor eyes your belongings.
+~
+If this guy had a mother, he certainly has long since sold her for the
+price of a drink.
+~
+376878 0 -1000 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 20 19
+0 198 2000
+20d22+260 4d3+1
+30 30 30 30 
+0 0 0 0 
+80 80 80 80 80 
+2500 0
+7 7 1
+-1 -1 -1 
+#1806
+thug~
+a thug~
+A thug sizes you up for a fight.
+~
+This is exactly the kind of guy you find in bars everywhere.
+~
+376878 0 -300 E
+18 14 14 19 14
+14 14 14 14 14
+0 0 500
+0 14 20 19
+0 198 2000
+5d3+360 3d4+0
+40 40 40 40 
+0 0 0 0 
+80 80 80 80 80 
+1100 0
+7 7 1
+-1 -1 -1 
+#1807
+maid barmaid wench~
+a barmaid~
+A barmaid rushes about spilling beer.
+~
+The barmaid is certainly down on her luck. She is wearing a soiled apron
+and patched clothing.
+~
+129100 0 750 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+2 14 10 13
+0 180 1200
+10d20+150 2d4+2
+50 50 50 50 
+0 0 0 0 
+90 90 90 90 90 
+290 0
+7 7 2
+-1 -1 -1 
+#1808
+wench slut whore prostitute girl~
+a prostitute~
+A bedraggled prostitute tried to catch your eye.
+~
+She is what would be termed full figured and you are getting to see 
+most of it.
+~
+319564 0 9 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 10 20
+0 198 2000
+10d20+100 2d4+2
+50 50 50 50 
+0 0 0 0 
+90 90 90 90 90 
+750 0
+7 7 2
+-1 -1 -1 
+#1809
+wench slut whore prostitute girl~
+a prostitute~
+A bedraggled prostitute tried to catch your eye.
+~
+She is what would be termed full figured and you are getting to see 
+most of it.
+~
+319502 0 9 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 10 3
+0 198 2000
+1d20+512 2d6+2
+50 50 50 50 
+0 0 0 0 
+90 90 90 90 90 
+750 0
+7 7 2
+-1 -1 -1 
+#1810
+wench slut whore prostitute girl~
+a prostitute~
+A naked girl beckons to you from the bed.
+~
+She is what would be termed full figured and you are getting to see 
+most of it.
+~
+319502 0 9 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 9 20
+0 198 2000
+10d20+120 2d4+2
+50 50 50 50 
+0 0 0 0 
+91 91 91 91 91 
+800 0
+7 7 2
+-1 -1 -1 
+#1811
+boy roger cabin~
+Roger~
+Roger the cabin boy is here trying not to be noticed.
+~
+Roger looks nervous, and keeps his back to the wall.
+~
+57358 524288 9 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 8 20
+0 198 2000
+10d20+100 2d3+1
+50 50 50 50 
+0 0 0 0 
+92 92 92 92 92 
+500 0
+7 7 1
+-1 -1 -1 
+#1812
+madam Madam whore matron~
+the madam~
+The madam of the Black Pig lies here naked.
+~
+Well if you ever thought madams were all ugly withered old crones, one look
+at this vision will change your mind forever.
+~
+59402 16392 -600 E
+25 18 14 14 30
+14 24 14 14 25
+0 0 500
+0 14 120 13
+0 198 2000
+2d10+2900 5d5+18
+50 50 50 50 
+10 10 10 10 
+20 20 20 20 20 
+0 0
+7 7 2
+-1 -1 -1 
+#1813
+assassin thief~
+a masked assassin~
+A masked assassin crouches here cloaked in shadows.
+~
+He is cloaked in mystery, and carries a wicked dagger.
+~
+49198 524288 -1000 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 50 18
+0 198 2000
+7d4+760 3d5+5
+30 30 30 30 
+0 0 0 0 
+70 70 70 70 70 
+2500 0
+7 7 1
+-1 -1 -1 
+#1814
+sailor drunken~
+a drunken sailor~
+A drunken sailor lies against the wall in a pool of vomit.
+~
+His mother would be so upset to see him like this. Certainly that stuff
+on the front of his shirt is not part of his uniform.
+~
+49292 0 -350 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 20 19
+0 198 2000
+20d20+250 4d3+1
+60 60 60 60 
+0 0 0 0 
+80 80 80 80 80 
+0 0
+3 7 1
+-1 -1 -1 
+#1815
+troll large~
+a large troll~
+A large troll lumbers out of the shadows.
+~
+The large troll is big, blocky and pretty ugly. Male or female? you cannot
+really tell inspite of its being dressed only in mosses and lichens.
+~
+34892 49152 0 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 15 18
+0 220 2400
+5d5+300 3d4+1
+85 85 85 85 
+0 0 0 0 
+85 85 85 85 85 
+15 0
+7 7 0
+-1 -1 -1 
+#1816
+troll large~
+a large troll~
+A large troll is here sleeping.
+~
+The large troll is big, blocky and pretty ugly. Male or female? you cannot
+really tell inspite of its being dressed only in mosses and lichens.
+~
+34892 49152 0 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 15 18
+0 220 2400
+5d5+300 3d4+1
+85 85 85 85 
+0 0 0 0 
+85 85 85 85 85 
+15 0
+4 4 0
+-1 -1 -1 
+#1817
+troll small~
+a small troll~
+A small troll stands here staring at you.
+~
+The small troll is cute in a grotesque way. No-one knows how trolls reproduce
+but it's a fair guess that this troll is just a child.
+~
+34892 49152 0 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 8 19
+0 180 2000
+7d3+140 2d4+1
+90 90 90 90 
+0 0 0 0 
+92 92 92 92 92 
+15 0
+7 7 0
+-1 -1 -1 
+#1818
+shaman troll~
+the troll shaman~
+The troll shaman is here waving his arms and loudly chanting!
+~
+   The troll shaman is ugly and evil looking.  He has warty green skin and
+a bald bumpy head.  A tattoo of three interlocking black triangles is in the
+middle of his rough forehead.  Beneath is wiry black eyebrows, the evil eyes
+of the shaman glint, sending shivers racing down your spine.  The shaman is
+the leader of the Cult of Suketh.  Suketh is an evil troll god who demands
+blood sacrifice, amongst other things, from his followers.  Seeing he has
+a chance to convert another follower, the shaman chants even louder.  You
+notice a trickle of greenish troll blood flow from his mouth.
+~
+4229196 1073790976 -1000 E
+29 14 25 14 14
+14 14 14 25 14
+0 0 500
+0 14 100 16
+0 240 2500
+1d20+1250 5d3+3
+30 30 30 30 
+4 4 4 4 
+55 55 55 55 55 
+910 0
+7 7 1
+-1 -1 -1 
+#1819
+ms Ms Raspite raspite woman dwarf~
+Ms. Raspite~
+Ms. Raspite is here cleaning up.
+~
+Ms. Raspite is an dwarf of middle years, prim and with just a touch of grey 
+showing in her beard. She stands no nonsense from here charges and tries to
+look after them just as well as their own mothers would.
+~
+59464 16777216 450 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 13 19
+0 100 1200
+4d5+100 3d3+1
+50 50 50 50 
+0 0 0 0 
+87 87 87 87 87 
+2300 0
+7 7 2
+-1 -1 -1 
+#1820
+styral pet Styral~
+a tame styral~
+A tame styral peers about.
+~
+      The styral is a mole like creature that dwarves like to keep as pets.
+More at home underground than above, styrals have very poor eyesight. It is 
+rumoured however that their sensitive noses enable them to track down veins of
+precious minerals.
+~
+2184 16777256 0 E
+14 2 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 10 20
+8 70 800
+3d2+80 3d2+1
+50 50 50 50 
+0 0 0 0 
+90 90 90 90 90 
+0 0
+7 7 0
+-1 -1 -1 
+#1821
+Celsian celcian dwarf~
+Celsian~
+Celsian greets you with a merry wave.
+~
+Celsian is a young dwarf come to the big city to seek his fortune. He is
+somehwhat rotund but jovial with it.
+~
+59404 16777216 280 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 12 20
+0 130 1600
+5d5+110 3d4+1
+70 70 70 70 
+0 0 0 0 
+88 88 88 88 88 
+1340 0
+7 7 1
+-1 -1 -1 
+#1822
+mrs Mrs Jarosite jarosite woman dwarf~
+Mrs. Jarosite~
+Mrs. Jarosite bustles about here looking busy.
+~
+Mrs. Jarosite is an elderly dwarf. Her beard is completely white, but still
+silky and smooth. She inherited the Schist hotel when her husband - Mr.
+Jarosite was killed in a mining accident three hundred years ago.
+~
+59464 16777216 550 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 18 19
+0 95 1350
+8d5+150 3d4+3
+40 40 40 40 
+0 0 0 0 
+82 82 82 82 82 
+4500 0
+7 7 2
+-1 -1 -1 
+#1823
+Opal dwarf girl opal~
+Opal~
+Opal is here planning mischief.
+~
+Opal is a young dwarf maiden, her beard has yet to come in and she is a bit
+sensitive about that. She was sent to live with her grandmother because she
+caused too much disruption with her pranks and games. Opal loves the city 
+however, as it give her so much more scope for pranks.
+~
+190473 17039360 0 E
+18 14 10 20 20
+14 18 20 5 5
+0 0 500
+2 14 25 18
+0 110 1200
+4d5+600 3d3+1
+50 50 50 50 
+0 0 0 0 
+87 87 87 87 87 
+300 0
+7 7 2
+-1 -1 -1 
+#1824
+Snagger mad dwarf~
+Snagger the Mad Dwarf~
+The Mad Dwarf sits here muttering to himself.
+~
+   Snagger is incredibly dirty even for a dwarf.  His hair and beard have
+grown down to the ground and both are filthy and matted.  Some dwarves in
+Lamman's dwarven community do what they can for their insane brother by
+bringing him food and occasionally clothing, but normally they leave him to
+be by himself.  Snagger likes it this way just fine.  He shuns company
+preferring to be left alone to his delusions and dementia.
+   Non-dwarves tread carefully in his presence.  Snagger has been known to
+attack without provocation.  In his tormented mind, he is cleansing the
+world of evil.
+~
+387338 16777216 550 E
+20 18 22 15 25
+3 30 15 29 15
+0 0 500
+0 18 50 18
+8 130 1100
+8d10+1000 5d5+4
+10 10 10 10 
+2 2 2 2 
+71 71 71 71 71 
+10 0
+6 6 1
+-1 -1 -1 
+#1825
+Minium minium dwarf stableboy lad stable boy~
+Minium~
+Minium is here keeping an eye on things.
+~
+Minium is a young dwarf, barely a hunderd years old. His beard is short but
+gingery, he is hopelessly in love with Opal but is too shy to talk to her.
+~
+59400 16777216 0 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 60 19
+0 145 1600
+10d5+180 3d4+1
+40 40 40 40 
+0 0 0 0 
+82 82 82 82 82 
+2300 0
+7 7 1
+-1 -1 -1 
+#1826
+pig battle~
+a battle pig~
+A battle pig is snuffling about here.
+~
+The battle pig is superbly adapted for transporting dwarves about in the low 
+caverns found in dwarven mine workings. Its powerful stubby little legs are
+capable of tremendous speeds and it's wicked bite makes it a terrible opponent
+in battle.
+~
+10 16777256 0 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 10 20
+8 80 1600
+3d4+100 3d3+2
+50 50 50 50 
+0 0 0 0 
+90 90 90 90 90 
+0 0
+7 7 1
+-1 -1 -1 
+#1827
+Hornblende hornblende dwarf~
+Hornblende~
+Hornblende smiles at you warmly.
+~
+Hornblende is a hoary old veteran, tough as nails and twice as sharp. Sick
+of battle he retired to pursue his hearts desire, caring for his beloved
+Battle Pigs.
+~
+59402 16777216 550 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 29 18
+0 145 1800
+2d1+820 5d4+4
+40 40 40 40 
+0 0 0 0 
+71 71 71 71 71 
+5200 0
+7 7 1
+-1 -1 -1 
+#1828
+dwarf child~
+a dwarven child~
+A dwarven child stares at you with big round eyes.
+~
+The child is a bit grubby, and seems intent on finding out exactly how far
+up his nose he can get his finger.
+~
+26634 16777256 250 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 5 20
+0 35 500
+3d2+45 1d4+1
+80 80 80 80 
+0 0 0 0 
+95 95 95 95 95 
+0 0
+7 7 1
+-1 -1 -1 
+#1829
+dwarf child~
+a dwarven child~
+A cheeky dwarven child sticks her tongue out at you.
+~
+She's a cheeky little thing.
+~
+26632 16777256 250 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 6 20
+0 55 750
+3d2+50 1d4+1
+70 70 70 70 
+0 0 0 0 
+94 94 94 94 94 
+0 0
+7 7 2
+-1 -1 -1 
+#1830
+dwarf child~
+a dwarven child~
+A dwarven child runs about like a maniac.
+~
+He's a little hyperactive.
+~
+26632 16777256 250 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 6 20
+0 85 900
+3d2+50 1d4+1
+70 70 70 70 
+0 0 0 0 
+94 94 94 94 94 
+0 0
+7 7 1
+-1 -1 -1 
+#1831
+ms Ms Aeginine aeginine woman dwarf~
+Ms. Aeginine~
+Ms. Aeginine is here searching for her children.
+~
+Ms. Aeginine is tiny even for a dwarf, her rich brown beard drags on the floor
+as she walks. You can tell that she is a tough cookie however.
+~
+59464 16777216 550 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 20 19
+0 50 800
+8d5+170 3d4+3
+30 30 30 30 
+0 0 0 0 
+80 80 80 80 80 
+500 0
+7 7 2
+-1 -1 -1 
+#1832
+Trona trona dwarf armourer~
+Trona~
+Trona is here tinkering with some armour.
+~
+   Trona is a beautiful dwarven woman in the prime of her life, which is
+about two hundred human years.  She is reputed to be the best armourer
+in town and her reputation precedes her far and wide.
+~
+26635 16777224 550 E
+14 14 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 129 18
+0 145 1800
+8d10+2700 8d8+8
+40 40 40 40 
+0 0 0 0 
+71 71 71 71 71 
+0 0
+7 7 2
+-1 -1 -1 
+#1833
+Fendle fab fabulous fishmonger fish monger man~
+Fabulous Fendle the Fishmonger~
+A charismatic old man of the sea is here, hawking `fresh' fish.
+~
+   If the name embroidered onto the left breast of his sweater is any guide,
+the short, wiry man standing before you is none other than 'Fabulous Fendle,
+Fishmonger Extraordinaire'!  In his younger years, Fendle used to skipper
+the largest boat in Lamman's fishing fleet.  But now even in his self imposed
+semi-retirement, Fendle hasn't slowed down a bit.  Only the shock of white
+hair and his hands and fingers, withered from prolonged exposure to cold
+water and salty air, indicate that he is getting on in years.
+   Around his lower jaw, Fendle has a wispy, white beard.  Whenever a strong
+gust of wind blows from across the harbour, tufts of white whiskers cover
+his mouth, making the old fishmonger trip over his words.  After mouthing
+some ballyhoo with his mouth full of facial hair, Fendle spits out his beard
+and yammers merrily on.  `Fab' Fendle takes all this in good humor, which,
+in turn makes him rather charming and endearing.  Fendle, of course, knows
+this and uses it to his benefit.  In fact, he'll stop at virtually nothing
+to make a sale.
+~
+59402 32 800 E
+15 16 20 13 26
+27 19 18 20 12
+0 0 500
+2 22 170 9
+0 157 1450
+1d1+5790 3d5+10
+30 30 30 30 
+1 1 1 1 
+45 45 45 45 45 
+24510 0
+7 7 1
+-1 -1 -1 
+#1834
+Yurian stonehelm dwarf armourer armorer~
+Yurian Stonehelm~
+An old dwarf with a long gray beard leans against the counter here.
+~
+   Even though the dwarf looks at you, Yurian Stonehelm's seems to look past
+you.  He meekly smiles and hobbles over to the counter, inquiring if he can
+interest you in his fine selection of armours.  His voice is distant and sad.
+As he awaits your decision, he absentmindedly twirls the bottom of his long,
+gray beard with a pudgy finger.  Yurian sighs deeply to himself and a tear
+forms in one of his blue eyes.  You wonder what could make a dwarf look so
+forlorn and depressed?
+~
+30731 24 900 E
+17 13 11 14 22
+15 9 25 9 9
+0 0 500
+0 14 199 2
+1 115 2140
+1d1+27024 4d5+3
+0 0 0 0 
+5 5 5 10 
+30 30 30 30 30 
+0 0
+7 7 1
+-1 -1 -1 
+#1835
+troll burly~
+a burly troll~
+A burly troll eyes you up for an easy dinner.
+~
+   This large troll is big, blocky, and pretty ugly.  Male or female?  You
+cannot really tell despite the troll being dressed only in dried moss and
+clingy lichens.  A large, green wart on the end of the trolls bulbous nose
+is its only distinguishing feature.  Other than that, its massive muscles
+and primitive gate are common to most trolls.
+~
+34892 49152 -250 E
+25 14 14 14 18
+14 14 14 14 14
+0 0 500
+0 14 25 15
+0 220 2400
+5d5+300 3d4+1
+85 85 85 85 
+0 0 0 0 
+85 85 85 85 85 
+1250 0
+7 7 1
+-1 -1 -1 
+#1836
+zealot troll cult~
+a troll zealot~
+A troll zealot is fervantly chanting and praying here.
+~
+   From the grotesque green bumpy skin to the shock of wiry black hair makes
+this troll seem normal in all regards, normal that is for a troll.  However,
+the three interlocking black triangles tattooed to the troll's forehead are
+not common.  This unusual tattoo is the mark of a follower of the Cult of
+Suketh.  The evil troll god who demands blood sacrifice and heavy tithing
+from his followers.  The closer you look at the troll, the stranger things
+you notice.  A wild, sort of zealous fervor is in its eyes and a bit of froth
+foaming from it's mouth.
+~
+4110 1073741824 -1000 E
+20 16 20 9 18
+5 16 8 15 15
+0 0 500
+0 5 72 20
+0 198 2000
+20d10+400 3d3+1
+50 50 50 50 
+3 3 3 3 
+60 60 60 60 60 
+0 0
+7 7 0
+-1 -1 -1 
+#1837
+horse black beauty mare~
+Black Beauty~
+Black Beauty his here pawing the ground.
+~
+   Black Beauty is a magestic horse.  Her coat gleams a rich velvety
+black and her long mane flows wild and free across her back.
+~
+2058 8 0 E
+14 8 14 14 14
+14 14 14 14 14
+0 0 500
+0 14 12 15
+4 186 3000
+50d4+150 5d2+3
+45 70 60 60 
+1 0 0 0 
+55 55 55 55 55 
+0 0
+7 7 2
+-1 -1 -1 
+#1838
+tobin dwarf warrior~
+Tobin~
+Tobin warily eyes the likes of you.
+~
+   Tobin the strong.  He is a young warrior learning how to become a famous
+and legendary warrior like in the storybooks.  He swishes his sword this way,
+then that way, poking and thrusting into the air, always pinning his imaginary
+opponent into submission.  He is a legend in his own mind.
+~
+63560 16777216 680 E
+17 14 14 16 14
+14 16 14 14 14
+0 0 500
+2 14 25 17
+0 130 1600
+6d8+620 3d5+1
+40 40 40 40 
+0 0 0 0 
+82 82 82 82 82 
+1860 0
+7 7 1
+-1 -1 -1 
+#1839
+karen dwarf wrestler~
+Karen~
+Karen looks around thoughtfully for styrals to wrestle.
+~
+   Karen the amply endowed young maiden.  Her father was a wrestler, and like
+him, Karen is one too.  She would like to practice her skills with anyone,
+especially against a handsome young dwarf, but alas, all the young men are
+too shy to accept, so she must practice with the styrals.
+~
+26696 16777216 900 E
+16 10 10 20 14
+18 17 5 5 5
+0 0 500
+2 14 30 17
+0 130 1400
+6d5+650 3d4+1
+48 48 48 48 
+0 0 0 0 
+72 72 72 72 72 
+2600 0
+7 7 2
+-1 -1 -1 
+#1840
+bouncer~
+the bouncer~
+The bouncer stands here with his arms folded looking quite mean.
+~
+   This huge man is the newly hired bouncer for the Black Pig.  His job is to
+make sure no unpleasant ``incidents'' happen here that would interfere with
+his boss's conducting his business.  Looking at the bouncer's tree trunk-like
+biceps, you quite sure he can back up his ``requests'' for order.  The bouncer
+makes sure the situation here in the tavern doesn't get out of control.  He
+won't hesitate to crack a few heads together if necessary.  The bouncer is so
+big and hairy, he couldn't possibly be a member of the human race, could he...
+~
+325642 67108896 750 E
+25 15 14 15 18
+5 14 14 14 14
+0 0 500
+2 14 50 2
+1 210 2400
+2d5+2100 4d4+5
+40 40 40 40 
+0 0 0 0 
+100 100 100 100 100 
+1 0
+7 7 1
+-1 -1 -1 
+#1841
+Gurpo troll~
+Gurpo~
+A huge, muscular troll is here looking for some skulls to break apart.
+~
+The most striking feature of this troll is his huge hairy biceps, each the 
+size of a horse's head.  Gurpo appears to be in a bad mood, and nothing seems
+to cheer him up like squashing adventurers!
+~
+559210 1090535424 -750 E
+30 14 14 25 30
+14 14 14 14 14
+0 0 500
+5 14 20 10
+0 230 3500
+4d5+250 3d5+2
+20 20 20 20 
+6 6 6 6 
+20 20 20 20 80 
+1 0
+7 7 1
+-1 -1 -1 
+#1842
+Ishmael man~
+Ishmael~
+A grinning man is here, covered with grease and smelling like fish.
+~
+  The grin on his face somewhat offsets the uncomfortable feeling you get 
+while in his presence.  By no means a small man, Ishmael got to the top of 
+the food trade by cheating, swindling and lying.  It is said that he would 
+sell his own mother for glue if he thought it might get him a better deal 
+from his suppliers.  He is however usually fair in dealing with his  
+customers, as he realises that anything else would lose him trade, and  
+tends to give a fair price.  Today he seems happy, which is probably a 
+good thing, because you wouldn't want to meet him in a bad mood.  Aside
+from his dodgy dealings, he is known to be a fine cook, and his mushy peas
+are known far and wide for their delicious flavour.
+~
+59403 8 1000 E
+30 14 14 30 14
+14 30 30 14 14
+0 0 500
+2 14 125 8
+0 198 2000
+6d10+30000 3d8+24
+-100 -100 -100 -100 
+0 0 0 0 
+2 2 2 2 2 
+18794 0
+6 6 1
+-1 -1 -1 
+#1843
+clone troll dangerous berserker~
+a clone of a troll berserker~
+A clone of A dangerous looking troll with a big sword is here.
+~
+Troll berserkers are infants stolen from villages during raids.  Shaman magic 
+warps the infant into a twisted, troll-like warrior with a mind for little
+other than bloodshed.  The berserker carries a huge sword and looks as if
+he could split you in twain.
+~
+559208 1073758208 -1000 E
+30 17 9 25 30
+14 22 14 14 14
+0 0 500
+5 14 35 15
+3 245 370
+5d10+402 2d11+3
+30 30 30 30 
+4 4 4 4 
+100 100 100 100 25 
+1 0
+7 7 1
+-1 -1 -1 
+#1844
+cow mad sad sodden brown large~
+a sodden brown cow~
+A large and sodden brown cow unsteadily moves about, occasionally falling.
+~
+   Eeek!, a cow afflicted with mad cow disease.  The cow looks normal, but at
+times, you notice its legs shake a bit before collapsing altogether.  The cow
+whines a pathetic moo as it tries several times to stand up.  After much
+effort, the cow gets up and unsteadily walks away looking rather disturbed.
+Poor cow, its only hope is a merciful death.
+~
+200 679477248 0 E
+15 4 4 8 14
+14 14 14 14 14
+0 0 500
+3 14 15 16
+10 198 5000
+2d5+140 2d5+1
+30 30 30 30 
+0 0 0 0 
+85 85 85 85 85 
+0 0
+7 7 2
+-1 -1 -1 
+#1845
+Louie tattoo artist burly man~
+Louie the tattoo artist~
+A big man with rippling biceps covered with tattoos is working here.
+~
+   In his days as a sailor at sea, Louie learned how to tattoo.  Showing a
+natural talent for the art.  He quickly became so skilled in creating tattoos,
+that he decided to quit the seafaring life to set up shop in Lamman.  You see
+a bit of Louie's art displayed on his massive biceps.  An elegant mermaid in
+green and red is tattooed on his left bicep, she swims as he flexes, and a
+blue and black sperm whale is on his right bicep.  As you enter his shop,
+Louie gives you a friendly grin showing off his gold capped teeth.
+~
+172042 67108864 800 E
+30 12 4 30 14
+17 14 14 14 25
+0 0 500
+2 14 150 2
+0 220 2300
+1d1+4300 4d4+12
+-10 -10 -10 -10 
+1 1 1 1 
+85 85 85 85 85 
+1 0
+7 7 1
+-1 -1 -1 
+#99999
+$~

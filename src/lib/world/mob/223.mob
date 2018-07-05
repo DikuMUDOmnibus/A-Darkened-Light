@@ -1,0 +1,38 @@
+#22300
+receptionist woman~
+receptionist~
+The receptionist woman is standing here with smile on her face
+~
+It looks, err, unfinished.
+~
+268615755 16 0 0 0 0 0 0 200 E
+40 -30 -10 30d1000+10000 12d50+50
+100 1000000
+8 8 2
+BareHandAttack: 3
+MaxMove: 50
+SpecProc: receptionist
+E
+>greet_prog 100~
+Hello, my friend. Do you wish to rest for a while?
+~
+|
+#22301
+rastaman rasta man stoned~
+Rastaman~
+Stoned Rastaman is walking around, with his eyes pointed to nothing.
+~
+
+~
+200 0 0 0 301989888 0 0 0 200 E
+10 10 1 10d12+0 4d12+25
+0 10000
+8 8 1
+BareHandAttack: 4
+E
+>speech_prog 100~
+say Do you want to smoke with me? It will get you higher. :)))
+smile
+~
+|
+$

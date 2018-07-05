@@ -1,0 +1,381 @@
+#17000
+ruler dungeon~
+the dungeon ruler~
+The dungeon ruler sits here in his chair.
+~
+This guy looks mean! You had better run while you still have time!
+~
+65342 0 0 0 33966 0 0 0 -5000 E
+30 9 -84 0d0+25674 15d4+0
+9000 150000
+8 8 1
+BareHandAttack: 3
+Str: 17
+Dex: 15
+Con: 19
+E
+#17001
+old woman housekeeper owner~
+an old woman ~
+An old woman sits here waiting to attack you, the intruder.
+~
+She looks really nasty. You don't want to find out how the deep
+scratches and blood marks got on those walls....or do you?
+~
+65342 0 0 0 34478 0 0 0 -7000 E
+45 2 -100 0d0+29003 10d7+1
+30000 200000
+8 8 2
+BareHandAttack: 4
+Str: 9
+Dex: 5
+Int: 18
+Wis: 18
+E
+#17002
+wandering ghoul~
+a wandering ghoul~
+A spooky ghost is floating in mid-air here.
+~
+His eyes glow yellow, and then you practically feel them penetrate yours.
+He reveals long, razor-sharp, 6 inch long claws and then takes a swipe at you!
+~
+1632364 0 0 0 295946 0 0 0 -800 E
+29 7 -43 0d0+1402 5d9+0
+7 80000
+8 8 0
+BareHandAttack: 8
+Str: 20
+Dex: 18
+Int: 3
+Wis: 7
+Con: 10
+E
+#17003
+darkness dark~
+darkness~
+Darkness reigns over the entire room.
+~
+It is a huge shadowy figure with no eyes or anything. Just total darkness.
+How weird. But when he hits you, it will HURT!!
+~
+63534 0 0 0 33834 0 0 0 -300 E
+30 4 -92 0d0+13001 15d11+0
+2 250000
+8 8 0
+BareHandAttack: 1
+Str: 25
+Dex: 10
+E
+#17004
+spider harmless~
+a harmless spider~
+A harmless spider sits in his web here.
+~
+This spider couldn't be dangerous....but could it?
+~
+30782 0 0 0 33802 0 0 0 -10 E
+20 6 -3 0d0+1040 9d5+0
+1 170000
+8 8 1
+Str: 18
+Dex: 15
+E
+#17005
+mad dragon~
+the mad dragon~
+A dragon is here waiting for you to move closer...
+~
+This thing doesn't like you. It breaths fire out of its nostrils, and
+then comes in for the kill. If I were you, I'd get out of here and fast!
+~
+194622 0 0 0 33966 0 0 0 -400 E
+51 0 -100 0d0+30000 7d9+0
+50000 500000
+8 8 0
+BareHandAttack: 4
+Str: 18
+StrAdd: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+E
+#17006
+box~
+a box~
+A small box lays in the corner, torn somehow.
+~
+It's a plain old box with nothing inside of it but dust.
+~
+194622 0 0 0 34314 0 0 0 -500 E
+13 17 -2 0d0+406 2d6+0
+0 30000
+8 8 0
+Dex: 17
+Int: 3
+Wis: 4
+Con: 10
+E
+#17007
+rock~
+a rock~
+A rock lays on the ground here.
+~
+It's just a plain old rock.
+~
+194746 0 0 0 558600 0 0 0 -30 E
+9 19 47 0d0+109 2d2+0
+0 3000
+8 8 0
+E
+#17008
+spider little~
+a little spider~
+A little spider sits here.
+~
+It's a cute little spider.
+~
+30956 0 0 0 296456 0 0 0 -4 E
+4 18 32 0d0+87 2d3+0
+1 2090
+8 8 0
+E
+#17009
+headless ghost~
+a headless ghost~
+A ghost is here, carrying his head with him.
+~
+His head was somehow cut off and now he must carry it wherever he goes. It's
+is a very bloody picture. Sick. Actually, it makes you want to puke.
+~
+1630430 0 0 0 296458 0 0 0 -50 E
+27 4 -56 0d0+3409 4d8+0
+17 60000
+8 8 0
+BareHandAttack: 1
+Str: 17
+Dex: 18
+E
+#17010
+bat large~
+a large bat~
+A large bat flies around up here.
+~
+It's a bat! EEeeek! Run!!
+~
+59852 0 0 0 558633 0 0 0 -50 E
+12 14 17 0d0+426 3d4+2
+1 23005
+8 8 0
+BareHandAttack: 4
+Str: 7
+Dex: 13
+Cha: 3
+E
+#17011
+little bat~
+a little bat~
+A bat is flying around.
+~
+It's a bat! Eeeeek!!! Run!!!!
+~
+61676 0 0 0 296489 0 0 0 -20 E
+10 18 28 0d0+298 7d2+0
+4 19004
+8 8 0
+BareHandAttack: 4
+Str: 6
+Dex: 8
+Cha: 3
+E
+#17012
+rat~
+a rat~
+A rat crawls around in a skull here.
+~
+This little guy is having loads of fun playing inside of a skull on the
+ground here. It sits in the eyehole and starts watching you now...
+~
+63662 0 0 0 33800 0 0 0 -98 E
+17 8 -46 0d0+196 2d2+0
+19 14000
+8 8 0
+BareHandAttack: 4
+Str: 10
+Dex: 4
+Cha: 3
+E
+#17013
+rat wandering~
+a wandering rat~
+A rat is wandering around the entire area looking lost.
+~
+This little guy looks so cute....don't let the looks fool you, though.
+Be on your guard at every moment.
+~
+30956 0 0 0 263176 0 0 0 -200 E
+18 10 -5 0d0+184 2d3+0
+2 4506
+8 8 0
+BareHandAttack: 4
+Dex: 14
+E
+#17014
+roach~
+a roach~
+A roach crawls around here.
+~
+It's a bug! Squash it!
+~
+32456 0 0 0 1032 0 0 0 0 E
+6 20 87 0d0+89 3d3+0
+1 2890
+8 5 0
+E
+#17015
+beetle~
+a beetle~
+A beetle crawls around here.
+~
+Yuck! A beetle! How sick! 
+~
+32456 0 0 0 1032 0 0 0 1 E
+7 19 81 0d0+94 3d2+0
+2 1904
+8 6 0
+E
+#17016
+insane prisoner~
+an insane prisoner~
+Someone is acting like an idiot.
+~
+It's simple: he's LUNEY!!
+~
+26892 0 0 0 1024 0 0 0 20 E
+23 7 -62 0d0+927 4d4+0
+52 25000
+6 6 1
+BareHandAttack: 6
+Str: 14
+Dex: 10
+E
+#17017
+evil prisoner~
+the evil prisoner~
+A very evil prisoner stands here plotting his revenge.
+~
+This guy is really evil. He walks around with a file trying to get out of
+this dungeon. It looks like he's been in here for years!
+~
+63534 0 0 0 1544 0 0 0 -320 E
+33 4 -78 0d0+1960 6d7+1
+29 30059
+8 8 1
+BareHandAttack: 9
+Str: 18
+Dex: 18
+Int: 16
+Con: 18
+Cha: 3
+E
+#17018
+sad prisoner~
+a sad prisoner~
+Someone who looks very sad is here.
+~
+All he does is weep all day long. He does not belong here. He cries and
+balls, and then starts screaming of how he's here for no reason.
+~
+24842 0 0 0 1536 0 0 0 278 E
+30 2 -48 0d0+1206 4d5+0
+12 19076
+6 6 1
+Str: 4
+Dex: 7
+E
+#17019
+slave~
+a slave~
+A slave sits here working for his master.
+~
+This is really sad. He gets whipped and whipped by the dungeon ruler, who
+makes him work all day long for nothing. He has marks all over his body from
+a whip.
+~
+30766 0 0 0 513 0 0 0 180 E
+24 17 45 0d0+783 3d5+0
+2 10004
+6 6 1
+Dex: 6
+E
+#17020
+wizard lost~
+a lost wizard~
+A wizard is wandering around here.
+~
+This guy is bout half of your size and carries around a magic wand. He
+keeps mumbling to himself, and he probably is very lost.
+~
+31320 0 0 0 33834 0 0 0 -60 E
+30 7 -32 0d0+3094 6d6+0
+4006 78009
+8 8 1
+BareHandAttack: 7
+Str: 17
+Dex: 8
+Cha: 3
+E
+#17021
+boogie monster~
+the boogie monster~
+A monster from your nightmares stands here.
+~
+It's the boogie monster! Run and hide under your bed!
+~
+59454 0 0 0 33792 0 0 0 -400 E
+39 6 -2 0d0+5607 7d8+0
+5000 50000
+8 8 0
+BareHandAttack: 6
+Str: 15
+Dex: 18
+Int: 8
+Wis: 3
+Con: 10
+Cha: 3
+E
+#17022
+crow dark~
+a dark crow~
+A crow stands here.
+~
+There's nothing really special about this bird.
+~
+30782 0 0 0 34314 0 0 0 -10 E
+25 15 50 0d0+419 3d4+0
+1 11908
+8 8 0
+Str: 6
+Dex: 3
+Cha: 8
+E
+#17023
+stone wall~
+a stone wall~
+The walls are strangely made of stone...
+~
+It's just a wall made of hard stone...
+~
+260158 0 0 0 33966 0 0 0 -1000 E
+58 2 -69 0d0+24659 7d8+1
+20000 600000
+8 8 0
+BareHandAttack: 6
+Str: 25
+StrAdd: 100
+Dex: 16
+Int: 4
+Wis: 3
+E
+$

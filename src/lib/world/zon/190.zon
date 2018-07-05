@@ -1,0 +1,132 @@
+#190
+The Elven woods~
+19099 60 2
+* in something
+D 0 19003 5 1
+D 0 19005 4 1
+M 0 19001 2 19001          Portal guardian
+E 1 19003 10 5            Mithril chain on body
+E 1 19004 10 16           Mithril Two-handed wielded
+M 0 19001 2 19001          Portal guardian
+E 1 19003 10 5            Mithril chain on body
+E 1 19004 10 16           Mithril Two-handed wielded
+M 0 19005 1 19010          Armourer
+E 1 19001 100 16
+G 1 3042 100
+G 1 3086 100
+G 1 3076 100
+G 1 19002 100
+G 1 16002 100
+G 1 19007 100
+G 1 19008 100
+M 0 19004 1 19011          Weaponsmith
+E 1 19004 100 16
+G 1 19001 100
+G 1 3020 100
+G 1 3021 100
+G 1 3023 100
+G 1 19006 100
+G 1 7211 100
+G 1 6000 100
+M 0 19006 1 19014          Mage
+E 1 19001 100 16
+G 1 3050 1000
+G 1 3051 1000
+G 1 19009 10
+G 1 19010 100
+G 1 19011 100
+G 1 8012 100
+G 1 19012 10
+M 0 19007 1 19013          Quintor (General store)
+E 1 19001 100 16
+G 1 19013 1000
+G 1 19014 1000
+G 1 19015 1000
+G 1 19016 1000
+G 1 19017 1000
+G 1 7208 100
+M 0 19008 1 19016          Bartender (The Tavern of Hope)
+E 1 19001 100 16
+G 1 19018 1000
+G 1 19019 1000
+G 1 3102 1000
+G 1 19020 1000
+M 0 19009 1 19090          Receptionist
+E 1 19001 100 16
+M 0 19010 1 19004          Guards chief
+E 1 19001 10 16           fine longsword wielded
+E 1 19002 10 5            chain on body
+M 0 19011 8 19018          guards playing cards
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19011 8 19018          guards playing cards
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19011 8 19018          guards playing cards
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19011 8 19018          guards playing cards
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19011 8 19003          guards playing cards
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19011 8 19003          guards playing cards
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19011 8 19003          guards playing cards
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19011 8 19003          guards playing cards
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19002 15 19006         standing guard
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19002 10 19007         walking guard
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19002 10 19008         walking guard
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19002 10 19012         walking guard
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19002 10 19009         walking guard
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19002 10 19002         walking guard
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19003 10 19008         walking guard
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19003 10 19008         walking guard
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19003 10 19008         walking guard
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19003 10 19008         walking guard
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+M 0 19003 15 19015         standing guard
+E 1 19001 100 16          sword wielded
+E 1 19002 100 5           chain on body
+O 0 19005 1 19006          load telescope on the platform. 
+O 0 8006 10 19027         load trainging sword
+O 0 8006 10 19027         load trainging sword
+O 0 8006 10 19027         load trainging sword
+O 0 3023 100 19027        load club
+O 0 3023 100 19027        load club
+M 0 19202 1 19037		 old druid to glade
+E 1 19004 100 16		 wield sword
+E 1 19021 25 12		 wear woool cape
+M 0 19203 1 19037		 fire elemental
+E 1 19022 25 1            ring on finger
+M 0 19204 10 19036 	 Huge bear to glade 
+M 0 19206 1 19019     	 Champion to room
+E 1 19001 100 16		 wield diamond edge
+E 1 19003 100 5		 wear mithrill chain
+S
+~$

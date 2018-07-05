@@ -1,0 +1,134 @@
+# Generated automatically from Makefile.in by configure.
+# CircleMUD 3.0 Makefile.in - Makefile template used by 'configure'
+# Modifications by Mayhem
+
+# C compiler to use
+CC = gcc
+
+# Path to cxref utility
+CXREF = cxref
+
+# Any special flags you want to pass to the compiler
+MYFLAGS = -Wall 
+
+#flags for profiling (see hacker.doc for more information)
+PROFILE = 
+
+##############################################################################
+# Do Not Modify Anything Below This Line (unless you know what you're doing) #
+##############################################################################
+
+# I have removed -g flag from CFLAGS (YIL)
+CFLAGS = $(MYFLAGS) $(PROFILE)
+
+OBJFILES = comm.o act.comm.o act.create.o act.informative.o act.movement.o \
+        act.item.o act.offensive.o act.other.o act.social.o act.wizard.o \
+        ban.o boards.o castle.o class.o clan.o config.o constants.o db.o \
+        fight.o graph.o guild.o handler.o house.o interpreter.o limits.o \
+        magic.o mail.o mobact.o mobcmd.o mobprog.o modify.o objsave.o olc.o \
+        prgrun.o random.o shop.o spec_assign.o spec_grave.o spec_procs.o \
+        spell_parser.o spells.o teleport.o trains.o utils.o weather.o wizlist
+        redit.o oedit.o zedit.o medit.o sedit.o gedit.o demon.o \
+        mayhem_wiz.o multi.o dempower.o ninja.o donathin.o \
+        vampire.o wizard.o extras.o
+
+	  
+default: .accepted
+	$(MAKE) ../bin/circle
+
+.accepted:
+	@./licheck more
+
+utils: .accepted
+	$(MAKE) ../bin/autowiz
+	$(MAKE) ../bin/delobjs
+	$(MAKE) ../bin/listrent
+	$(MAKE) ../bin/mailindex
+	$(MAKE) ../bin/members
+	$(MAKE) ../bin/mudpasswd
+	$(MAKE) ../bin/play2to3
+	$(MAKE) ../bin/plrconv
+	$(MAKE) ../bin/purgeplay
+	$(MAKE) ../bin/shopconv
+	$(MAKE) ../bin/showplay
+	$(MAKE) ../bin/sign
+	$(MAKE) ../bin/split
+	$(MAKE) ../bin/wld2html
+
+all: .accepted
+	$(MAKE) ../bin/circle
+	$(MAKE) utils
+
+circle:
+	$(MAKE) ../bin/circle
+autowiz:
+	$(MAKE) ../bin/autowiz
+delobjs:
+	$(MAKE) ../bin/delobjs
+listrent:
+	$(MAKE) ../bin/listrent
+mailindex:
+	$(MAKE) ../bin/mailindex
+members:
+	$(MAKE) ../bin/members
+mudpasswd:
+	$(MAKE) ../bin/mudpasswd
+play2to3:
+	$(MAKE) ../bin/play2to3
+plrconv:
+	$(MAKE) ../bin/plrconv
+purgeplay:
+	$(MAKE) ../bin/purgeplay
+shopconv:
+	$(MAKE) ../bin/shopconv
+showplay:
+	$(MAKE) ../bin/showplay
+sign:
+	$(MAKE) ../bin/sign
+split:
+	$(MAKE) ../bin/split
+wld2html:
+	$(MAKE) ../bin/wld2html
+
+
+../bin/autowiz: util/autowiz.c conf.h sysdep.h structs.h utils.h db.h
+	$(CC) $(CFLAGS) -o ../bin/autowiz util/autowiz.c
+../bin/delobjs: util/delobjs.c conf.h sysdep.h structs.h
+	$(CC) $(CFLAGS) -o ../bin/delobjs util/delobjs.c
+../bin/listrent: util/listrent.c conf.h sysdep.h structs.h
+	$(CC) $(CFLAGS) -o ../bin/listrent util/listrent.c
+../bin/mailindex: util/mailindex.c conf.h sysdep.h structs.h utils.h db.h mail.h
+	$(CC) $(CFLAGS) -o ../bin/mailindex util/mailindex.c 
+../bin/members: util/members.c conf.h sysdep.h structs.h utils.h db.h clan.h
+	$(CC) $(CFLAGS) -o ../bin/members util/members.c 
+../bin/mudpasswd: util/mudpasswd.c conf.h sysdep.h structs.h utils.h
+	$(CC) $(CFLAGS) -o ../bin/mudpasswd util/mudpasswd.c 
+../bin/play2to3: util/play2to3.c
+	$(CC) $(CFLAGS) -o ../bin/play2to3 util/play2to3.c
+../bin/plrconv: util/plrconv.c
+	$(CC) $(CFLAGS) -o ../bin/plrconv util/plrconv.c
+../bin/purgeplay: util/purgeplay.c conf.h sysdep.h structs.h utils.h
+	$(CC) $(CFLAGS) -o ../bin/purgeplay util/purgeplay.c
+../bin/shopconv: util/shopconv.c conf.h sysdep.h structs.h db.h utils.h shop.h
+	$(CC) $(CFLAGS) -o ../bin/shopconv util/shopconv.c
+../bin/showplay: util/showplay.c conf.h sysdep.h structs.h
+	$(CC) $(CFLAGS) -o ../bin/showplay util/showplay.c
+../bin/sign: util/sign.c conf.h sysdep.h
+	$(CC) $(CFLAGS) -o ../bin/sign util/sign.c 
+../bin/split: util/split.c
+	$(CC) $(CFLAGS) -o ../bin/split util/split.c
+../bin/wld2html: util/wld2html.c
+	$(CC) $(CFLAGS) -o ../bin/wld2html util/wld2html.c
+
+../bin/circle : $(OBJFILES)
+	$(CC) -o ../bin/circle $(PROFILE) $(OBJFILES) 
+clean:
+	rm -f *.o
+	rm depend
+
+# Dependencies for the object files (automagically generated with
+# gcc -MM)
+depend:
+	$(CC) -MM *.c > depend
+
+-include depend

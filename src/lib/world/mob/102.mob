@@ -1,0 +1,38 @@
+#10200
+A bermeise python~
+a large bermeise python~
+A large bermeise python, is slithering about scouring for food.
+~
+A rather large family of the reptile family a python, is the most stethist,
+addition to the jungle.
+~
+105 68 0 0 0 0 0 0 200 E
+40 15 10 3d3+200 6d6+5
+1 13000
+8 8 0
+BareHandAttack: 4
+MaxMove: 50
+SpecProc: snake
+E
+>greet_prog 100~
+emote slithers, sliiiiiiiiiiiiiiiiiiiiiiiiiiith.
+~
+|
+#10201
+Bear, Grizzly~
+A black grizzly bear~
+A black grizzly bear is resting here chewing on a branch.
+~
+A rather large addition to the jungle the bear is common around these areas.
+~
+9 0 0 0 0 0 0 0 100 E
+10 10 10 5d5+400 5d5+10
+1 40000
+8 8 0
+SpecProc: fido
+E
+>hitprcnt_prog 100~
+emote growls, and snarls his teeth while receiveing your blow!
+~
+|
+$

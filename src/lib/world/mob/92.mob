@@ -1,0 +1,108 @@
+#9200
+dragon lazy spyrro~
+Spyrro ugly and lazy dragon~
+Spyrro the lazy dragon is resting here
+~
+He is big ,strong and UGLY!
+He is one of the guards that are watching this zone.
+You should be careful...
+But you know:the bigger braws ,the smaller brain :)
+~
+249931 0 0 0 1073774592 128 0 0 10 E
+30 15 -5 5d100+1000 10d10+5
+10000 50000
+8 5 1
+BareHandAttack: 8
+MaxMove: 50
+SpecProc: dragon_guard
+E
+#9201
+philomena dragon~
+Philomena girlfriend of Spyrro~
+Spyrro's girlfriend Philomena is staying here guarding the gate.
+~
+It looks ,err ,nicer then the other dragons.
+She is big and intteligent ,but either strong.
+Don't try to make her angry!
+~
+248143 0 0 0 32904 0 0 0 50 E
+35 10 -10 5d200+1000 10d15+5
+25000 115000
+8 8 2
+BareHandAttack: 13
+MaxMove: 50
+SpecProc: dragon_guard
+E
+#9202
+dragon bone master~
+Bone dragon master~
+The bone dragon master is standing here waiting for students.
+~
+It's ,err ,it looks like a wall of bones.
+But stay away this 'wall' is very dangerous.
+~
+98383 0 0 0 16777224 0 0 0 50 E
+40 5 -10 5d100+1500 12d15+5
+30000 125000
+8 8 1
+MaxMove: 50
+E
+#9203
+master green dragon~
+Green dragon master~
+The green dragon master is standing here watching you carefully.
+~
+Some huge dragon... pchhh
+Don't make him angry ,he'll kill you just with few attacks.
+No? Yo have been warned...
+~
+254283 0 0 0 0 0 0 0 50 E
+40 5 10 5d50+1500 12d25+10
+50000 175000
+8 8 0
+MaxMove: 50
+E
+#9204
+red dragon master~
+Red dragon master~
+The red dragon master is standing here hypnotizing you.
+~
+Another one master...
+He is one of the strongest so better let him alone.
+But he has one of the keys to the black dragon master.
+~
+254027 0 0 0 0 0 0 0 25 E
+40 0 -15 2d250+1500 25d15+15
+75000 200000
+8 8 0
+MaxMove: 50
+E
+#9205
+black dragon boss~
+Black dragon~
+Godly BOSS the black dragon is standing here ready to kill you.
+~
+If you are looking at him (you do) then you are not already kill.
+RUN!!!!! RUN AWAY!!!!!
+Save your life!
+~
+52686702 32 0 0 1160 0 0 0 -50 E
+40 -30 -20 10d500+7500 15d50+50
+10000000 10000000
+8 8 1
+MaxMove: 50
+E
+#9206
+bart simpson~
+Bart Simpson~
+Bart Simpson is standing here trying to earn some money.
+~
+undefined~
+65742 0 0 0 0 0 0 0 -50 E
+25 10 -20 1d1+1000 1d50+0
+100000 50000
+8 8 1
+BareHandAttack: 10
+MaxMove: 50
+E
+$

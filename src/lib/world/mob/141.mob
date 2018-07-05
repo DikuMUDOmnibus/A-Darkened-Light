@@ -1,0 +1,118 @@
+#14100
+Lucifer, Death God~
+Lucifer, the death god~
+Lucifer the god of death god is floating here, waiting for bribes.
+~
+The god of death, lucifer, waits for bribes of gold to take himself back to 
+heaven. 
+~
+11 1 0 0 1073741824 0 0 0 1000 E
+40 -30 10 30d30+30000 30d30+50
+0 0
+8 8 1
+MaxMove: 50
+E
+>all_greet_prog 100~
+say welcome to my world, i am your master now!!!
+emote sharpens his horns with his teeth - ick...
+say type &Whelp resurect&w for information on how to become mortal again!
+~
+|
+#14101
+tiny demon~
+a tiny demon~
+A tiny demon crawls around here.
+~
+Little horns, little fangs, a pair of wings.  You know, a demon.
+@
+~
+136 0 0 0 0 0 0 0 -500 E
+1 20 10 1d1+25 1d1+0
+0 100
+8 8 0
+MaxMove: 50
+E
+#14103
+A black demon~
+the black demon~
+A black demon stalks by here.
+~
+   If it weren't for the glowing of these walls, you'd have never noticed this
+guy.    
+~
+136 0 0 0 1024 0 0 0 -800 E
+2 19 -8 2d6+10 1d8+1
+35 800
+8 8 0
+BareHandAttack: 8
+MaxMove: 50
+E
+#14104
+green demon~
+the green demon~
+A green demon leers at you.
+~
+   Hrmm...  Green.  He looks sort of excited..  And that look in his eyes..  
+Oh MY GOD!  Run!!    
+~
+172 0 0 0 0 0 0 0 -700 E
+2 19 8 2d8+5 1d7+1
+30 1000
+8 8 0
+BareHandAttack: 8
+MaxMove: 50
+E
+#14105
+small demon~
+the small demon~
+A small demon snarls as he passes.
+~
+   He's a red crawly thing with a long tail.    
+~
+8 0 0 0 1024 0 0 0 -500 E
+2 19 9 1d10+3 1d8+0
+0 700
+8 8 0
+BareHandAttack: 8
+MaxMove: 50
+E
+#14106
+tiny imp~
+the tiny imp~
+A tiny imp comes by here.
+~
+   He's got wings, but isn't using them.  Maybe he's too young yet.  He looks
+like an easy victim.    
+~
+8 0 0 0 0 0 0 0 -300 E
+0 20 10 2d3+5 1d1+0
+50 50
+8 8 0
+MaxMove: 50
+E
+#14107
+demented imp~
+the demented imp~
+A demented imp limps past you.
+~
+   He looks like maybe he's been picked on by the bigger imps.  He's got an
+attitude to show for it, too.    
+~
+8 0 0 0 0 0 0 0 -800 E
+2 19 9 3d3+10 1d1+1
+100 150
+8 8 0
+E
+#14108
+cackling imp~
+the cackling imp~
+A cackling imp cackles at you.
+~
+   Umm...  Yeah.  He's cackling.  That should tell you something.    
+~
+8 0 0 0 0 0 0 0 -200 E
+0 20 10 3d5+1 1d2+2
+150 100
+8 8 0
+E
+$

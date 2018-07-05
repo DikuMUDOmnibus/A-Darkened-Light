@@ -1,0 +1,26 @@
+#9600
+Prijazdova cesta na intrak.~
+No a uz si tu.
+Priviezol si sa busom (alebo si doslapal ?) az na intrak kde ta caka
+vela peknych veci, ale mozno aj nejake to nebezpecenstvo ...
+Takze sa dobre cit, ale davaj si aj pozor !
+~
+96 1024 0 0 0 2
+D0
+Cesta na intrak.
+~
+~
+0 0 9601
+S
+#9601
+Chodnik~
+Slapes po betone a riadne do kopca ...
+~
+96 0 0 0 0 12
+D2
+Prijazdova cesta na intrak.
+~
+~
+0 0 9600
+S
+$~

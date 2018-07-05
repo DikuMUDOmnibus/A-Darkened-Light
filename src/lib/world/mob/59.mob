@@ -1,0 +1,41 @@
+#5900
+knight~
+the Knight~
+A tall nasty Knight is guarding the entrance to Bloody Lovers Clan.
+~
+It looks very nasty and strong.
+~
+1141106762 0 0 0 58721672 155904 0 0 -999 E
+40 0 -10 0d0+2000 5d10+20
+50000 100000
+8 8 1
+MaxMove: 50
+E
+>act_prog $$n has arrived.~
+if ispc($n)
+if name($n)==Brutus
+or name($n)==Morgula
+or name($n)==Tupu
+    say Hi $n
+  else
+    kill $n
+  endif
+endif
+~
+|
+#5920
+dragon~
+brutal dragon~
+A brutal dragon of many colors is flying in the air.
+~
+It looks very very strange.
+Maybe you should run away...
+~
+1426251866 32 0 0 1400902824 151809 0 0 -999 E
+40 -30 -10 0d0+30000 10d10+50
+1000000 1000000
+8 8 0
+BareHandAttack: 8
+MaxMove: 50
+E
+$

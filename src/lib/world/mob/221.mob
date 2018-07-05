@@ -1,0 +1,313 @@
+#22101
+woman harem slave pink~
+the woman in pink~
+A woman wearing a pretty pink taffeta dress trudges along the beach.
+~
+  My, what beauty. But she just gives you a long, doleful stare and without
+a sound continues along. How strange--her eyes are a very dull grey. Doesn't
+seem to work with her beautiful face.
+~
+221 0 0 0 0 0 0 0 0 E
+5 16 6 2d6+45 2d4+0
+20 350
+8 8 2
+MaxMove: 50
+SpecProc: slave
+E
+#22102
+woman harem slave blue~
+the woman in blue~
+A woman wearing a pretty blue silk dress trudges along the beach.
+~
+  My, what beauty. But she just gives you a long, doleful stare and without
+a sound continues along. How strange--her eyes are a very dull grey. Doesn't
+seem to work with her beautiful face.
+~
+221 0 0 0 0 0 0 0 0 E
+5 16 6 2d6+45 2d4+0
+20 350
+8 8 2
+MaxMove: 50
+SpecProc: slave
+E
+#22103
+woman harem slave white~
+the woman in pristine white~
+A woman wearing a pretty pristine white cotton dress trudges along the beach.
+~
+  My, what beauty. But she just gives you a long, doleful stare and without
+a sound continues along. How strange--her eyes are a very dull grey. Doesn't
+seem to work with her beautiful face.
+~
+221 0 0 0 0 0 0 0 0 E
+5 16 6 2d6+45 2d4+0
+20 350
+8 8 2
+MaxMove: 50
+SpecProc: slave
+E
+#22104
+woman harem slave beige~
+the woman in a drab beige dress~
+A woman wearing a drab beige burlap dress trudges along the beach.
+~
+  My, what beauty. But she just gives you a long, doleful stare and without
+a sound continues along. How strange--her eyes are a very dull grey. Doesn't
+seem to work with her beautiful face.
+~
+221 0 0 0 0 0 0 0 0 E
+5 16 6 2d6+45 2d4+0
+20 350
+8 8 2
+MaxMove: 50
+SpecProc: slave
+E
+#22105
+woman harem slave concubine~
+the special slave of the master~
+A slave for the master works endlessly at his will.
+~
+  My, what beauty. But she just gives you a long, doleful stare and without
+a sound continues along. How strange--her eyes are a very dull grey. Doesn't
+seem to work with her beautiful face.
+~
+221 0 0 0 0 0 0 0 0 E
+5 16 6 2d6+45 2d4+0
+20 350
+8 8 2
+MaxMove: 50
+SpecProc: slave
+E
+#22106
+leader harem master~
+a fat harem master~
+A very fat harem master orders his concubines around.
+~
+  Gads. This man must have some kind of magic to be able to keep all of these
+women, because he certainly doesn't have the face for it. He looks somewhat
+like a cross between a pear and a potato, but without the good looks.
+~
+75 0 0 0 8 0 0 0 -1000 E
+30 1 -15 12d12+2400 6d7+9
+24000 1157500
+8 8 1
+MaxMove: 50
+SpecProc: master
+E
+#22107
+crab~
+a small, red crab~
+A small, red crab scuttles along the beach.
+~
+  This small creature has rather large pincers for its negligble size. It looks
+benign, but probably wouldn't appreciate being attacked.
+~
+24 0 0 0 0 0 0 0 0 E
+2 19 9 1d10+20 1d5+4
+0 75
+8 8 0
+MaxMove: 50
+E
+#22108
+baby tar~
+a cuddly little tar baby~
+A cute, cuddly little tar baby is here, ready to follow the first person it sees.
+~
+  Aww, this cute little thing is just COVERED in tar. It latches on to the 
+first sign of human life. And it's just so cute you can't want to kill it!
+~
+157 0 0 0 8 0 0 0 500 E
+30 11 3 1d12+120 3d5+4
+20 1200
+8 8 1
+MaxMove: 50
+SpecProc: tarbaby
+E
+#22109
+seagull bird~
+a seagull~
+A seagull flies about the cliff.
+~
+  Hmm...it's a bird, that much you can tell. It doesn't appear to care whether
+you look closely at it or not.
+~
+90 0 0 0 0 0 0 0 0 E
+5 16 6 1d12+50 2d2+2
+0 650
+8 8 0
+MaxMove: 50
+E
+#22110
+priest fear~
+the Priest of Fear~
+The Priest of Fear is walking around, looking rather pompous.
+~
+  This incredibly strong person doesn't look like the kind of man you'd want to
+meet on the street every day. He certainly inspires fear in your heart. You'd
+most likely *NOT* want to attempt to kill this man! He's one mean fellow!
+~
+121 0 0 0 136 0 0 0 -1000 E
+30 0 -22 10d12+5200 6d7+11
+30000 2000000
+8 8 1
+MaxMove: 50
+SpecProc: priest_fear
+E
+#22111
+ghost banshee siren~
+a wailing ghost~
+A wailing ghost floats about the halls.
+~
+   You look and look but all you can really see is the wall behind it, and a 
+faint outline of something making the wall shimmer.
+~
+1573112 0 0 0 561317 0 0 0 -750 E
+15 6 1 1d12+250 2d8+5
+0 24000
+8 8 0
+MaxMove: 50
+SpecProc: sea_serpent
+E
+#22112
+prisoner cellmate~
+the prisoner~
+A prisoner, locked up for crimes against Fear, is raving here.
+~
+  The prisoner looks at you bravely and shouts, "JUST KILL ME! I DARE YOU!"
+He looks totally emaciated, as if he hasn't been fed for weeks. He is dirty
+and almost naked--his rags barely cover him. He is covered in his own filth.
+Just looking at him makes you want to retch.
+~
+46 0 0 0 8 0 0 0 -900 E
+25 1 -4 5d10+750 4d6+4
+0 175000
+8 8 1
+MaxMove: 50
+E
+#22113
+butcher~
+the butcher~
+The butcher stands here, waiting for his next kill.
+~
+  He's rather ordinary, except for the humongous knife he holds in his hand.
+~
+74 0 0 0 128 0 0 0 -1000 E
+30 1 -10 6d10+1200 4d6+3
+2000 400000
+8 8 1
+MaxMove: 50
+SpecProc: butcher
+E
+#22114
+terror high priest~
+the High Priest of Terror~
+The High Priest of Terror stands before you in all her majesty.
+~
+  How shocking! Out of all the types of people you would expect to see in this
+kind of position, you didn't expect to see someone this beautiful and kind-
+looking. She stands about 2 meters tall, and while she is obviously very 
+strong, she is also quite voluptious. She looks at you with the most 
+sympathetic eyes--you just want to give yourself over to her.
+~
+89 0 0 0 136 0 0 0 -1000 E
+35 0 -26 10d15+5200 6d7+12
+50000 3000000
+8 8 2
+MaxMove: 50
+SpecProc: priest_terror
+E
+#22115
+keeper vice~
+the Keeper of the Shrine of Vice~
+The Keeper of the Shrine of Vice guards the alter from desecration.
+~
+   This man is covered in the blood of his former kills. He looks as if 
+he would like to make you his next. Keep clear of this guy.
+~
+14 0 0 0 136 0 0 0 -800 E
+35 1 -4 5d10+750 4d6+4
+2000 125000
+8 8 1
+MaxMove: 50
+E
+#22116
+dragon terror~
+the Grand Dragon of Terror~
+The Grand Dragon of Terror rests, curled around a giant pillar in the temple.
+~
+  This dragon is just beautiful. Its scales are mirror-like in polish.
+Beautifully-coloured wings protrude from the sides. Unlike most dragons,
+this actually resembles a snake--except that it's about one-hundred times
+larger, and certainly is more dangerous. Sharp teeth extend from the mouth,
+and wisps of smoke curl from its nose. It looks at you with infinite
+intelligence and a little bit of resignation, as though it knows you will
+eventually get around to attacking it.
+~
+91 0 0 0 8 0 0 0 -750 E
+35 0 -30 15d20+10000 7d8+18
+50000 4000000
+5 5 0
+MaxMove: 50
+SpecProc: priest_terror
+E
+#22117
+torturer man~
+a torturer~
+The torturer stands here, brandishing a cat o' nine tails.
+~
+  The torturer looks stark raving mad, to be frank. He waves his weapon in 
+the air with a mad cackle, and looks at you. With an evil grin, he says,
+"ah, my next victim! yessssss" and launches himself at you.
+~
+122 0 0 0 136 0 0 0 -1000 E
+29 1 -9 5d10+1100 4d6+5
+20000 350000
+8 8 1
+MaxMove: 50
+E
+#22118
+interrogator secretary~
+an interrogator~
+An interrogator sits here, ready to grill you for information.
+~
+  This man is small and frail-looking, but you can tell that he's quite
+dangerous to attack. He looks at you with steel-rimmed glasses and says,
+"shall ve beegeen?"
+~
+216 0 0 0 0 0 0 0 -1000 E
+35 1 0 1d13+500 3d6+4
+1000 40000
+6 6 1
+MaxMove: 50
+E
+#22119
+interrogator inquisitor grand~
+the Grand Inquisitor~
+The Grand Inquisitor of Despair looks you up and down appraisingly.
+~
+  This man looks just like the others, except for an uncharactistic gleam
+in his eye. He looks quite sinister, as though he expects to get information
+out of you--whether you know it or not.
+~
+216 0 0 0 128 0 0 0 -1000 E
+35 1 -20 1d100+3000 6d7+15
+20000 1600000
+8 8 1
+MaxMove: 50
+SpecProc: inquisitor
+E
+#22120
+priest hopelessness~
+the Priest of Hopelessness~
+The Priest of Hopelessness stands here, waiting to remove all hope of leaving.
+~
+  The priest looks back at you indignantly and says, "how dare you attempt to
+look at me!?" and prompty attacks you.
+~
+106 0 0 0 1572864 0 0 0 -1000 E
+35 1 -15 7d12+2000 5d6+7
+5000 1000000
+8 8 1
+MaxMove: 50
+E
+$

@@ -1,0 +1,879 @@
+#6800
+A Littered Road~
+   This road once was lined with sculptured shrubbery and cobbled
+with high quality stones.  However, the passing years and thousands
+of careless feet have trampled everything into squalor.  Trash lies
+everywhere: discarded drink containers, cigarette packs and the like.
+Ahead is a largish building that seems to block out the sun nearby:
+a big, squat, dark brown building that exudes lifelessness.  You see
+several people going in and out its doors, shoulders slumped in defeat.
+~
+68 4 0 0 0 1
+D0
+~
+~
+0 -1 6801
+D2
+~
+~
+0 0 18601
+S
+#6801
+A Littered Road~
+   The wheel tracks in the road lead east to a large parking-lot
+area, where many wagons and carts sit parked.  To the north, you
+see the building, with the logo emblazoned:
+
+              'Froboz's Fun Factory of Doom!'
+
+~
+68 0 0 0 0 1
+D0
+~
+~
+0 -1 6806
+D2
+~
+~
+0 -1 6800
+D3
+~
+~
+0 -1 6802
+S
+#6802
+The Parking Lot~
+   This is the North-East corner of the parking lot.  There are
+wagons and carts parked everywhere, all as close as possible to
+the main building while staying nicely between the little yellow
+lines drawn in the dirt.
+~
+68 0 0 0 0 1
+D1
+~
+~
+0 -1 6801
+D2
+~
+~
+0 -1 6803
+D3
+~
+~
+0 -1 6804
+S
+#6803
+The Parking Lot~
+   The wagons and carts are lined up in nice, neat little rows in the
+south-east corner of this large parking lot.  Here, near the back,
+are the more expensive vehicles -- some taking up two parking spaces
+so no one scratches the trim.  Way, way in the back is a huge wagon
+with harness for four animals!  Talk about major horsepower!!!
+~
+68 0 0 0 0 1
+D0
+~
+~
+0 -1 6802
+D3
+~
+~
+0 -1 6805
+S
+#6804
+The Parking Lot~
+   There are more various types of vehicles here, all lined
+up in perfect rows.  This is the north-west corner of the
+lot, and a small access road winds north around the west side
+of the building.  There aren't as many wagons and carts here,
+since the walk to the front entrance is kind of long...
+~
+68 0 0 0 0 1
+D0
+~
+~
+0 -1 6835
+D1
+~
+~
+0 -1 6803
+D2
+~
+~
+0 -1 6805
+S
+#6805
+The Parking Lot~
+   There is almost nothing to be seen in this corner of the Parking
+Lot: no-one is willing to park this far away and walk a little to
+the entrance of the building.  You do see a couple of old, decrepit
+vehicles around with broken wheels and such, but there just isn't
+much here of interest.
+~
+68 0 0 0 0 1
+D0
+~
+~
+0 -1 6804
+D1
+~
+~
+0 -1 6803
+S
+#6806
+Outside The Factory~
+   Here are the giant doors of Froboz's huge complex.  They are
+kept ajar, to let give all the heat and noise inside a means
+of escaping.  The doors are made of some sort of black metal,
+seemingly impenatrable, and have Froboz's curly-Q sigil worked
+in on the front.  You are not sure if the doors are meant to
+keep intruders out, or workers in...
+~
+68 0 0 0 0 1
+D0
+~
+~
+0 -1 6807
+D2
+~
+~
+0 -1 6801
+S
+#6807
+The Entrance Area~
+   There is a big round desk in this room here, with all sorts
+of security equipment arrayed around it.  It looks like some
+sort of high-magic, what with all the weird surfaces showing
+other places in the building -- like a crystal ball almost.
+   There is a room to the east, where most of the people seem
+to be going, and a nice, oak door to the west with some sort of
+wierd lock on it.  This room is tastefully done in a black and
+dark green decor which makes it feel somewhat drab.
+~
+68 8 0 0 0 0
+D1
+~
+~
+0 -1 6818
+D2
+~
+~
+0 -1 6806
+D3
+~
+door~
+1 -1 6808
+S
+#6808
+The Lounge~
+   Wow!  This is a nice, sunlit area, strewn about with cushions
+and benches and other pieces of creature comforts.  Along one wall
+is a slew of devices that sell food and drinks, right next to a
+carpeted stairwell leading up to the second floor.  There is a
+mini kitchen near the windows, for the employee's lunches, and
+overall, you wish you worked here too!
+~
+68 8 0 0 0 0
+D1
+~
+door~
+1 -1 6807
+D4
+~
+~
+0 -1 6809
+S
+#6809
+The Hall~
+   Here is the start of a long hall, that terminates far to the
+north with an office.  All along the hall to the west you see
+work cubicles spread out -- area for all the adminstrators to
+play with their paperwork.  There is a nice, carpeted set of
+stairs that leads downwards to the lounge, which looks nice and
+inviting from up here.  Looks like these people here are well-kept!
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6810
+D5
+~
+~
+0 -1 6808
+S
+#6810
+The Hall~
+   Cubicles line this large room to your west, cubicles for the
+staff of this factory.  This is where all the paperwork gets
+done, by people who you think might actually be bred for the
+task. To the south is the end of the hallway with stairs leading
+down, and to the north is more hall and more cubicles, ending
+finally in a largish office.
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6812
+D1
+~
+~
+0 -1 6811
+D2
+~
+~
+0 -1 6809
+S
+#6811
+The Cubicles~
+   Here are all of the work cubicles of the office area: each
+containing a small desk, a chair, and partitions to give each
+person a feeling of _some_ privacy.  You see that most of the
+desks are scattered with papers, forms, and general debris,
+with an odd desk standing out because of its spot-lessness.
+   Overall, it looks like your standard corporate-type working
+area.
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6813
+D3
+~
+~
+0 -1 6810
+S
+#6812
+The Hall~
+   This is the northern end of the hallway.  To the north you
+see a large, open office that seems to be a hub of activity.
+To the south you see the continuation of the hall, and you see
+lots of office cubicles to your west.  People are constantly
+going in and out of the cubicles to the office and back...
+perhaps this office is the office of the head honcho of this
+place?
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6814
+D1
+~
+~
+0 -1 6813
+D2
+~
+~
+0 -1 6810
+S
+#6813
+The Cubicles~
+   These cubicles are larger than the ones to the south.
+Each has a file cabinet in addition to the desk and chair,
+along with other various office trappings.  Also, there
+seems to be an odd device on each that blinks and buzzes
+and that some people seem to be ignoring while others are
+talking and fondling theirs... how odd!
+~
+68 8 0 0 0 0
+D2
+~
+~
+0 -1 6811
+D3
+~
+~
+0 -1 6812
+S
+#6814
+The Main Office~
+   This looks like the work area of a thousand busy secretaries.
+Unfortunately, as usual, the work is done by only one.  Her
+desk is trashed with what-not from a hundred different workers,
+all needing filing, copying, filling-out, mailing, stapling, et
+cetera.
+   To the north you see a large closed door that many people are
+trying to hustle pass the secretary to get into, to the west a
+lavatory area and to the east a storage closet.  A large hall
+that runs the length of the building starts to your south.
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6817
+D1
+~
+~
+0 -1 6815
+D2
+~
+~
+0 -1 6812
+D3
+~
+~
+0 -1 6816
+S
+#6815
+A Closet~
+   This room is simply _stuffed_ with cups, paper, pens, pencils,
+plates, notebooks, pads, staplers, tape, paperclips, erasers, etc,
+etc, etc:  all the trappings that keep a bureaucracy running.  If
+you ever need to open a government, it appears this would be the
+place to raid.  However, being the adventurer that you are, you
+simply take a pen and some Post-It notes and make a mental note to
+come back later.
+~
+68 8 0 0 0 0
+D3
+~
+~
+0 -1 6814
+S
+#6816
+The Lavatory~
+   This is a rather large bathroom, separated into a men's section
+and a women's section by partitioning and some doors.  Overall it
+looks rather clean and spotless, with white tiling and porcelan
+fixtures.  A very nice place.  In fact, you wouldn't mind... um,
+nevermind.
+~
+68 8 0 0 0 0
+D1
+~
+~
+0 -1 6814
+S
+#6817
+A Big Office~
+   This is the office of some bigwig in the Froboz Corporation.
+The room is dominated by a black marble table with many chairs
+around it.  There is marble desk near the window, cleverly
+organized and hardly cluttered at all.  The window looks out
+over an idyllic garden scene that seems very out-of-place near
+this factory.  The room is done in subdued colours, and seems
+like a nice, spacious area.
+~
+68 8 0 0 0 0
+D2
+~
+~
+0 -1 6814
+S
+#6818
+The Employees' Lounge~
+   This ever-so-small room seem to be the floor worker's coat
+room, closet, lunch area, time-clock area, and everything else
+the administration here could stuff into one room without it
+exploding.  Needless to say, it is not a very nice or comfortable
+spot.  This would not be a good place to work you would guess...
+but many of the inhabitants of Midgaard may not have the pleasure
+of choosing a better career option.
+~
+68 12 0 0 0 0
+D0
+~
+~
+0 -1 6819
+D3
+~
+~
+0 -1 6807
+S
+#6819
+The Work Floor~
+   This is a part of the assembly line for Froboz' products.  Here
+you see wands of invisibility being assembled.  Small sticks are 
+placed on the back of a large walking turtle, which trombles past 
+other workers standing in line.  The workers take turns putting  
+the little white tip on one end, inscribing Froboz' name on the
+wand, dousing it with extract of Implementor, and a lot of other
+complicated, technical things you do not understand.  It looks
+fairly busy here, people feverishly doing their job, just to keep
+from being whipped.  How horrible!
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6825
+D1
+~
+~
+0 -1 6820
+D2
+~
+~
+0 -1 6818
+D3
+~
+~
+0 -1 6821
+S
+#6820
+The Work Floor~
+   Here, in the assembly area, Sanctuary Potions are being made.
+A large vat is filled with plaid goo, into which workers are
+emptying bags of powder.  Finally, one worker comes out with
+a really nice glowing breastplate.  He throws it in the vat,
+where it is dissolved almost instantly!  What a waste!
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6826
+D3
+~
+~
+0 -1 6819
+E
+vat~
+It is big.  It is a vat.  It is filled.
+
+
+What else do you want to know?
+~
+S
+#6821
+The Work Floor~
+   Staves of Sleep are being made here.  Long staves are being
+shaved by a pair of odd blue beavers.  Then, they are sanded
+down, and soaked in a mash of mush made from some odd books
+that the workers are tearing up.  The title, from what you can
+see, is '..emistry'.  Evidently, this is the awesome might that
+magically can put people to sleep.
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6824
+D1
+~
+~
+0 -1 6819
+D3
+~
+~
+0 -1 6822
+E
+book~
+Hmm... an introduction to a new magic!  You sit down with the
+book, and awake several hours later, well rested.  Blinking,
+you sit up to find the book is gone.  Oh well.
+~
+S
+#6822
+The Work Floor~
+   Scrolls of Recall!!!  They're everywhere!!!  Just as you begin
+scooping them from a big bin into your bag, you notice that they
+aren't glowing like your standard Recall scrolls do.  Looks like
+they haven't been enchanted yet! *sigh*  Oh well, maybe next time...
+   To your left, you see something odd being done with some homing
+pigeon and a machine that looks like a twisted dream of M.C. Escher,
+and decide that you don't want to know.
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6823
+D1
+~
+~
+0 -1 6821
+E
+machine pigeon~
+No really, you don't want to know.
+~
+S
+#6823
+The Work Floor~
+   Connected to the recall area to the south, this machine
+prints Identify Scrolls.  However, the machine that's printing
+them promptly deposits the finished product into a large iron
+box with a small slit on the side.  The box looks impossible
+to open, even by an angry god!!!  Hmmm, looks like the Froboz
+Fun Factory of Doom is used to having adventurers looking about.
+~
+68 8 0 0 0 0
+D1
+~
+~
+0 -1 6824
+D2
+~
+~
+0 -1 6822
+E
+box~
+Wow! The twin power-mages Black and Decker themselves
+couldn't get into this box if they tried!  This isn't a 
+safe... it is a safer!
+~
+E
+machine~
+Parchment in one end, scrolls out the other.  No moving
+parts that you can see!  Magic!  Ain't it wonderful???
+~
+S
+#6824
+The Work Floor~
+   This appears to be a central area in the factory, with
+ladders leading up and down, and a huge loading/unloading
+area to the north.  All around, huge boxes are being stacked
+for further movement to the wagons waiting outside -- to be
+delivered to all of Froboz's magic shop chains all over the
+planes.
+~
+68 12 0 0 0 0
+D0
+~
+~
+0 -1 6838
+D1
+~
+~
+0 -1 6825
+D2
+~
+~
+0 -1 6821
+D3
+~
+~
+0 -1 6823
+D4
+~
+~
+0 -1 6831
+D5
+~
+~
+0 -1 6827
+S
+#6825
+The Work Floor~
+   This is odd.  Workers here are opening giant wooden crates
+and fishing about hastily in the insides with fishing nets.
+Then, they take the struggling nets and dump them into what
+looks like a huge meat grinder.  On the other end, a yellow
+fluid is being poured into small vials.  You look closer...
+potions that allow one to view the invisible?  Your stomach
+roils as you imagine what may be really going on here...
+~
+68 8 0 0 0 0
+D1
+~
+~
+0 -1 6826
+D2
+~
+~
+0 -1 6819
+D3
+~
+~
+0 -1 6824
+E
+crates crates~
+On the side of the crate, barely legible from scratchmarks and age,
+is the legend:
+
+             'stbusters Inc.  One Type III enclosed.
+             DANGER.
+             This end up.
+
+~
+E
+grinder~
+Looks real disgusting.  Looks real painful.  You are glad you are
+not going anywhere near it, aren't you?
+~
+S
+#6826
+The Work Floor~
+   This area seems to be Froboz's R&D area.  Workers are here
+playing with toys and chemicals trying to find that next big
+product to mass market.  A lot of junk is lying about here,
+and occasionally you hear the boom of someone accidentally
+starting off a chain reaction...
+~
+68 8 0 0 0 0
+D2
+~
+~
+0 -1 6820
+D3
+~
+~
+0 -1 6825
+E
+junk~
+Looks like a lot of odd and ends.  Most appear harmless... it
+would take quite an imagination to create something dangerous
+with these, like a...!!!  Nah, it'll never work.
+~
+S
+#6827
+The Machine Room~
+   This room is far beneath the ground, beneath the scurrying
+busy-ness of the factory above.  This room seems to be a spare
+parts room for all the machines in the factory.  The machine
+room continues to your south and east, and you feel a monstrous
+thrumming from somewhere nearby...
+~
+68 8 0 0 0 0
+D1
+~
+~
+0 -1 6828
+D2
+~
+~
+0 -1 6829
+D4
+~
+~
+0 -1 6824
+S
+#6828
+The Machine Room~
+   Many bits, parts, and pieces of broken machines lie scattered
+on every flat surface in this room.  It looks as if this is the
+machine burial ground for the factory:  just throw it in here
+and forget about it.  There is a powerful vibration coming from
+the south that makes all the loose parts rattle about a bit.
+   There is a large red door to the south with big yellow writing
+on it that you may want to examine closer.
+~
+68 8 0 0 0 0
+D2
+~
+door~
+1 -1 6830
+D3
+~
+~
+0 -1 6827
+E
+door writing~
+The writing on the door is in large yellow print and reads:
+
+            DANGER!!!  DO NOT ENTER!!!
+
+~
+S
+#6829
+The Machine Room~
+   This space in the machine room has been cleared away to
+make a little nest.  There is a nice couch created from
+an old cushion and some old scrap metal welded together,
+which happens to be covered with all sorts of magazines.
+Seems like a nice comfy spot with plenty of places to prop
+your feet up.  However, there is a deep, powerful humming
+coming from the east that sets your teeth on edge.
+   There is a big red door to the east with big yellow writing
+on it.
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6827
+D1
+~
+door~
+1 -1 6830
+E
+magazines~
+These magazines seem to be filled with pictures of woman
+in various clothing crises.  Hmm.
+~
+E
+door writing~
+The writing on the door is in large yellow print and reads:
+
+            DANGER!!!  DO NOT ENTER!!!
+
+~
+S
+#6830
+Welcome To The Machine~
+   This is a big dark room filled with the one huge thrumming
+machine that powers the whole plant.  Gears, pistons and
+everything imaginable shoot out at crazy angles and insane
+velocities, making this room very dangerous.  The thrumming
+in the room makes your head want to pop from the pressure of
+it all!
+~
+68 9 0 0 0 0
+D0
+~
+door north~
+1 -1 6828
+D3
+~
+door west~
+1 -1 6829
+S
+#6831
+The Catwalks~
+   These small walkways above the factory floor enable the foremen
+to keep a careful eye and whip on the poor workers below.  It
+doesn't feel too safe up here, after watching the others up here
+walk, and even run as if normal, you guess that it just takes time
+to get used to the feeling.  Still doesn't seem that sturdy, though.
+~
+68 8 0 0 0 0
+D1
+~
+~
+0 -1 6832
+D2
+~
+~
+0 -1 6834
+D5
+~
+~
+0 -1 6824
+S
+#6832
+The Catwalks~
+   Carefully you edge your way around something slippery that has
+been spilled on the catwalk.  The last thing you want is to fall
+the twenty feet or so down to the work floor below.  That might
+be painful, no?   The catwalks give access above many of the most
+busy areas of the factory for the cruel foremen to oversee their
+charges.  Efficient, yes.  Humanitarian, no.
+~
+68 8 0 0 0 0
+D2
+~
+~
+0 -1 6833
+D3
+~
+~
+0 -1 6831
+S
+#6833
+The Catwalks~
+   While walking along this catwalk above the factory floor, you
+barely duck in time to miss beaning yourself in the head with
+a rafter.  Below, you see the masses of wage-slaves frantically
+doing their jobs while trying not to get fired or beaten.
+Geez!  This place is so gloomy that you'll have to go to Arachnos
+next to cheer yourself up...
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6832
+D3
+~
+~
+0 -1 6834
+S
+#6834
+The Catwalks~
+   The rails here are in ill-repair, and you try to keep exactly
+in the center of the catwalk, just in case.  Doesn't look like
+many foreman come to this section of the walkways, due to the ill
+repair.  Maybe you should leave yourself...
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6831
+D1
+~
+~
+0 -1 6833
+S
+#6835
+The Access Road~
+   This winding accessway heads north around the side of the 
+factory to the dock areas in the back.  The factory doesn't
+look near as imposing or as evil from this angle, but you
+still wouldn't want to work there.  Many heavy  carts and
+wagons slowly make their way up and down this road, wearing
+the ruts in the road even deeper into the earth.
+~
+68 0 0 0 0 1
+D0
+~
+~
+0 -1 6836
+D2
+~
+~
+0 -1 6804
+S
+#6836
+The Access Road~
+   The access road turns east here, to the dock area.  Several
+carts are lined up by the wayside here, awaiting their turn
+to be loaded or unloaded by the factory workers, and then sent
+on their delivery routes.  As you watch, they all slowly move
+up one cart-length, and then the drivers continue their snoozing.
+~
+68 4 0 0 0 1
+D1
+~
+~
+0 -1 6837
+D2
+~
+~
+0 -1 6835
+S
+#6837
+The Dock Area~
+   Carts and flatbed wagons move up here and turn to be loaded
+and unloaded.  The workers quickly swarm up to each vehicle
+and use the ropes and winches attached to the ceiling above to
+remove and load crates on the carts.  Looks a little confusing,
+you are sure you just saw one crate loaded, then unloaded at
+least three times.  Oh well, they are Union... they probably
+know what they are doing...
+~
+68 8 0 0 0 0
+D2
+~
+~
+0 -1 6838
+D3
+~
+~
+0 -1 6836
+S
+#6838
+The Warehouse Room~
+   Crates Everywhere!  Crates are piled up to the very rafters,
+outgoing on one side, incoming on the other.  All have the
+Froboz Corporation logo on the side, as well as the obvious
+legal and magical warnings on the side to discourage theft,
+embezzelment, etc.  Each crate might contain a fortune, or
+absolutely nothing, but from the rumours of Froboz, you decide
+not to find out...
+~
+68 8 0 0 0 0
+D0
+~
+~
+0 -1 6837
+D2
+~
+~
+0 -1 6824
+S
+$~

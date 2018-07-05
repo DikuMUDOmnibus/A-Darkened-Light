@@ -1,0 +1,19 @@
+#14401
+A distraught townsmen~
+A distraught townsmen~
+A distraught townsmen is moping around here, looking for survivors.
+~
+After the battle the towns men formed together to find survivors.
+~
+10249 0 0 0 0 0 0 0 90 E
+40 5 10 3d1+1000 2d2+15
+500 10000000
+8 8 1
+BareHandAttack: 13
+SpecProc: cityguard
+E
+>speech_prog arrives~
+say i can't believe they destroyed everything!
+~
+|
+$

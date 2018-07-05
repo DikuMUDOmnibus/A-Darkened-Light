@@ -1,0 +1,237 @@
+#32
+The Graveyard~
+Rasta of KallistiMUD~
+0 0
+3299 24 2
+*
+*  Written by Rasta (Eric Pilcher) for KallistiMUD
+*  Original Version Debut, March, '93
+*  Public Domain Version, June '96
+*  Email as of June '96:  rasta@peak.org
+*                         epilcher@digital.digiforest.com
+*
+D 0 3204 2 1		Close Chapel door from Outside.
+D 0 3205 0 1		Close Chapel door from Inside.
+*
+D 0 3207 1 1		Close Undertaker's door from Outside.
+D 0 3208 3 1		Close Undertaker's door frim Inside.
+*
+D 0 3226 3 2		Close Tomb from outside.
+D 0 3230 1 2		Close Tomb from inside.
+*
+D 0 3230 3 2		Close Vault inside tomb.
+D 0 3231 2 2		Close Vault from catacombs.
+*
+D 0 3232 1 1		Close black from dark room.
+D 0 3233 3 1		Close black from catacombs.
+*
+D 0 3240 2 1		Close cobweb from catacombs.
+D 0 3241 0 1		Close cobweb from Ancient Tomb.
+*
+D 0 3243 2 1		Close iron door from catacombs.
+D 0 3244 0 1		Close iron door from Chamber of Sorrow.
+*
+D 0 3248 1 2		Close wooden door from catacombs.
+D 0 3249 3 2		Close wooden door from Coffers.
+*
+D 0 3251 1 2		Close golden door from catacombs.
+D 0 3260 3 2		Close golden door from Guardian Chamber.
+*
+D 0 3258 3 2		Close stone door from catacombs.
+D 0 3259 1 2		Close stone door from Ancient Tomb.
+*
+D 0 3261 1 1		Close faint door from Labratory.
+*
+O 0 3203 30 3206	Tombstone on Plot
+O 0 3203 30 3209	Tombstone on Plot
+*
+O 0 3203 30 3210	Tombstone on Plot
+P 1 3052 500 3203		Put Recall Scroll in Grave
+P 1 3052 500 3203		Put Recall Scroll in Grave
+*
+O 0 3203 30 3211	Tombstone on Plot
+O 0 3203 30 3212	Tombstone on Plot
+O 0 3203 30 3213	Tombstone on Plot
+O 0 3203 30 3218	Tombstone on Plot
+O 0 3203 30 3219	Tombstone on Plot
+O 0 3203 30 3220	Tombstone on Plot
+O 0 3203 30 3221	Tombstone on Plot
+*
+O 0 3203 30 3222	Tombstone on Plot
+P 1 5027 2 3203			Put diamond in Grave
+P 1 3204 1 3203			Put ball of string in Grave
+P 1 3205 1 3203			Put pocket knife in Grave
+*
+O 0 3203 30 3223	Tombstone on Plot
+P 1 3226 10 3203		Put coins in grave
+*
+O 0 3203 30 3224	Tombstone on Plot
+P 1 3050 500 3203		Put Identify Scrolls in grave
+P 1 3050 500 3203		Put Identify Scrolls in grave
+P 1 3050 500 3203		Put Identify Scrolls in grave
+P 1 3234 2 3203			Put Rose in Grave
+*
+O 0 3203 30 3225	Tombstone on Plot
+P 1 3256 10 3203		Put no tea in Grave
+*
+O 0 3203 30 3226	Tombstone on Plot
+O 0 3203 30 3227	Tombstone on Plot
+*
+O 0 3203 30 3228	Tombstone on Plot
+P 1 3010 1000 3203		Put bread in grave
+P 1 3010 1000 3203		Put bread in grave
+P 1 3010 1000 3203		Put bread in grave
+P 1 3010 1000 3203		Put bread in grave
+*
+O 0 3203 30 3229	Tombstone on Plot
+O 0 3203 30 3262	Tombstone on Plot
+O 0 3203 30 3263	Tombstone on Plot
+O 0 3203 30 3264	Tombstone on Plot
+O 0 3203 30 3265	Tombstone on Plot
+O 0 3203 30 3266	Tombstone on Plot
+O 0 3203 30 3267	Tombstone on Plot
+O 0 3203 30 3268	Tombstone on Plot
+O 0 3203 30 3269	Tombstone on Plot
+O 0 3203 30 3270	Tombstone on Plot
+O 0 3203 30 3271	Tombstone on Plot
+O 0 3203 30 3272	Tombstone on Plot
+O 0 3203 30 3214	Tombstone on Plot
+*
+O 0 3217 3 3249		Treasure in Coffers
+O 0 3231 2 3208		Crowbar in Shack
+*
+O 0 3207 1 3217		Pile of Corpses
+P 1 3217 2 3207			Put Treasure in Pile
+*
+O 0 3211 1 3244		Place Sarcophagus in Chamber of Tears
+P 1 3214 10 3211		Put Corpse in Sarcophagus
+P 1 3212 10 3214			Put Sword in Corpse 
+P 1 3213 10 3214			Put Plate in Corpse
+*
+M 0 3200 40 3220	Load Zombie
+M 1 3200 40 3220	Load Zombie
+M 1 3200 40 3220	Load Zombie
+M 1 3200 40 3220	Load Zombie
+M 0 3200 40 3223	Load Zombie
+M 1 3200 40 3223	Load Zombie
+M 1 3200 40 3223	Load Zombie
+M 1 3200 40 3223	Load Zombie
+M 0 3200 40 3226	Load Zombie
+M 1 3200 40 3226	Load Zombie
+M 1 3200 40 3226	Load Zombie
+M 1 3200 40 3226	Load Zombie
+M 0 3200 40 3229	Load Zombie
+M 1 3200 40 3229	Load Zombie
+M 1 3200 40 3229	Load Zombie
+M 1 3200 40 3229	Load Zombie
+*
+M 0 3201 10 3209	Load Mourner
+E 1 3216 20  6			Mourner has veil
+M 0 3201 10 3209	Load Mourner
+M 0 3201 10 3209	Load Mourner
+M 0 3201 10 3209	Load Mourner
+*
+M 0 3202 1 3207		Load Undertaker
+E 1 3208 1 16			Wields Shovel
+*
+M 0 3203 1 3205		Load Priest
+E 1 3201 1 3			Wears Cross
+M 0 3204 2 3205		Load Alterboy
+E 1 3200 2 17			Has Candlestick
+M 0 3204 2 3205		Load Alterboy
+E 1 3200 2 17			Has Candlestick
+M 0 3216 4 3205		Load Man
+M 0 3216 4 3205		Load Man
+M 0 3216 4 3205		Load Man
+M 0 3216 4 3205		Load Man
+*
+M 0 3205 7 3216		Load Ghoul
+M 0 3205 7 3216		Load Ghoul
+M 0 3205 7 3216		Load Ghoul
+M 0 3205 7 3216		Load Ghoul
+*
+M 0 3205 7 3217		Load Ghoul
+M 1 3205 7 3217		Load Ghoul
+M 1 3205 7 3217		Load Ghoul
+M 0 3206 1 3217		Load Wight
+G 1 3230 2 			Give Key to Tomb to wight
+E 1 3206 1 16			Wields Thigh Bone
+*
+M 0 3207 20 3233	Load Skeleton Warrior
+E 1 3221 10 16			Wields Rusty
+E 1 3224 10 5			Wears Bone Armor
+M 0 3207 20 3233	Load Skeleton Warrior
+E 1 3221 10 16			Wields Rusty
+E 1 3224 10 5			Wears Bone Armor
+M 0 3207 20 3237	Load Skeleton Warrior
+E 1 3221 10 16			Wields Rusty
+E 1 3224 10 5			Wears Bone Armor
+M 0 3207 20 3237	Load Skeleton Warrior
+E 1 3221 10 16			Wields Rusty
+E 1 3224 10 5			Wears Bone Armor
+M 0 3207 20 3243	Load Skeleton Warrior
+E 1 3221 10 16			Wields Rusty
+E 1 3224 10 5			Wears Bone Armor
+M 0 3207 20 3243	Load Skeleton Warrior
+E 1 3221 10 16			Wields Rusty
+E 1 3224 10 5			Wears Bone Armor
+M 0 3207 20 3247	Load Skeleton Warrior
+E 1 3221 10 16			Wields Rusty
+E 1 3224 10 5			Wears Bone Armor
+M 0 3207 20 3247	Load Skeleton Warrior
+E 1 3221 10 16			Wields Rusty
+E 1 3224 10 5			Wears Bone Armor
+M 0 3207 20 3253	Load Skeleton Warrior
+E 1 3221 10 16			Wields Rusty
+E 1 3224 10 5			Wears Bone Armor
+M 0 3207 20 3253	Load Skeleton Warrior
+E 1 3221 10 16			Wields Rusty
+E 1 3224 10 5			Wears Bone Armor
+*
+M 0 3208 6 3232		Load Shadow
+G 1 3249 2			Shadow has key to coffers
+E 1 3209 1 3			Shadow has cloak
+M 1 3208 6 3232		Load Shadow
+M 1 3208 6 3232		Load Shadow
+M 1 3208 6 3232		Load Shadow
+M 1 3208 6 3232		Load Shadow
+M 1 3208 6 3232		Load Shadow
+*
+M 0 3209 4 3241		Load Mummy
+E 1 3210 1 13			Mummy has wrap
+M 1 3209 4 3241		Load Mummy
+M 1 3209 4 3241		Load Mummy
+M 1 3209 4 3241		Load Mummy
+*
+M 0 3210 1 3244		Load Banshee
+E 1 3244 1 17			has sarcophagus key
+E 1 3215 1 0			has Rose
+*
+M 0 3211 2 3249		Load Spectre
+G 1 3259 2			Has key to Demilich
+M 1 3211 2 3249		Load Spectre
+*
+M 0 3212 1 3259		Load Demilich
+E 1 3260 2 17			has key to death master
+E 1 3218 1 6			has crown
+*
+M 0 3213 3 3260		Load Guardian
+M 1 3213 3 3260		Load Guardian
+M 1 3213 3 3260		Load Guardian
+*
+M 0 3214 1 3261		Load Death Master
+E 1 3219 1 17			holds wand
+E 1 3220 1 16			wields dagger
+E 1 3223 1 12			wears robe
+E 1 3225 1 18			wears mask
+M 0 3215 2 3261		Load Imp
+M 1 3215 2 3261		Load Imp
+*
+M 0 3217 5 3240		Load spider
+M 1 3217 5 3240		Load spider
+M 1 3217 5 3240		Load spider
+M 1 3217 5 3240		Load spider
+M 1 3217 5 3240		Load spider
+*
+S
+$~

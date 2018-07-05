@@ -1,0 +1,532 @@
+AC
+
+"AC" is your armor class.  It is a number from -10 to 10, roughly
+defined as follows:
+
+
+  AC  Roughly equivalent to
+-----------------------------------------------------------
+  10  Naked person
+   0  Very Heavily armored (Plate mail, and "two shields") 
+ -10  Armored battle tank
+
+The score command displays your armor class as a number such as 78/10;
+this means 78 on a scale from -100 to 100 (i.e., 7.8 on the scale from
+-10 to 10.)
+
+*This will be changed in the future*
+
+See also: SCORE
+/* start vampire helpfile */
+#
+BRENNUM
+
+Brennum is the vampires enhancements witch upgrades there body, morphing, 
+and shields. Also enhance's damage and other effects.
+
+Cost [20,000 Research Points] - 
+
+1. Flameshield (Allows player to summon a wall of fire around there body 
+to protect them in combat +2 modifier [dexterity]. [Manual]
+
+2. Push (The vampire can supress there aggression into one violent push 
+heaving an opponnent to a direction.) [Manual] 
+
+3. Nightsight (The vampires eyesight is almost perfect, infact they can 
+see beyond the darkness into hyperspace.) [Manual]
+
+4. Vampin/Vampout (A hereditary power of the vampires allows them to morph
+into there true form, and morph out.) [Manual]
+
+5. ShadowWalk (A common power of the vampire allows the vampire to travel 
+to any victim except immortals) [Manual]
+
+6. Enhanced Damage (Enhancement of the vampire attacks allows 1 to 2 new 
+attacks per round) [Automatic]
+#
+CELERITY
+
+Celerity is accountable for the vampires inner strengths there powers that 
+hinder thru the relation of one master vampire.
+
+Cost [2,000 - Research points per point]
+Powers include:
+
+1. Vfangs (The vampire have natural fangs that hinder from the 3rd and
+5th milkbud of the upper ortho with can be retracted) [Manual]
+
+2. Sensespawn (Allows the nosferatu to sense and detect the repop of areas 
+and monsters)  [Manual]
+
+3. Freezestrike (A nifty power from the vampire allows you to control the 
+tempreture of your opponent while in combat) [Manual]
+
+4. Fog (Allows the vampire to summon a blanket of fog to a room for 
+protection.) [ Only certain classes can evaporate this fog.] [Manual]
+
+5. Talons (Vampires as vicious as they may be are equipped with a claw like 
+talon that extends from the skin of the fingertip.) [Manual]
+
+6. Talontwist (Player executes a divine fighting skill in witch he twists 
+springing his talons into his victim in a slashing motion.) [Manual]
+# 
+SAIYAN
+&W
+The saiyan race was brought unto this planet by mysterious interstellar 
+space travel, after the arrival of Goku, on earth and the domination of 
+Planet Vegita the saiyan race moved on to inheret other planets they 
+stumbled apon earth and found the inhabitence was that of great power.
+&w
+Saiyans learn other variations of skills. along with combinations, and
+ki energy blasts.
+
+Saiyains use &rDiscipline&w for there skill training.
+Usage: discipline.
+
+How to Train: discipline <discipline name> example: discipline kame.
+
+To create combinations, when you get certain skills, like, punch, kick, 
+sidekick. use: alias combo1 sidekick;punch;sidekick;kamehameha.
+
+Saiyains can get equipment from the kai's use &ykiequip&w
+#
+KAME
+
+The kame training stems from the traditions of master roche, this training 
+is far more advanced to martial arts.
+
+This training allows the saiyan to "POWER UP",
+
+usage:
+ 
+      powerup
+      powerup2
+      powerup3
+      powerup4
+      powerup5
+      powerup6
+
+You can alias this to preform a simutaneous actions.
+Usage: alias powerup powerup;powerup2;powerup3;powerup4;powerup5;powerup6
+and it will automatically adjust your skill levels.
+#
+AREAS
+
+AREAS
+
+Here you will find a list of the areas found in Moria, along with
+a basic description of the area's difficulty or level of danger.  For a
+more detailed description of a specific zone, type 'help area <zone name>.
+
+Alodia                (     &yall&w)  The Sewers of Alodia  (     &ylow&w)
+
+
+/* Start Demon helpfiles */
+#
+HYBRID
+
+Hybrid is the forth tradition of the demon world, its power was a catalyst 
+to the underworld.
+
+
+Special Enhancements ------------------>
+
+1. Dragonform, The demon has two polymorphs, to expand and then to obtain 
+the pure form
+of the dragon. You must be expanded to take on this form.
+
+2. SpitVenom, Spitting venom is a special demon skill, it make the other 
+person poisoned.
+
+
+3. Push, Sometimes a demon can get overwealmed because of there evil 
+presence, this allows 
+the demon to push off enemys.
+
+4. Enchant, This allows the demon to enchant a weapon with special magic.
+
+
+5. **
+
+
+6. ***
+
+
+--------------> special player skills from Darkened Lights.
+#
+MITUS
+
+Mitus is a common power representation to the underworld, created by 
+lucifers, first martial artist malitia, Mitus is a combonation of skill 
+and inner power.
+
+--- Enhancements->
+
+    1. Dropkick - dropkick is a highly skilled powered teqnique
+    2. Expand - expand is a demons polymorph.
+    3. 
+    4. 
+    5. 
+    6.
+
+- Special darkened lights codebase.
+#
+DEMON
+
+&WDemons are known to be sly, evil, and down right fiendish.
+They are also known to be able to obtain very powerful abilities. Demons
+are able to create some basic weapons, and use them to their advantages.
+Also, they are able to learn powerful damage attacks, that can basicly
+send an apponent to their grave. Demons have many more different powers
+that can make them invisible, and stop time. Expanding to a larger size
+can only be seen within demons. They are also known to be able to reach
+high speeds of movement, by running fast.&w
+
+Syntax: &rMaster&w <power name>
+See also: HELP DEMPOWERS for additional power information!
+
+Use: &WMaster&w for a list of new powers for demons, or HELP MASTER.
+Use: &WMastery&w for a list of powers you have mastered.
+
+&rEQUIPMENT&w-
+Demons have the ability to create themselves extra durable equipment,
+from lucifer. 
+
+Use: &Wdemoneq&w for a list of demon equipment you can create.
+# 
+RESURECT
+
+Usage: Resurect
+
+In Darkened Lights when a player dies, he does not start all over from the
+begining. While a player is killed by a mob, they are sent to another 
+dimention, where they are forced to quest for gold. Apon completion of 
+the quest it is only then the player resumes his mortal life in the realm.
+
+To see how much gold you need for your level to resume mortality,
+use the HAVELEFT command to reveal the amount needed for the quest,
+and how much left is needed to complete the quest.
+
+Usage: haveleft
+
+SEE ALSO: DEATHS, RESTRICTIONS.
+#
+BOARDS
+
+Bulletin boards are the forum of inter-player communication on the MUD.
+There are different bulletin boards for different purposes -- for example,
+a standard mortal board, a board for immortals, a board for fun "social"
+messages, etc.  Naturally, not all players may be allowed to read all
+types of boards.
+
+Type "LOOK BOARD" to see the messages already posted on a board.  Type
+"WRITE <subject>" to post a message to a board; terminate a message with
+a '@' as the first character on a line.  Type "READ <number>" to read a
+post.  Type "REMOVE <number>" to remove your own messages. Type "REPLY
+<number>" to reply to message.
+
+Example:
+
+  > look at board
+  > write Am I using these boards correctly?
+  [writes the message; terminates with a '@']
+  > look at board
+  > read 6
+  > remove 6
+
+See also: MAIL, READ, WRITE
+#
+EXPERIENCE XP
+
+Whenever you kill a monster or a player, you earn experience points.  When
+enough experience points are earned, you raise a level.
+Things you should know about experience points:
+
+  * When damaging a monster, you get experience points.
+
+  * If you kill a monster of higher level than yourself, you get bonus
+    experience points.  If killing a monster of lower level you'll gain
+    less experience points
+
+  * Exp are not gained by damaging with ranged weapon (bows, explosives...)
+
+See also: GROUP, SCORE
+#
+FLAGS
+
+Players sometimes have FLAGS after their names in the WHO list.  These
+flags are always in parentheses, not brackets or braces.
+
+  FLAG        MEANING
+  ----------- ---------------------------------------------------------
+  (KILLER)    Player is trying to kill other players.  That means you
+              can try to kill him/her without being flagged. Not used.
+  (THIEF)     Player is trying to steal from other players.  Fire away.
+  (invis)     Player is invisible; you can see him/her because you are
+              sensitive to the presence of invisible things.
+  (writing)   Player is writing on the board; do not disturb.
+  (mailing)   Player is writing mail; do not disturb.
+  (deaf)      Player has chosen not to hear shouts.
+  (notell)    Player has chosen not to accept tells.
+  (quest)     Player is participating in a quest currently being run by
+              the Gods.
+
+See also: NOSHOUT, NOTELL, QUEST, STEAL, VISIBLE
+#
+GUILD
+
+The Guildhouse is the place where mortals may go to escape the troubles and
+perils of a cruel world.  Each guild is heavily guarded, so that only members
+may enter the building.  Guilds are also the places where people come to
+learn and practice the skills of their trade.
+
+See also: PRACTICE
+#
+HOUSES
+
+Houses have been implemented as of CircleMUD 3.0.  A house entails two things:
+access control and crash protection.  Only you and your guests will be allowed
+to enter the house.  Your house will be crash-saved every five minutes.  You
+can force your house to save by typing 'save' while standing in your house.
+In the event of a crash, the objects in your house as of the last crash-save
+will be loaded back into your house when the MUD reboots.  Also, if you own
+a house, and quit from the game while standing in your house, you will be
+loaded into your house next time you enter the game.
+
+Guests of your house can be defined using the HOUSE command.  See HOUSE for
+more information.
+
+Houses are an alternative to renting.  You can simply enter your house and
+quit; your objects will drop to the ground and be crash-saved for when you
+return.  There is currently no limit to the number of objects which can be
+stored in your house.  Of course, players must expect to pay a much higher
+premium for the convenience of houses; contact your local Implementor for
+a fee schedule.
+
+See also: HOUSE
+#
+IMPLEMENTOR
+
+The two implementors on A Darkened Light are two good people, who have spent
+and awful lot of time working on the code, and editing the game. They are to
+be treated with respect. The Implementors are involved with every aspect of
+the game. From the server space, in which the game runs on, to the building
+and coding of the world.
+
+Thank You, Mayhem and Donathin.
+
+#
+INN INNS CRYOGENIC CRYO RECEPTION
+
+Inns are places where the weary traveler may rest while the innkeeper looks
+after his equipment and treasure.
+
+Specifically, the game will save your equipment while you are logged out.
+There is a daily cost for renting, based on your equipment.  Each item has
+a per diem charge.  The per diem charge is calculated to the nearest second,
+however -- if you rent at the rate of 2400 coins per day, and you come back
+39 hours later, you will be charged 3900 coins.
+
+A CRYOGENIC CENTER will store your items for a one-time charge of four
+days rent.
+
+Rent files are deleted if you run out of money to pay the per diem charges
+or after 30 days.  Cryogenic-rent files are deleted after 60 days.
+
+The rent costs 1 coin per item per day on this mud.
+
+See also: OFFER, RENT
+#
+LINK
+
+A lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+
+ I. If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you.  If you manage to flee, then you
+    will be saved by divine forces, and put in a safe place until you
+    reconnect to the game.
+
+II. If your link jams (freezes), you have a problem.  The only solution we
+    can give is that you break your link as quickly as possible.  By
+    breaking the link you can hope that the above procedure is initiated.
+
+    Do not try to get out of a fight by breaking link.  You will be not
+    reimbursed for any experience or equipment if you purposefully
+    cut your link.
+#
+MAGE
+
+This is the class of powerful and violent magic, but the magic user do not
+control the nature, and can therefore not bless and such. Although thru 
+rough times the dynasty of the mage is profound, intellegence of the mage 
+is key to there combat.
+
+Mage learns there entire fortunes thru books.
+
+*Use: Book for a list of skills and spells the mage can aquire.
+
+*Also see: Study, to learn how to study and gain knowlege in the spell 
+area.
+
+In addition the Mage has to train for runes, Use: Train runes foran 
+advancement of runes to study your book.
+#
+MANA
+
+Mana is used when casting spells.  You must have a certain amount of mana
+in order to cast any particular spell.  If you do not have enough mana to
+cast the spell you must rest until you gain enough points to cast.
+
+See also: SPELLS
+#
+#
+MORIA MAP WORLD
+
+&WThe Great Map of Moria
+&y----------------------&w
+    ______
+   /      \       ___
+  /  * * * \_____/ * \
+  |_* * * * * * * * * \______            ______     ______
+    \_ * * * * * * * * * * * \      ____/     /     \     \
+      \___* * * * * * * * * * \____/ + + +   /       \     \______    _
+          \  * * * * *(3)* * * + + + +  + +  \       /            \__/ \___
+          |   * * * * * | * * + + + + +  + +  \_____/                      \
+         /     *  *  *  |  * + + + + +  + + +   (1)                        |
+     ___/ |--------|    |  + + + +  + +  + +     |                         /
+    /(2)--+        +----+--------+---------------+------------+            |
+    | |------+                   |                            |            / 
+    \__      |                   |                            |           |
+       \     |                   |          _____             |            \
+        \    |                   |         /     \            +------+      \
+        |    +-------------------+    ____/       \___     ____      |      |
+       /     |            ___    |   /                \___/    \     |      /
+       |(6)--+           /   \   |  /                           \   (5) ___/
+        \_____    ______/     \_(4)/                             \_____/
+              \__/
+
+See also: LEGEND
+#
+NEWBIE START
+
+We all must start somewhare, and if your a newbie and new to the mudding
+environment, well then you start here. Within this game, you will be able
+to obtain equipment, gold, armor, and other precious items that will help
+or destroy you. Also, there are other players that you can interact with, be
+friends with, begin war, or just talk with. You have your own character in
+a large world, and you can do many of things that improve your statis and
+character.
+
+The following is a list of help files that you should peruse. Reading over
+them is highly recommended, and strongly encouraged.
+
+- HELP RACES
+- HELP AREAS
+- HELP GUILDS
+- HELP INNS RECEPTION
+- HELP MORIA/MAP/WORLD
+- HELP NEWBIE/BEGINNER/START
+
+Also, typing help by itself will bring up a very helpfull list of....help.
+
+#
+SHOPS
+
+Shops are places where the adventurer may purchase equipment for his quests,
+and where he may sell his treasure if he should manage to survive the perils
+with his life and sanity intact.  Many shops trade only in a specific type of
+merchandise.  Thus, a baker may well refuse to buy your armor, even if it is
+of high quality!
+
+To some people, the prospect of obtaining the entire inventory of a shop by
+murdering the keeper may appear tempting - but beware: The shopkeepers are 
+often rugged, capable men; roughened by years of trading and, indeed, surviving
+in a world where the only safe prospect is death in the end.
+
+See also: BUY, SELL, LIST, VALUE
+#
+SPELL SPELLS
+
+Use `SPELL [class-name]` to get list of all spells and skills available to
+particular class.
+
+#
+VAMPIRE
+
+Vampires or Nosferatu, have plauged the underworld for centuries, sneaky 
+deceptive, disguisting, but the warrior inside them are immese.
+They are a deadly edition to the CLASSWARS in the bowles of the underworld.
+
+      Vampeq -- vampires have unique class equipment that can be equired 
+                with there research points.
+      Divinity -- divinity is the power attributed to the leathality of 
+                the vampire. (command: divinity expample: [divinity celerity])
+      
+See also: CELERITY, BRENNUM, AFILASE, TUTULA.
+
+#
+CIRCLE CIRCLEMUD CREDITS
+                    C  I  R  C  L  E  M  U  D     3  .  0
+
+CircleMUD was developed from DikuMUD (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+Many, many people contributed to CircleMUD in one way or another throughout
+the course of its development.  Although it's impossible for me to remember
+them all, I'd like to extend special thanks to certain people:
+
+  -- Jeff Fink, for submitting a veritable mountain of excellent code.
+  -- Chris Epler and Chris Herringshaw for extensive beta-testing and bug
+     reporting.
+  -- Furry (Alex Fletcher), for single-handedly managing Circle's world files.
+  -- Fred Merkel, Ryan Watkins, Jay Levino, and Sharon Goza, for other
+     code and area submissions.
+  -- Jean-Jack Riethoven for porting the code to the Amiga, and David Carver
+     for porting it to OS/2.
+  -- Bill Bogstad and Tim Stearns for allowing Circle to exist at JHU.
+  -- The DikuMUD folk, and the good old WhatMUD implementors Dave & Justin,
+     for starting the ball rolling.
+  -- Bryan Jolson, Steven Lacher, Cat Stanton, and Naved Surve, for being 
+     there in the very early days of Circle's development.
+  -- And, of course, Sharon, Ben, Erica, Aly, and Josh, for keeping me sane.
+ 
+...plus everyone else in the Circle community who has submitted material!
+Thanks everyone!
+
+  Anonymous FTP:  ftp.cs.jhu.edu:pub/CircleMUD
+ To report bugs:  bugs@circlemud.org
+    To get help:  help@circlemud.org
+            URL:  http://www.cs.jhu.edu/~jelson/circle.html
+   Mailing List:  listserv@post.queensu.ca
+                  (write "subscribe circle <first name> <last name>")
+ --Jeremy Elson (jelson@circlemud.org)
+ 
+   -- This version of Circlemud is entitled CircleWARS, Darkened lights 
+edition, Modified by Mike Ryan aka Mayhem implementor and coder of 
+Darkened Lights.
+#
+CLASSES
+
+  There are 4 types of classes in DarkenedLightsMUD:
+
+	 1. Vampire
+	 2. Demon
+	 3. Ninja
+	 4. Wizard
+	 
+         In the making: Werewolf, Jedi, Orge, Cyborg.
+
+See Also: NINJA, VAMPIRE, DEMON, WIZARD
+#
+PLAYERKILLING
+
+ In Darkened Lights a player has a certain amount of player kills required 
+to obtain a new set of levels. 
+You can assert you pkill level by checking your amount of pkills in your 
+score information.
+
+#
+$
